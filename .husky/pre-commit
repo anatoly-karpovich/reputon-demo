@@ -1,0 +1,5 @@
+npm test
+#!/bin/sh
+. "$(dirname "$0")/husky.sh"
+
+npm run format:fix
