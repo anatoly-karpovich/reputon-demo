@@ -16,7 +16,7 @@ export default [
   {
     plugins: { prettier: prettierPlugin },
     rules: {
-      "prettier/prettier": ["error", { endOfLine: "auto" }],
+      "prettier/prettier": ["error", { endOfLine: "auto", printWidth: 120 }],
       "@typescript-eslint/no-unused-expressions": "off",
       // "max-len": ["off", { code: 120 }],
       // '@typescript-eslint/no-explicit-any': 'off',
@@ -29,6 +29,8 @@ export default [
       "playwright-report/**",
       "husky/**",
       "test-results/**",
+      "eslint.config.mjs",
+      ".prettierrc.js",
     ],
   },
 ];
