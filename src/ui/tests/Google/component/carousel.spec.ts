@@ -118,16 +118,19 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
       await googleDemoPage.open();
       const { authorName: name } = mock.business[0].reviews[4];
-      await expect(widget.cardByReviewer(name), `Verify that card for ${name} is not in viewport`).not.toBeInViewport();
+      await expect(
+        widget.cardByReviewer(name),
+        `Verify that card for "${name}" is not in viewport`,
+      ).not.toBeInViewport();
       await widget.nextButton.click();
       await expect(
         widget.cardByReviewer(name),
-        `Verify that card for ${name} is in viewport after clicking next button`,
+        `Verify that card for "${name}" is in viewport after clicking next button`,
       ).toBeInViewport();
       const { authorName: hiddenName } = mock.business[0].reviews[0];
       await expect(
         widget.cardByReviewer(hiddenName),
-        `Verify that card for ${hiddenName} is not in viewport after clicking next button`,
+        `Verify that card for "${hiddenName}" is not in viewport after clicking next button`,
       ).not.toBeInViewport();
     },
   );
@@ -142,16 +145,16 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
       await googleDemoPage.open();
       const { authorName: name } = mock.business[0].reviews[4];
-      await expect(widget.cardByReviewer(name), `Verify that card for ${name} is in viewport`).not.toBeInViewport();
+      await expect(widget.cardByReviewer(name), `Verify that card for "${name}" is in viewport`).not.toBeInViewport();
       await widget.previousButton.click();
       await expect(
         widget.cardByReviewer(name),
-        `Verify that card for ${name} is in viewport after clicking previous button`,
+        `Verify that card for "${name}" is in viewport after clicking previous button`,
       ).toBeInViewport();
       const { authorName: hiddenName } = mock.business[0].reviews[3];
       await expect(
         widget.cardByReviewer(hiddenName),
-        `Verify that card for ${hiddenName} is not in viewport after clicking previous button`,
+        `Verify that card for "${hiddenName}" is not in viewport after clicking previous button`,
       ).not.toBeInViewport();
     },
   );
@@ -168,15 +171,18 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
       await googleDemoPage.open();
       const { authorName: hiddenName } = mock.business[0].reviews[3];
       const { authorName: name } = mock.business[0].reviews[4];
-      await expect(widget.cardByReviewer(name), `Verify that card for ${name} is not in viewport`).not.toBeInViewport();
+      await expect(
+        widget.cardByReviewer(name),
+        `Verify that card for "${name}" is not in viewport`,
+      ).not.toBeInViewport();
       await widget.swipeElement(widget.cardByReviewer(hiddenName), "right");
       await expect(
         widget.cardByReviewer(name),
-        `Verify that card for ${name} is in viewport after swiping to right`,
+        `Verify that card for "${name}" is in viewport after swiping to right`,
       ).toBeInViewport();
       await expect(
         widget.cardByReviewer(hiddenName),
-        `Verify that card for ${hiddenName} is not in viewport after swiping to right`,
+        `Verify that card for "${hiddenName}" is not in viewport after swiping to right`,
       ).not.toBeInViewport();
     },
   );
@@ -194,15 +200,15 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
       const { authorName: name } = mock.business[0].reviews[4];
       const { authorName: hiddenName } = mock.business[0].reviews[0];
-      await expect(widget.cardByReviewer(name), `Verify that card for ${name} is in viewport`).not.toBeInViewport();
+      await expect(widget.cardByReviewer(name), `Verify that card for "${name}" is in viewport`).not.toBeInViewport();
       await widget.swipeElement(widget.cardByReviewer(mock.business[0].reviews[2].authorName), "left");
       await expect(
         widget.cardByReviewer(name),
-        `Verify that card for ${name} is in viewport after swiping to right`,
+        `Verify that card for "${name}" is in viewport after swiping to right`,
       ).toBeInViewport();
       await expect(
         widget.cardByReviewer(hiddenName),
-        `Verify that card for ${hiddenName} is not in viewport after swiping to right`,
+        `Verify that card for "${hiddenName}" is not in viewport after swiping to right`,
       ).not.toBeInViewport();
     },
   );

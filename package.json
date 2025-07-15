@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "test:ui": "npx playwright test --project=google-reviews",
+    "test:component": "npx playwright test --project=google-reviews --grep @component",
+    "test:integration": "npx playwright test --project=google-reviews --grep @integration",
+    "report-html-open": "npx playwright show-report",
+    "allure-report": "allure generate allure-results -o allure-report --clean",
+    "allure-report-open": "npm run allure-report && allure open allure-report",
     "ui-mode": "npx playwright test --ui",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",

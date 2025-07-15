@@ -29,8 +29,10 @@ export default [
       "playwright-report/**",
       "husky/**",
       "test-results/**",
+      "allure-results",
+      "allure-report",
       "eslint.config.mjs",
-      ".prettierrc.js",
+      ".prettierrc",
     ],
   },
 ];
