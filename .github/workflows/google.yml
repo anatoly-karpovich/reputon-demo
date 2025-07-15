@@ -9,9 +9,11 @@ jobs:
       image: mcr.microsoft.com/playwright:v1.54.0-noble
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: lts/*
+      - name: Install OpenJDK
+        run: |
+          apt-get update
+          apt-get install -y openjdk-17-jre
+          echo "JAVA_HOME=$(dirname $(dirname $(readlink -f $(which java))))" >> $GITHUB_ENV
 
       # Install dependencies
       - name: Install dependencies
