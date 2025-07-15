@@ -8,6 +8,7 @@
     "lint:fix": "eslint . --fix",
     "prettier": "prettier --check .",
     "prettier:fix": "prettier --write .",
+    "format": "npm run prettier && npm run lint",
     "format:fix": "npm run prettier:fix && npm run lint:fix",
     "prepare": "husky"
   },
