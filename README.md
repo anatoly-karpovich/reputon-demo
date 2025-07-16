@@ -66,7 +66,7 @@ npm run notify
 
 ```bash
 npm run allure-report
-npm allure-report-open
+npm run allure-report-open
 ```
 
 ---
