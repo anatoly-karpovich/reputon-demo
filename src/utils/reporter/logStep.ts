@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { test } from "@playwright/test";
 
 export function logStep<This, Args extends any[], Return>(message?: string) {

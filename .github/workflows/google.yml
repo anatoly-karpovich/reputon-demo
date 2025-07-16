@@ -9,6 +9,11 @@ jobs:
       image: mcr.microsoft.com/playwright:v1.54.0-noble
     steps:
       - uses: actions/checkout@v4
+      - name: Install OpenJDK
+        run: |
+          apt-get update
+          apt-get install -y openjdk-17-jre
+          echo "JAVA_HOME=$(dirname $(dirname $(readlink -f $(which java))))" >> $GITHUB_ENV
 
       # Install dependencies
       - name: Install dependencies
@@ -18,6 +23,14 @@ jobs:
       - name: Run Google Demo UI tests
         run: npm run test:ui
         continue-on-error: true
+
+      # Send Telegram notification
+      - name: Send Telegram notification
+        if: always()
+        run: npm run notify
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
       # Create Allure report
       - name: Create Allure report

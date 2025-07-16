@@ -18,6 +18,7 @@ export default [
     rules: {
       "prettier/prettier": ["error", { endOfLine: "auto", printWidth: 120 }],
       "@typescript-eslint/no-unused-expressions": "off",
+      "@typescript-eslint/no-explicit-any": "off",
     },
   },
   {

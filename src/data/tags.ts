@@ -1,14 +1,23 @@
 export enum TAGS {
   DESKTOP = "@desktop",
   MOBILE = "@mobile",
-  UI = "@ui",
+  BUG = "@bug",
+  FLACKY = "@flaky",
+}
+
+export enum TEST_TYPES {
   API = "@api",
-  GOOGLE = "@google",
+  UI = "@ui",
+}
+
+export enum PROJECTS {
+  GOOGLE = "@google_reviews",
+}
+
+export enum TEST_LEVELS {
   COMPONENT = "@component",
   INTEGRATION = "@integration",
   E2E = "@e2e",
-  BUG = "@bug",
-  FLACKY = "@flaky",
 }
 
 export enum GOOGLE_TAGS {
