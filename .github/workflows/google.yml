@@ -21,7 +21,7 @@ jobs:
 
       # Run Playwright UI tests
       - name: Run Google Demo UI tests
-        run: npm run test:ui
+        run: (npm run test:ui || true) && npm run notify
         continue-on-error: true
 
       # Create Allure report

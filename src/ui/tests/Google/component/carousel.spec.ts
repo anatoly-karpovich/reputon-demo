@@ -1,11 +1,11 @@
 import { GoogleMockBuilder } from "data/google-review/googleMockBuilder";
-import { GOOGLE_TAGS, TAGS } from "data/tags";
+import { GOOGLE_TAGS, PROJECTS, TEST_LEVELS, TEST_TYPES } from "data/tags";
 import { test, expect } from "fixtures";
 
 test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
   test(
     "Should see correct layout",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleDemoPage }) => {
       const widget = googleDemoPage.carouselWidget;
 
@@ -31,7 +31,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct data in AI review card",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleDemoPage, googleMock }) => {
       const widget = googleDemoPage.carouselWidget;
       const mock = new GoogleMockBuilder().addSavedBusiness().setAISummary().setReviewsCount(5).build();
@@ -52,7 +52,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct data in regular review card",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleDemoPage, googleDemoShopPageService, googleMock }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().addReview().build();
       await googleMock.demoShop(mock);
@@ -71,7 +71,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card data with no text and no images",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoShopPageService }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().addReview(0, { text: false, images: 0 }).build();
       await googleMock.demoShop(mock);
@@ -84,7 +84,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card data with text and no images",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoShopPageService }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().addReview(0, { text: true, images: 0 }).build();
       await googleMock.demoShop(mock);
@@ -97,7 +97,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card data with no text and 1 image",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoShopPageService }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().addReview(0, { text: false, images: 1 }).build();
       await googleMock.demoShop(mock);
@@ -110,7 +110,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card after clicking next button",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoPage }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(5).build();
       await googleMock.demoShop(mock);
@@ -137,7 +137,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card after clicking previous button",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoPage }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(5).build();
       await googleMock.demoShop(mock);
@@ -161,7 +161,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card after swiping to right",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoPage }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(5).build();
       await googleMock.demoShop(mock);
@@ -189,7 +189,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card after swiping to left",
-    { tag: [TAGS.UI, TAGS.COMPONENT, TAGS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoPage }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(5).build();
       await googleMock.demoShop(mock);
