@@ -21,8 +21,16 @@ jobs:
 
       # Run Playwright UI tests
       - name: Run Google Demo UI tests
-        run: (npm run test:ui || true) && npm run notify
+        run: npm run test:ui
         continue-on-error: true
+
+      # Send Telegram notification
+      - name: Send Telegram notification
+        if: always()
+        run: npm run notify
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
       # Create Allure report
       - name: Create Allure report
