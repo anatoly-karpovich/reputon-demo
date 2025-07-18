@@ -22,7 +22,10 @@ export class TelegramNotification {
   }
 
   generateStatisticsMessage(
-    projects: string | string[],
+    meta: {
+      applications: string[];
+      projectName: string;
+    },
     stats: {
       passed: number;
       failed: number;
@@ -33,8 +36,9 @@ export class TelegramNotification {
     },
   ) {
     const messageParts = [
-      `<b>🏁 Playwright Test Run Summary</b>\n`,
-      `<b>⚙️ Projects:</b> ${typeof projects === "string" ? projects : projects.join(", ")}\n`,
+      `🏁 <b>Playwright Test Run Summary</b>\n`,
+      `📂 <b>Project:</b> <i><u>${meta.projectName}</u></i>`,
+      `⚙️ <b>Applications:</b> <i><u>${meta.applications.join(", ")}</u></i>\n`,
       `📊 <b>Total:</b> ${stats.total}`,
       `✅ <b>Passed:</b> ${stats.passed}`,
       `❌ <b>Failed:</b> ${stats.failed}`,

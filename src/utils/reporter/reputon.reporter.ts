@@ -1,19 +1,20 @@
 import type { Reporter, TestCase, TestResult } from "@playwright/test/reporter";
-import { PROJECTS, TEST_LEVELS, TEST_TYPES } from "data/tags";
+import { APPLICATIONS, TEST_LEVELS, TEST_TYPES } from "data/tags";
 import * as fs from "fs/promises";
 import * as path from "path";
 
-type TestMeta = {
+export interface TestMeta {
   suiteTitle: string;
   testTitle: string;
+  projectName: string;
   status: TestResult["status"];
   duration: number;
   tags: string[];
-  project: string;
+  application: string;
   testType: string;
   testLevel: string;
   retry: number;
-};
+}
 
 class ReputonReporter implements Reporter {
   private finalResults = new Map<string, TestMeta>();
@@ -23,12 +24,12 @@ class ReputonReporter implements Reporter {
   }
 
   onTestEnd(test: TestCase, result: TestResult) {
-    const suiteTitle = test.parent?.title || "Global";
+    const suiteTitle = test.parent?.title || "Untitled Suite";
     const testTitle = test.title;
     const testId = this.getFullTestId(suiteTitle, testTitle);
-
+    const projectName = test.parent.project()!.name ?? "Custom";
     const tags = test.tags;
-    const project = tags.find((tag) => Object.values(PROJECTS).includes(tag as PROJECTS)) || "";
+    const application = tags.find((tag) => Object.values(APPLICATIONS).includes(tag as APPLICATIONS)) || "";
     const testType = tags.find((tag) => Object.values(TEST_TYPES).includes(tag as TEST_TYPES)) || "";
     const testLevel = tags.find((tag) => Object.values(TEST_LEVELS).includes(tag as TEST_LEVELS)) || "";
 
@@ -38,7 +39,8 @@ class ReputonReporter implements Reporter {
       status: result.status,
       duration: result.duration,
       tags,
-      project,
+      projectName,
+      application,
       testType,
       testLevel,
       retry: result.retry,

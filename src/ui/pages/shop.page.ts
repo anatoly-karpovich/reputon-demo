@@ -1,12 +1,12 @@
-import { expect, Locator } from "@playwright/test";
+import test, { expect, Locator } from "@playwright/test";
 import { BasePage } from "./base.page";
-import { logStep } from "utils/reporter/logStep";
 
 export abstract class ShopPage extends BasePage {
   abstract uniqueElement: Locator;
 
-  @logStep("Waiting for page to open")
   async waitForOpened() {
-    await expect(this.uniqueElement).toBeVisible();
+    test.step(`Wait for "${this.constructor.name}" to be opened`, async () => {
+      await expect(this.uniqueElement).toBeVisible();
+    });
   }
 }

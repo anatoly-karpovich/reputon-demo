@@ -22,17 +22,17 @@ export class GoogleDemoShopUIService extends BaseUIService {
     comment?: string;
     imagesCount: number;
   }) {
-    await expect.soft(this.shopPage.carouselWidget.cardName(name), "Should see correct card name").toHaveText(name);
-    await expect.soft(this.shopPage.carouselWidget.cardDate(name), "Should see correct card date").toHaveText(date);
-    await expect
-      .soft(this.shopPage.carouselWidget.cardImages(name), "Should see correct card images")
-      .toHaveCount(imagesCount);
-    if (comment) {
-      await expect
-        .soft(this.shopPage.carouselWidget.cardText(name), "Should see correct card comment")
-        .toHaveText(comment);
-    } else {
-      await expect.soft(this.shopPage.carouselWidget.cardText(name), "Should not see card comment").not.toBeVisible();
-    }
+    await Promise.all([
+      expect.soft(this.shopPage.carouselWidget.cardName(name), "Should see correct card name").toHaveText(name),
+      expect.soft(this.shopPage.carouselWidget.cardDate(name), "Should see correct card date").toHaveText(date),
+      expect
+        .soft(this.shopPage.carouselWidget.cardImages(name), "Should see correct card images")
+        .toHaveCount(imagesCount),
+      comment
+        ? expect
+            .soft(this.shopPage.carouselWidget.cardText(name), "Should see correct card comment")
+            .toHaveText(comment)
+        : expect.soft(this.shopPage.carouselWidget.cardText(name), "Should not see card comment").not.toBeVisible(),
+    ]);
   }
 }

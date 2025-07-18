@@ -2,15 +2,9 @@ import fs from "fs/promises";
 import path from "path";
 import { TelegramNotification } from "../utils/notifications/telegram";
 import dotenv from "dotenv";
+import { TestMeta } from "../utils/reporter/reputon.reporter";
 
 dotenv.config();
-interface TestResult {
-  title: string;
-  status: "passed" | "failed" | "skipped" | "timedOut" | "interrupted" | string;
-  project: string;
-  suite: string;
-  tags: string[];
-}
 
 const summaryPath = path.resolve("playwright-report/final-summary.json");
 
@@ -18,7 +12,7 @@ async function main() {
   console.log("📦 Preparing report for Telegram...");
   try {
     const raw = await fs.readFile(summaryPath, "utf-8");
-    const results: TestResult[] = JSON.parse(raw);
+    const results: TestMeta[] = JSON.parse(raw);
 
     const stats = results.reduce(
       (acc, result) => {
@@ -40,20 +34,20 @@ async function main() {
       },
     );
 
-    const projects = [
+    const applications = [
       ...results.reduce((acc, result) => {
-        result.project && acc.add(result.project.replace("@", "").toUpperCase());
+        result.application && acc.add(result.application.replace("@", "").toUpperCase());
         return acc;
       }, new Set<string>()),
     ];
+    const projectName = results.at(-1)!.projectName;
 
     const telegram = new TelegramNotification();
-    const message = telegram.generateStatisticsMessage(projects, stats);
+    const message = telegram.generateStatisticsMessage({ applications, projectName }, stats);
     await telegram.sendMessage(message);
     console.log("✅ Report successfully sent to Telegram 🎉");
   } catch (err: any) {
-    // console.error("❌ Failed to send test notification:", err.message);
-    console.error("❌ Failed to send test notification:", err.message + 1);
+    console.error("❌ Failed to send test notification:", err.message);
     process.exit(1);
   }
 }

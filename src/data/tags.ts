@@ -1,8 +1,6 @@
 export enum TAGS {
-  DESKTOP = "@desktop",
-  MOBILE = "@mobile",
   BUG = "@bug",
-  FLACKY = "@flaky",
+  FLAKY = "@flaky",
 }
 
 export enum TEST_TYPES {
@@ -10,7 +8,7 @@ export enum TEST_TYPES {
   UI = "@ui",
 }
 
-export enum PROJECTS {
+export enum APPLICATIONS {
   GOOGLE = "@google_reviews",
 }
 

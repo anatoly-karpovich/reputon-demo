@@ -1,6 +1,6 @@
 import { faker } from "@faker-js/faker";
 import { IBusiness, IGenerateReviewOptions, IGoogleHomeData, IReview } from "./google.types";
-import { arboforMock, mcDonaldsMock } from "./home.mock";
+import { arboforMock, mcDonaldsMock } from "./demo.mock";
 import { localizaionData } from "./localization";
 import { getRandomKey } from "utils/object/getRandomKey";
 

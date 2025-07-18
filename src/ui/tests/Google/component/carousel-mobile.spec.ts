@@ -1,15 +1,21 @@
 import { GoogleMockBuilder } from "data/google-review/googleMockBuilder";
-import { GOOGLE_TAGS, PROJECTS, TEST_LEVELS, TEST_TYPES } from "data/tags";
+import { GOOGLE_TAGS, APPLICATIONS, TEST_LEVELS, TEST_TYPES } from "data/tags";
 import { test, expect } from "fixtures";
 
-test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
+test.describe("[UI] [Google] [Demo Shop] [Carousel Widget] [Mobile]", async () => {
   test(
     "Should see correct layout",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
-    async ({ googleDemoPage }) => {
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    async ({ googleDemoPage, googleDemoShopPageService }) => {
       const widget = googleDemoPage.carouselWidget;
 
       await googleDemoPage.open();
+      await googleDemoPage.carouselWidget.clickViewButton("Mobile");
+
+      await googleDemoShopPageService.checkElementsInViewport([googleDemoPage.carouselWidget.activeCard]);
+      const inactiveElements = await googleDemoPage.carouselWidget.inactiveCard.all();
+      await googleDemoShopPageService.checkElementsInViewport(inactiveElements, false);
+
       await expect.soft(widget.header, "Verify header is visible").toBeVisible();
       expect.soft(await widget.getHeader(), "Verify header text").toBe("Carousel widget");
       await expect
@@ -24,14 +30,14 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
       await expect.soft(widget.desktopButton, "Verify View Desctop button have correct text").toHaveText("Desktop");
       await expect.soft(widget.mobileButton, "Verify View Mobile button have correct text").toHaveText("Mobile");
       expect
-        .soft(await widget.isElementActive(widget.desktopButton), "Verify View Desktop button is active")
+        .soft(await widget.isElementActive(widget.mobileButton), "Verify View Desktop button is active")
         .toBeTruthy();
     },
   );
 
   test(
     "Should see correct data in AI review card",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleDemoPage, googleMock }) => {
       const widget = googleDemoPage.carouselWidget;
       const mock = new GoogleMockBuilder().addSavedBusiness().setAISummary().setReviewsCount(5).build();
@@ -43,6 +49,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
         date: `${mock.localization.based_on} ${mock.business[0].reviews.length} ${mock.localization.reviews}`,
       };
       await googleDemoPage.open();
+      await widget.clickViewButton("Mobile");
       await expect.soft(widget.aiCardName, "Verify AI card name").toHaveText(expectedData.name);
       await expect.soft(widget.aiCardDate, "Verify AI card date").toHaveText(expectedData.date);
       await expect.soft(widget.aiCardText, "Verify AI card comment").toHaveText(expectedData.comment);
@@ -52,7 +59,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct data in regular review card",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleDemoPage, googleDemoShopPageService, googleMock }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().addReview().build();
       await googleMock.demoShop(mock);
@@ -60,6 +67,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
       const { authorName: name, relativeTimeDescription: date, text: comment, images } = mock.business[0].reviews[0];
 
       await googleDemoPage.open();
+      await googleDemoPage.carouselWidget.clickViewButton("Mobile");
       await googleDemoShopPageService.verifyCarouselCardData({
         name,
         date,
@@ -71,12 +79,13 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card data with no text and no images",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
-    async ({ googleMock, googleDemoShopPageService }) => {
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    async ({ googleMock, googleDemoShopPageService, googleDemoPage }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().addReview(0, { text: false, images: 0 }).build();
       await googleMock.demoShop(mock);
 
-      await googleDemoShopPageService.open();
+      await googleDemoPage.open();
+      await googleDemoPage.carouselWidget.clickViewButton("Mobile");
       const { authorName: name, relativeTimeDescription: date } = mock.business[0].reviews[0];
       await googleDemoShopPageService.verifyCarouselCardData({ name, date, imagesCount: 0 });
     },
@@ -84,12 +93,13 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card data with text and no images",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
-    async ({ googleMock, googleDemoShopPageService }) => {
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    async ({ googleMock, googleDemoShopPageService, googleDemoPage }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().addReview(0, { text: true, images: 0 }).build();
       await googleMock.demoShop(mock);
 
-      await googleDemoShopPageService.open();
+      await googleDemoPage.open();
+      await googleDemoPage.carouselWidget.clickViewButton("Mobile");
       const { authorName: name, relativeTimeDescription: date, text: comment } = mock.business[0].reviews[0];
       await googleDemoShopPageService.verifyCarouselCardData({ name, date, comment, imagesCount: 0 });
     },
@@ -97,12 +107,13 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card data with no text and 1 image",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
-    async ({ googleMock, googleDemoShopPageService }) => {
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    async ({ googleMock, googleDemoShopPageService, googleDemoPage }) => {
       const mock = new GoogleMockBuilder().addSavedBusiness().addReview(0, { text: false, images: 1 }).build();
       await googleMock.demoShop(mock);
 
-      await googleDemoShopPageService.open();
+      await googleDemoPage.open();
+      await googleDemoPage.carouselWidget.clickViewButton("Mobile");
       const { authorName: name, relativeTimeDescription: date } = mock.business[0].reviews[0];
       await googleDemoShopPageService.verifyCarouselCardData({ name, date, imagesCount: 1 });
     },
@@ -110,14 +121,15 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card after clicking next button",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoPage }) => {
-      const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(5).build();
+      const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(2).build();
       await googleMock.demoShop(mock);
       const widget = googleDemoPage.carouselWidget;
 
       await googleDemoPage.open();
-      const { authorName: name } = mock.business[0].reviews[4];
+      await widget.clickViewButton("Mobile");
+      const { authorName: name } = mock.business[0].reviews[1];
       await expect(
         widget.cardByReviewer(name),
         `Verify that card for "${name}" is not in viewport`,
@@ -137,21 +149,22 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card after clicking previous button",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoPage }) => {
-      const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(5).build();
+      const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(2).build();
       await googleMock.demoShop(mock);
       const widget = googleDemoPage.carouselWidget;
 
       await googleDemoPage.open();
-      const { authorName: name } = mock.business[0].reviews[4];
+      await widget.clickViewButton("Mobile");
+      const { authorName: name } = mock.business[0].reviews[1];
       await expect(widget.cardByReviewer(name), `Verify that card for "${name}" is in viewport`).not.toBeInViewport();
       await widget.previousButton.click();
       await expect(
         widget.cardByReviewer(name),
         `Verify that card for "${name}" is in viewport after clicking previous button`,
       ).toBeInViewport();
-      const { authorName: hiddenName } = mock.business[0].reviews[3];
+      const { authorName: hiddenName } = mock.business[0].reviews[0];
       await expect(
         widget.cardByReviewer(hiddenName),
         `Verify that card for "${hiddenName}" is not in viewport after clicking previous button`,
@@ -161,16 +174,17 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card after swiping to right",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoPage }) => {
-      const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(5).build();
+      const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(2).build();
       await googleMock.demoShop(mock);
 
       const widget = googleDemoPage.carouselWidget;
 
       await googleDemoPage.open();
-      const { authorName: hiddenName } = mock.business[0].reviews[3];
-      const { authorName: name } = mock.business[0].reviews[4];
+      await widget.clickViewButton("Mobile");
+      const { authorName: hiddenName } = mock.business[0].reviews[0];
+      const { authorName: name } = mock.business[0].reviews[1];
       await expect(
         widget.cardByReviewer(name),
         `Verify that card for "${name}" is not in viewport`,
@@ -189,19 +203,20 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget]", async () => {
 
   test(
     "Should see correct card after swiping to left",
-    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, PROJECTS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
+    { tag: [TEST_TYPES.UI, TEST_LEVELS.COMPONENT, APPLICATIONS.GOOGLE, GOOGLE_TAGS.CAROUSEL] },
     async ({ googleMock, googleDemoPage }) => {
-      const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(5).build();
+      const mock = new GoogleMockBuilder().addSavedBusiness().setReviewsCount(2).build();
       await googleMock.demoShop(mock);
 
       const widget = googleDemoPage.carouselWidget;
 
       await googleDemoPage.open();
+      await widget.clickViewButton("Mobile");
 
-      const { authorName: name } = mock.business[0].reviews[4];
+      const { authorName: name } = mock.business[0].reviews[1];
       const { authorName: hiddenName } = mock.business[0].reviews[0];
       await expect(widget.cardByReviewer(name), `Verify that card for "${name}" is in viewport`).not.toBeInViewport();
-      await widget.swipeElement(widget.cardByReviewer(mock.business[0].reviews[2].authorName), "left");
+      await widget.swipeElement(widget.cardByReviewer(hiddenName), "left");
       await expect(
         widget.cardByReviewer(name),
         `Verify that card for "${name}" is in viewport after swiping to right`,

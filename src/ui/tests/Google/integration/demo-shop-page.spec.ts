@@ -1,11 +1,11 @@
 import { STATUS_CODES } from "data/api/statusCodes";
 import { GoogleMockBuilder } from "data/google-review/googleMockBuilder";
-import { PROJECTS, TEST_LEVELS, TEST_TYPES } from "data/tags";
+import { APPLICATIONS, TEST_LEVELS, TEST_TYPES } from "data/tags";
 import { test, expect } from "fixtures";
 
 test.describe(
   "[UI] [Google] [Demo Shop] [Invalid API response]",
-  { tag: [TEST_TYPES.UI, TEST_LEVELS.INTEGRATION, PROJECTS.GOOGLE] },
+  { tag: [TEST_TYPES.UI, TEST_LEVELS.INTEGRATION, APPLICATIONS.GOOGLE] },
   async () => {
     const statuses = [STATUS_CODES.INTERNAL_SERVER_ERROR, STATUS_CODES.NOT_FOUND];
     for (const status of statuses) {

@@ -32,6 +32,7 @@ export default [
       "allure-report",
       "eslint.config.mjs",
       ".prettierrc",
+      "test-results/",
     ],
   },
 ];

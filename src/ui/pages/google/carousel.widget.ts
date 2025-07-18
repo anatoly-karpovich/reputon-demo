@@ -4,7 +4,7 @@ export class GoogleCarouselWidget extends GoogleWidget {
   readonly descritionSection = this.page.locator("section.shopify-section").nth(0);
   readonly header = this.descritionSection.locator("h2");
   readonly description = this.descritionSection.locator("p");
-  readonly contentSection = this.page.locator("section").nth(1);
+  readonly contentSection = this.page.locator("section.shopify-section").nth(1);
   readonly reviewsContainer = this.contentSection.locator(".reputon-carousel");
   readonly desktopButton = this.contentSection.locator(`button[data-type="desktop"]`);
   readonly mobileButton = this.contentSection.locator(`button[data-type="mobile"]`);
@@ -14,6 +14,11 @@ export class GoogleCarouselWidget extends GoogleWidget {
   //swiper
   readonly nextButton = this.contentSection.locator(".reputon-swiper-button-next:visible");
   readonly previousButton = this.contentSection.locator(".reputon-swiper-button-prev:visible");
+
+  readonly cardContainer = this.contentSection.locator(".swiper-slide");
+  readonly activeCard = this.contentSection.locator("div.swiper-slide.swiper-slide-active");
+  readonly inactiveCard = this.contentSection.locator("div.swiper-slide:not(.swiper-slide-active)");
+
   //ai review card
   readonly aiSummaryCard = this.contentSection.locator(".reputon-summary-review .reputon-top-part");
   readonly aiCardName = this.aiSummaryCard.locator(".reputon-name");
@@ -21,8 +26,7 @@ export class GoogleCarouselWidget extends GoogleWidget {
   readonly aiCardDate = this.aiSummaryCard.locator(".reputon-date");
   readonly aiCardImages = this.aiSummaryCard.locator(".reputon-grid-review-images img");
 
-  //regular review card
-  readonly card = this.contentSection.locator(
+  readonly card = this.cardContainer.locator(
     "div.reputon-single-review:not(.reputon-summary-review) .reputon-top-part",
   );
   readonly cardByReviewer = (name: string) => this.card.filter({ hasText: name });
