@@ -67,7 +67,7 @@ export class TelegramNotification {
     );
     if (qaseRunId) {
       messageParts.push(
-        `\n📝 <b>Qase Run:</b> <a href="https://app.qase.io/run/${process.env.QASE_PROJECT_ID}/dashboard/${qaseRunId}">Open Qase Run</a>`,
+        `\n🔗 <b>Qase Report:</b> <a href="https://app.qase.io/run/${process.env.QASE_PROJECT_ID}/dashboard/${qaseRunId}">Open Qase Report</a>`,
       );
     }
 
