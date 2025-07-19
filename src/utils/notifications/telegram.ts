@@ -48,15 +48,24 @@ export class TelegramNotification {
       `🕒 <b>Timed out:</b> ${stats.timedOut}`,
       `💥 <b>Interrupted:</b> ${stats.interrupted}`,
     ];
-    const qase = new QaseApi({ token: `${process.env.QASE_API_TOKEN}` });
-    const { runName } = JSON.parse(fs.readFileSync(".tmp/qase-run.json", "utf-8"));
-    const run = await qase.runs.getRuns(`${process.env.QASE_PROJECT_ID}`, runName);
-    const id = run.data.result?.entities!.map((e) => e.id)![0];
+
+    let qaseRunId: number | undefined;
+    try {
+      const qase = new QaseApi({ token: `${process.env.QASE_API_TOKEN}` });
+      const { runName } = JSON.parse(fs.readFileSync(".tmp/qase-run.json", "utf-8"));
+      const run = await qase.runs.getRuns(`${process.env.QASE_PROJECT_ID}`, runName);
+      const id = run.data.result?.entities!.map((e) => e.id)![0];
+      qaseRunId = id;
+    } catch (error) {
+      console.error(error);
+    }
 
     messageParts.push(
       `\n🔗 <b>Allure Report:</b> <a href="https://anatoly-karpovich.github.io/reputon-demo/allure-report/#">Open Allure Report</a>`,
-      `\n🔗 <b>Qase Report:</b> <a href="https://app.qase.io/run/${process.env.QASE_PROJECT_ID}/dashboard/${id}">Open Qase Report</a>`,
     );
+    if (qaseRunId) {
+      messageParts.push(`\n📝 <b>Qase Run:</b> <a href="https://qase.io/run/${qaseRunId}">Open Qase Run</a>`);
+    }
 
     const finalMessage = messageParts.join("\n");
 
