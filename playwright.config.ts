@@ -2,6 +2,16 @@ import { defineConfig, devices } from "@playwright/test";
 import dotenv from "dotenv";
 
 dotenv.config();
+
+if (process.env.CI) {
+  process.env.QASE_MODE = "testops";
+  const argv = process.argv.join(" ");
+  const match = argv.match(/--project=(\S+)/);
+  const projectName = match?.[1] || "Untitled Project";
+
+  process.env.QASE_RUN_NAME = `${projectName} — Playwright Test Run ${new Date().toISOString()}`;
+}
+
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
@@ -31,6 +41,22 @@ export default defineConfig({
     ["list"],
     ["allure-playwright"],
     ["./src/utils/reporter/reputon.reporter.ts"],
+    [
+      "playwright-qase-reporter",
+      {
+        testops: {
+          api: {
+            token: process.env.QASE_API_TOKEN,
+          },
+          project: process.env.QASE_PROJECT_ID,
+          uploadAttachments: true,
+          run: {
+            complete: true,
+            title: process.env.QASE_RUN_NAME ?? `Playwright Test Run ${new Date().toISOString()}`,
+          },
+        },
+      },
+    ],
   ],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
