@@ -1,6 +1,7 @@
 import TelegramBot from "node-telegram-bot-api";
 import { QaseApi } from "qaseio";
 import fs from "fs";
+import path from "path";
 
 export class TelegramNotification {
   botToken: string;
@@ -52,7 +53,8 @@ export class TelegramNotification {
     let qaseRunId: number | undefined;
     try {
       const qase = new QaseApi({ token: `${process.env.QASE_API_TOKEN}` });
-      const { runName } = JSON.parse(fs.readFileSync(".tmp/qase-run.json", "utf-8"));
+      const filepath = path.resolve(process.cwd(), ".tmp/qase-run.json");
+      const { runName } = JSON.parse(fs.readFileSync(filepath, "utf-8"));
       const run = await qase.runs.getRuns(`${process.env.QASE_PROJECT_ID}`, runName);
       const id = run.data.result?.entities!.map((e) => e.id)![0];
       qaseRunId = id;

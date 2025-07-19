@@ -1,6 +1,7 @@
 import { defineConfig, devices } from "@playwright/test";
 import dotenv from "dotenv";
 import fs from "fs";
+import path from "path";
 
 dotenv.config();
 
@@ -11,7 +12,9 @@ if (process.env.CI) {
   const projectName = match?.[1] || "Untitled Project";
 
   const runName = `${projectName} — Playwright Test Run ${new Date().toISOString()}`;
-  fs.writeFileSync(".tmp/qase-run.json", JSON.stringify({ runName }, null, 2));
+  const filepath = path.resolve(process.cwd(), ".tmp/qase-run.json");
+  fs.mkdirSync(path.dirname(filepath), { recursive: true });
+  fs.writeFileSync(filepath, JSON.stringify({ runName }, null, 2));
   process.env.QASE_RUN_NAME = runName;
 }
 
