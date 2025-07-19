@@ -66,7 +66,9 @@ export class TelegramNotification {
       `\n🔗 <b>Allure Report:</b> <a href="https://anatoly-karpovich.github.io/reputon-demo/allure-report/#">Open Allure Report</a>`,
     );
     if (qaseRunId) {
-      messageParts.push(`\n📝 <b>Qase Run:</b> <a href="https://qase.io/run/${qaseRunId}">Open Qase Run</a>`);
+      messageParts.push(
+        `\n📝 <b>Qase Run:</b> <a href="https://app.qase.io/run/${process.env.QASE_PROJECT_ID}/dashboard/${qaseRunId}">Open Qase Run</a>`,
+      );
     }
 
     const finalMessage = messageParts.join("\n");
