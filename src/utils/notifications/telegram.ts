@@ -1,5 +1,6 @@
 import TelegramBot from "node-telegram-bot-api";
 import { QaseApi } from "qaseio";
+import fs from "fs";
 
 export class TelegramNotification {
   botToken: string;
@@ -48,7 +49,8 @@ export class TelegramNotification {
       `💥 <b>Interrupted:</b> ${stats.interrupted}`,
     ];
     const qase = new QaseApi({ token: `${process.env.QASE_API_TOKEN}` });
-    const run = await qase.runs.getRuns(`${process.env.QASE_PROJECT_ID}`, process.env.QASE_RUN_NAME);
+    const { runName } = JSON.parse(fs.readFileSync(".tmp/qase-run.json", "utf-8"));
+    const run = await qase.runs.getRuns(`${process.env.QASE_PROJECT_ID}`, runName);
     const id = run.data.result?.entities!.map((e) => e.id)![0];
 
     messageParts.push(
