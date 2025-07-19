@@ -37,6 +37,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          QASE_PROJECT_ID: ${{ secrets.QASE_PROJECT_ID }}
 
       # Create Allure report
       - name: Create Allure report

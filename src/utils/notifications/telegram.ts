@@ -1,4 +1,5 @@
 import TelegramBot from "node-telegram-bot-api";
+import { QaseApi } from "qaseio";
 
 export class TelegramNotification {
   botToken: string;
@@ -21,7 +22,7 @@ export class TelegramNotification {
     }
   }
 
-  generateStatisticsMessage(
+  async generateStatisticsMessage(
     meta: {
       applications: string[];
       projectName: string;
@@ -46,9 +47,13 @@ export class TelegramNotification {
       `🕒 <b>Timed out:</b> ${stats.timedOut}`,
       `💥 <b>Interrupted:</b> ${stats.interrupted}`,
     ];
+    const qase = new QaseApi({ token: `${process.env.QASE_API_TOKEN}` });
+    const run = await qase.runs.getRuns(`${process.env.QASE_PROJECT_ID}`, process.env.QASE_RUN_NAME);
+    const id = run.data.result?.entities!.map((e) => e.id)![0];
 
     messageParts.push(
-      `\n🔗 <b>Report:</b> <a href="https://anatoly-karpovich.github.io/reputon-demo/allure-report/#">Open Allure Report</a>`,
+      `\n🔗 <b>Allure Report:</b> <a href="https://anatoly-karpovich.github.io/reputon-demo/allure-report/#">Open Allure Report</a>`,
+      `\n🔗 <b>Qase Report:</b> <a href="https://app.qase.io/run/${process.env.QASE_PROJECT_ID}/dashboard/${id}">Open Qase Report</a>`,
     );
 
     const finalMessage = messageParts.join("\n");

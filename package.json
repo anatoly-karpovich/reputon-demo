@@ -49,6 +49,7 @@
     "lodash": "^4.17.21",
     "node-telegram-bot-api": "^0.66.0",
     "playwright-qase-reporter": "^2.1.4",
+    "qaseio": "^2.4.3",
     "rimraf": "^6.0.1",
     "ts-node": "^10.9.2"
   }
