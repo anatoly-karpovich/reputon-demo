@@ -2,7 +2,7 @@ import path from "path";
 import fs from "fs";
 
 export function setUpQase() {
-  if (!process.env.CI) {
+  if (process.env.CI) {
     process.env.QASE_MODE = "testops";
     const tmpPath = path.resolve(process.cwd(), ".tmp/qase-run.json");
     if (!fs.existsSync(tmpPath)) {
