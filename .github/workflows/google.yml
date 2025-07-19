@@ -23,7 +23,7 @@ jobs:
 
       # Run Playwright UI tests
       - name: Run Google Demo UI tests
-        run: npm run test:ui
+        run: npx playwright test --project=google-reviews
         env:
           QASE_MODE: ${{ secrets.QASE_MODE }}
           QASE_API_TOKEN: ${{ secrets.QASE_API_TOKEN }}
