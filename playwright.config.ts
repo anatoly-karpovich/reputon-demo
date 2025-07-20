@@ -1,16 +1,9 @@
 import { defineConfig, devices } from "@playwright/test";
 import dotenv from "dotenv";
+import { setUpQase } from "utils/reporter/qase";
 
 dotenv.config();
-
-if (process.env.CI) {
-  process.env.QASE_MODE = "testops";
-  const argv = process.argv.join(" ");
-  const match = argv.match(/--project=(\S+)/);
-  const projectName = match?.[1] || "Untitled Project";
-
-  process.env.QASE_RUN_NAME = `${projectName} — Playwright Test Run ${new Date().toISOString()}`;
-}
+setUpQase();
 
 /**
  * Read environment variables from file.

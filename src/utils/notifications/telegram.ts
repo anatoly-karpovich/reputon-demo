@@ -1,4 +1,7 @@
 import TelegramBot from "node-telegram-bot-api";
+import { QaseApi } from "qaseio";
+import fs from "fs";
+import path from "path";
 
 export class TelegramNotification {
   botToken: string;
@@ -21,7 +24,7 @@ export class TelegramNotification {
     }
   }
 
-  generateStatisticsMessage(
+  async generateStatisticsMessage(
     meta: {
       applications: string[];
       projectName: string;
@@ -47,9 +50,26 @@ export class TelegramNotification {
       `💥 <b>Interrupted:</b> ${stats.interrupted}`,
     ];
 
+    let qaseRunId: number | undefined;
+    try {
+      const qase = new QaseApi({ token: `${process.env.QASE_API_TOKEN}` });
+      const filepath = path.resolve(process.cwd(), ".tmp/qase-run.json");
+      const { runName } = JSON.parse(fs.readFileSync(filepath, "utf-8"));
+      const run = await qase.runs.getRuns(`${process.env.QASE_PROJECT_ID}`, runName);
+      const id = run.data.result?.entities!.map((e) => e.id)![0];
+      qaseRunId = id;
+    } catch (error) {
+      console.error(error);
+    }
+
     messageParts.push(
-      `\n🔗 <b>Report:</b> <a href="https://anatoly-karpovich.github.io/reputon-demo/allure-report/#">Open Allure Report</a>`,
+      `\n🔗 <b>Allure Report:</b> <a href="https://anatoly-karpovich.github.io/reputon-demo/allure-report/#">Open Allure Report</a>`,
     );
+    if (qaseRunId) {
+      messageParts.push(
+        `\n🔗 <b>Qase Report:</b> <a href="https://app.qase.io/run/${process.env.QASE_PROJECT_ID}/dashboard/${qaseRunId}">Open Qase Report</a>`,
+      );
+    }
 
     const finalMessage = messageParts.join("\n");
 

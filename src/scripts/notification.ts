@@ -43,7 +43,7 @@ async function main() {
     const projectName = results.at(-1)!.projectName;
 
     const telegram = new TelegramNotification();
-    const message = telegram.generateStatisticsMessage({ applications, projectName }, stats);
+    const message = await telegram.generateStatisticsMessage({ applications, projectName }, stats);
     await telegram.sendMessage(message);
     console.log("✅ Report successfully sent to Telegram 🎉");
   } catch (err: any) {

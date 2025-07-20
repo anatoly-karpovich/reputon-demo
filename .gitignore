@@ -7,3 +7,5 @@ node_modules/
 src/.auth
 allure-results
 allure-report
+logs
+.tmp
