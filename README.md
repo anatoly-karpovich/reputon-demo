@@ -19,7 +19,13 @@ cd reputon-demo
 npm install
 ```
 
-### 3. Create `.env` File
+### 2. Install Playwright browsers
+
+```bash
+npx playwright install
+```
+
+### 4. Create `.env` File
 
 You can copy `.env.dist` and fill in required values:
 

@@ -24,7 +24,7 @@ export abstract class BasePage {
   }
 
   async swipeElement(locator: Locator, direction: "left" | "right") {
-    test.step(`Swipe element horizontally to ${direction}`, async () => {
+    await test.step(`Swipe element horizontally to ${direction}`, async () => {
       await locator.waitFor({ state: "visible" });
       const box = await locator.boundingBox();
       if (!box) throw new Error("Cannot swipe: locator not visible");
