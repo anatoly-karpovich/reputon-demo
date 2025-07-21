@@ -19,7 +19,7 @@ cd reputon-demo
 npm install
 ```
 
-### 2. Install Playwright browsers
+### 3. Install Playwright browsers
 
 ```bash
 npx playwright install

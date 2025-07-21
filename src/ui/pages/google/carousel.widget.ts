@@ -1,4 +1,5 @@
 import { GoogleWidget } from "./google.widget";
+import test from "@playwright/test";
 
 export class GoogleCarouselWidget extends GoogleWidget {
   readonly descritionSection = this.page.locator("section.shopify-section").nth(0);
@@ -71,5 +72,16 @@ export class GoogleCarouselWidget extends GoogleWidget {
       comment: comment,
       images: images.length,
     };
+  }
+
+  async clickNavigation(button: "next" | "previous") {
+    const buttons = {
+      next: this.nextButton,
+      previous: this.previousButton,
+    };
+
+    await test.step(`Click ${button} button in carousel widget`, async () => {
+      await buttons[button].click();
+    });
   }
 }

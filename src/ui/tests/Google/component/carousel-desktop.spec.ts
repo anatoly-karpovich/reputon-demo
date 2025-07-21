@@ -126,7 +126,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget] [Desktop]", async () 
         widget.cardByReviewer(name),
         `Verify that card for "${name}" is not in viewport`,
       ).not.toBeInViewport();
-      await widget.nextButton.click();
+      await widget.clickNavigation("next");
       await expect(
         widget.cardByReviewer(name),
         `Verify that card for "${name}" is in viewport after clicking next button`,
@@ -150,7 +150,7 @@ test.describe("[UI] [Google] [Demo Shop] [Carousel Widget] [Desktop]", async () 
       await googleDemoPage.open();
       const { authorName: name } = mock.business[0].reviews[4];
       await expect(widget.cardByReviewer(name), `Verify that card for "${name}" is in viewport`).not.toBeInViewport();
-      await widget.previousButton.click();
+      await widget.clickNavigation("previous");
       await expect(
         widget.cardByReviewer(name),
         `Verify that card for "${name}" is in viewport after clicking previous button`,
