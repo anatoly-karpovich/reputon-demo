@@ -59,7 +59,7 @@ npx playwright test --project=google-reviews
 Qase test case IDs are linked to tests using:
 
 ```ts
-import { qase } from "qase-playwright";
+import { qase } from "playwright-qase-reporter";
 
 test("should do something"), async ({ page }) => {
   qase.id(123)
