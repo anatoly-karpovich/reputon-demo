@@ -1,0 +1,1734 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI Summary Based on 191081 reviews
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - paragraph:
+    - img
+    - text: Rockefeller Center is a must-visit NYC landmark with stunning architecture and incredible views, especially from the Top of the Rock.
+  - paragraph:
+    - img
+    - text: The plaza offers a magical experience with iconic sights, seasonal transformations, shops, and restaurants, making it ideal for exploration and relaxation.
+  - paragraph:
+    - img
+    - text: The observation deck at Top of the Rock provides spectacular 360-degree views of Manhattan, including iconic landmarks like the Empire State Building and Central
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+16"
+  - img "review_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+10"
+  - img "review_image"
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI Summary Based on 191081 reviews
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - paragraph:
+    - img
+    - text: Rockefeller Center is a must-visit NYC landmark with stunning architecture and incredible views, especially from the Top of the Rock.
+  - paragraph:
+    - img
+    - text: The plaza offers a magical experience with iconic sights, seasonal transformations, shops, and restaurants, making it ideal for exploration and relaxation.
+  - paragraph:
+    - img
+    - text: The observation deck at Top of the Rock provides spectacular 360-degree views of Manhattan, including iconic landmarks like the Empire State Building and Central
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+17"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+11"
+  - heading "Carousel widget 2" [level=2]
+  - paragraph: A visually rich widget with a branded Google-style business card. Highlight your store’s name, total review count, and average rating to instantly build trust. Customize theme, auto scroll, photo size, and let customers leave their own reviews with one click.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI Summary Based on 191081 reviews
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - paragraph:
+    - img
+    - text: Rockefeller Center is a must-visit NYC landmark with stunning architecture and incredible views, especially from the Top of the Rock.
+  - paragraph:
+    - img
+    - text: The plaza offers a magical experience with iconic sights, seasonal transformations, shops, and restaurants, making it ideal for exploration and relaxation.
+  - paragraph:
+    - img
+    - text: The observation deck at Top of the Rock provides spectacular 360-degree views of Manhattan, including iconic landmarks like the Empire State Building and Central
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+17"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+11"
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI Summary Based on 191081 reviews
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - paragraph:
+    - img
+    - text: Rockefeller Center is a must-visit NYC landmark with stunning architecture and incredible views, especially from the Top of the Rock.
+  - paragraph:
+    - img
+    - text: The plaza offers a magical experience with iconic sights, seasonal transformations, shops, and restaurants, making it ideal for exploration and relaxation.
+  - paragraph:
+    - img
+    - text: The observation deck at Top of the Rock provides spectacular 360-degree views of Manhattan, including iconic landmarks like the Empire State Building and Central
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI Summary Based on 191081 reviews
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - paragraph:
+    - img
+    - text: Rockefeller Center is a must-visit NYC landmark with stunning architecture and incredible views, especially from the Top of the Rock.
+  - paragraph:
+    - img
+    - text: The plaza offers a magical experience with iconic sights, seasonal transformations, shops, and restaurants, making it ideal for exploration and relaxation.
+  - paragraph:
+    - img
+    - text: The observation deck at Top of the Rock provides spectacular 360-degree views of Manhattan, including iconic landmarks like the Empire State Building and Central
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ9U1mz_5YwokRosza1aAk0jM
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - img "header_image"
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - text: Rockefeller Center
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - text: "4.7"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 191081 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ9U1mz_5YwokRosza1aAk0jM
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 191081 reviews
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - paragraph:
+    - img
+    - text: Rockefeller Center is a must-visit NYC landmark with stunning architecture and incredible views, especially from the Top of the Rock.
+  - paragraph:
+    - img
+    - text: The plaza offers a magical experience with iconic sights, seasonal transformations, shops, and restaurants, making it ideal for exploration and relaxation.
+  - paragraph:
+    - img
+    - text: The observation deck at Top of the Rock provides spectacular 360-degree views of Manhattan, including iconic landmarks like the Empire State Building and Central
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - text: "+17"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - text: "+11"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - img "header_image"
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - text: Rockefeller Center
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - text: "4.7"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 191081 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ9U1mz_5YwokRosza1aAk0jM
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 191081 reviews
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - paragraph:
+    - img
+    - text: Rockefeller Center is a must-visit NYC landmark with stunning architecture and incredible views, especially from the Top of the Rock.
+  - paragraph:
+    - img
+    - text: The plaza offers a magical experience with iconic sights, seasonal transformations, shops, and restaurants, making it ideal for exploration and relaxation.
+  - paragraph:
+    - img
+    - text: The observation deck at Top of the Rock provides spectacular 360-degree views of Manhattan, including iconic landmarks like the Empire State Building and Central
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+11"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+17"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Rockefeller Center":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+  - text: "4.7"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (191081)
+  - link "+12125888601":
+    - /url: tel:+12125888601
+    - img
+    - text: "+12125888601"
+  - link "Rockefeller Center":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - img
+    - text: 45 Rockefeller Plaza, New York, NY 10111
+  - img
+  - text: "Thursday: Open 24 hours"
+  - img
+  - iframe
+  - link "The Museum of Modern Art":
+    - /url: https://maps.google.com/?cid=16906389583988522837
+  - text: "4.6"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (55173)
+  - link "+12127089400":
+    - /url: tel:+12127089400
+    - img
+    - text: "+12127089400"
+  - link "The Museum of Modern Art":
+    - /url: https://maps.google.com/?cid=16906389583988522837
+    - img
+    - text: 11 W 53rd St, New York, NY 10019, United States
+  - img
+  - text: "Thursday: 10:30 AM - 5:30 PM"
+  - img
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - img "header_image"
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - text: Rockefeller Center
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - text: "4.7"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 191081 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ9U1mz_5YwokRosza1aAk0jM
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 191081 reviews
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Rockefeller Center is a must-visit NYC landmark with stunning architecture and incredible views, especially from the Top of the Rock.
+  - paragraph:
+    - img
+    - text: The plaza offers a magical experience with iconic sights, seasonal transformations, shops, and restaurants, making it ideal for exploration and relaxation.
+  - paragraph:
+    - img
+    - text: The observation deck at Top of the Rock provides spectacular 360-degree views of Manhattan, including iconic landmarks like the Empire State Building and Central
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - img "Laurie Tonnesen_image"
+  - link "Laurie Tonnesen review":
+    - /url: https://www.google.com/maps/contrib/103582744423074155767?hl=en
+    - text: Laurie Tonnesen
+  - text: 3 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Laurie Tonnesen-image"
+  - img "Laurie Tonnesen-image"
+  - img "Laurie Tonnesen-image"
+  - text: In the summer, there is a gorgeous outdoor courtyard where the ice rink is in the winter. It's a wonderful place with food, drink, or just looking at the beautiful building. The view from the top is absolutely wonderful and the seasonal landscaping in the pedestrian area between the tower and 5th Avenue is pretty. The addition of food trucks is a nice touch, and the variety of restaurants inside is terrific. I could go on but I think y'all get the picture!
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - img "VENKATESH PRABHU_image"
+  - link "VENKATESH PRABHU review":
+    - /url: https://www.google.com/maps/contrib/109860660829766366757?hl=en
+    - text: VENKATESH PRABHU
+  - text: 6 days ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "VENKATESH PRABHU-image"
+  - img "VENKATESH PRABHU-image"
+  - img "VENKATESH PRABHU-image"
+  - text: "+16"
+  - img "VENKATESH PRABHU-image"
+  - text: Rockefeller Center is a complex of 19 commercial buildings in the Midtown Manhattan neighborhood of New York City. They have an observation deck located on the 70th floor that offers 360-degree views of the city. It has multiple levels with both indoor and outdoor areas. Having a 360-degree view of the city during the night hours is really very fascinating.
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - img "Chris Bender_image"
+  - link "Chris Bender review":
+    - /url: https://www.google.com/maps/contrib/113964409667029522549?hl=en
+    - text: Chris Bender
+  - text: 3 months ago
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Chris Bender-image"
+  - img "Chris Bender-image"
+  - img "Chris Bender-image"
+  - text: "+10"
+  - img "Chris Bender-image"
+  - text: Rockefeller Center was pretty cool. Place to visit, You can go to a lot of shopping venues and see the great architecture. You can go up to the viewing platform Top Of The Rock and have a great view of the city, including a view of the Empire State Building and many more large skyscrapers. It was very cool going up in the nighttime to see all of the city lights. During the early morning, you can go there and see the NBC Today show outside and maybe have a chance to meet the crew and maybe be on television.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Rockefeller Center reviews":
+    - /url: https://maps.google.com/?cid=3734087314244816034
+    - img
+    - text: Rockefeller Center 4.7
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 191081 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Rockefeller Center 4.7
+- img
+- img
+- img
+- img
+- img
+- text: 191081 reviews
+- img "Lau photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Laurie Tonnesen 3 days ago
+- img "VEN photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby VENKATESH PRABHU 6 days ago
+- img "Chr photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Chris Bender 3 months ago
+- button "Open chat"
+```
