@@ -1,0 +1,1460 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-genererad sammanfattning Baserat på 5 recensioner
+  - img
+  - paragraph:
+    - img
+    - text: Benigne aurum cursim crux cerno.;
+  - paragraph:
+    - img
+    - text: Votum supra alias aeternus.;
+  - paragraph:
+    - img
+    - text: Condico cuppedia tabgo soluta perferendis vicinus antepono clibanus..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - button "Visa mer"
+  - img "review_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - button "Visa mer"
+  - img "review_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - button "Visa mer"
+  - img "review_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - button "Visa mer"
+  - img "review_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - button "Visa mer"
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-genererad sammanfattning Baserat på 5 recensioner
+  - img
+  - paragraph:
+    - img
+    - text: Benigne aurum cursim crux cerno.;
+  - paragraph:
+    - img
+    - text: Votum supra alias aeternus.;
+  - paragraph:
+    - img
+    - text: Condico cuppedia tabgo soluta perferendis vicinus antepono clibanus..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - button "Visa mer"
+  - img "review_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - button "Visa mer"
+  - img "review_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - button "Visa mer"
+  - img "review_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - button "Visa mer"
+  - img "review_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - button "Visa mer"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-genererad sammanfattning Baserat på 5 recensioner
+  - img
+  - paragraph:
+    - img
+    - text: Benigne aurum cursim crux cerno.;
+  - paragraph:
+    - img
+    - text: Votum supra alias aeternus.;
+  - paragraph:
+    - img
+    - text: Condico cuppedia tabgo soluta perferendis vicinus antepono clibanus..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - text: AI AI-genererad sammanfattning Baserat på 5 recensioner
+  - img
+  - paragraph:
+    - img
+    - text: Benigne aurum cursim crux cerno.;
+  - paragraph:
+    - img
+    - text: Votum supra alias aeternus.;
+  - paragraph:
+    - img
+    - text: Condico cuppedia tabgo soluta perferendis vicinus antepono clibanus..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Lämna en recension":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lämna en recension"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recensioner on
+  - img
+  - link "Lämna en recension":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lämna en recension"
+  - text: AI AI-genererad sammanfattning Baserat på 5 recensioner
+  - img
+  - paragraph:
+    - img
+    - text: Benigne aurum cursim crux cerno.;
+  - paragraph:
+    - img
+    - text: Votum supra alias aeternus.;
+  - paragraph:
+    - img
+    - text: Condico cuppedia tabgo soluta perferendis vicinus antepono clibanus..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Visa mer"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - button "Visa mer"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - button "Visa mer"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recensioner on
+  - img
+  - link "Lämna en recension":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lämna en recension"
+  - text: AI AI-genererad sammanfattning Baserat på 5 recensioner
+  - img
+  - paragraph:
+    - img
+    - text: Benigne aurum cursim crux cerno.;
+  - paragraph:
+    - img
+    - text: Votum supra alias aeternus.;
+  - paragraph:
+    - img
+    - text: Condico cuppedia tabgo soluta perferendis vicinus antepono clibanus..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - img "review_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - img "review_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - img "review_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - img "review_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recensioner on
+  - img
+  - link "Lämna en recension":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lämna en recension"
+  - text: AI AI-genererad sammanfattning Baserat på 5 recensioner
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Benigne aurum cursim crux cerno.;
+  - paragraph:
+    - img
+    - text: Votum supra alias aeternus.;
+  - paragraph:
+    - img
+    - text: Condico cuppedia tabgo soluta perferendis vicinus antepono clibanus..
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - img "Cordelia_image"
+  - link "Cordelia review":
+    - /url: https://complicated-shore.com
+    - text: Cordelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Cordelia-image"
+  - text: Stabilis crebro artificiose dedecor thesaurus totam. Amo commemoro cenaculum aiunt derelinquo vereor trans cubo bellum. Tamdiu suscipit sodalitas tego perspiciatis acies illum molestiae rem claro. Coniuratio quibusdam totidem aperte antepono. Templum corrupti depereo testimonium amo amita sustineo corrumpo. Certe sustineo bonus conitor vis corona tricesimus.
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - img "Helen_image"
+  - link "Helen review":
+    - /url: https://cruel-embossing.name
+    - text: Helen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Helen-image"
+  - text: Corpus vitiosus admitto apud voluptatem provident titulus abeo suscipit. Stipes cedo vulgivagus magni studio coma debeo. Angulus ventosus usque complectus videlicet ea pauper similique concedo. Tamdiu cruciamentum clam caelum adsum occaecati caecus colo sonitus. Cohaero atavus spero ubi vulnus. Maiores nulla vereor aliquam debilito uredo desparatus admiratio delectus adinventitias. Suus pax porro.
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - img "Raven_image"
+  - link "Raven review":
+    - /url: https://rectangular-pantyhose.biz
+    - text: Raven
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Raven-image"
+  - text: Error vae uberrime beneficium non tenetur desparatus. Ulterius valde asperiores cognatus cotidie tergum pecto ceno spes. Vetus delectus adamo suffragium clarus animus. Suffoco artificiose tredecim. Aliquid annus deleo conservo. Tui suppono callide iste conitor. Curiositas teneo tibi dicta demens ut. Vere decretum ducimus claustrum conscendo. Quasi templum eaque triduana condico.
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - img "Jammie_image"
+  - link "Jammie review":
+    - /url: https://apprehensive-hornet.biz
+    - text: Jammie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Jammie-image"
+  - text: Quo placeat decens degenero cura abutor suggero repellat conculco cur. Stella absorbeo angulus voveo tutis congregatio cito. Validus atque vinum votum speciosus. Torrens tum conspergo turba commodi talis numquam. Comminor at degusto caput nostrum officia corona atrox tenus. Apostolus bellum utor pauper. Vespillo desino caveo tamen vinco deserunt adsum utilis comes colligo. Tondeo patior statim. Conitor decimus spiculum colligo illo solvo uterque cauda socius ad.
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - img "Mittie_image"
+  - link "Mittie review":
+    - /url: https://rectangular-excess.name
+    - text: Mittie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Mittie-image"
+  - text: Aiunt peior summisse constans stabilis error desolo. Solvo aequitas desipio universe vulnero corporis tolero. Quod quae uxor ut argentum. Socius vitium socius. Vos civitas patior vereor bibo. Quisquam comburo textus vulgaris concedo aperiam bos degusto quo claro. Cedo civitas aro consuasor compello.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 recensioner
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 recensioner
+- img "Cor photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjärnbetygav Cordelia 3 дня назад
+- img "Hel photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjärnbetygav Helen 3 дня назад
+- img "Rav photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjärnbetygav Raven 3 дня назад
+- img "Jam photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjärnbetygav Jammie 3 дня назад
+- img "Mit photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjärnbetygav Mittie 3 дня назад
+- button "Open chat"
+```
