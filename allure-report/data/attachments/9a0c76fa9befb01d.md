@@ -1,0 +1,1460 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Deduco trucido cultellus sint cattus approbo succurro cicuta conqueror calco.;
+  - paragraph:
+    - img
+    - text: Spoliatio amplitudo spargo.;
+  - paragraph:
+    - img
+    - text: Suppono voluptates condico illum validus..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - button "Show more"
+  - img "review_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - button "Show more"
+  - img "review_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - button "Show more"
+  - img "review_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - button "Show more"
+  - img "review_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Deduco trucido cultellus sint cattus approbo succurro cicuta conqueror calco.;
+  - paragraph:
+    - img
+    - text: Spoliatio amplitudo spargo.;
+  - paragraph:
+    - img
+    - text: Suppono voluptates condico illum validus..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - button "Show more"
+  - img "review_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - button "Show more"
+  - img "review_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - button "Show more"
+  - img "review_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - button "Show more"
+  - img "review_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Deduco trucido cultellus sint cattus approbo succurro cicuta conqueror calco.;
+  - paragraph:
+    - img
+    - text: Spoliatio amplitudo spargo.;
+  - paragraph:
+    - img
+    - text: Suppono voluptates condico illum validus..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Deduco trucido cultellus sint cattus approbo succurro cicuta conqueror calco.;
+  - paragraph:
+    - img
+    - text: Spoliatio amplitudo spargo.;
+  - paragraph:
+    - img
+    - text: Suppono voluptates condico illum validus..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Deduco trucido cultellus sint cattus approbo succurro cicuta conqueror calco.;
+  - paragraph:
+    - img
+    - text: Spoliatio amplitudo spargo.;
+  - paragraph:
+    - img
+    - text: Suppono voluptates condico illum validus..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - button "Show more"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - button "Show more"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - button "Show more"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - button "Show more"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Deduco trucido cultellus sint cattus approbo succurro cicuta conqueror calco.;
+  - paragraph:
+    - img
+    - text: Spoliatio amplitudo spargo.;
+  - paragraph:
+    - img
+    - text: Suppono voluptates condico illum validus..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - img "review_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - img "review_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - img "review_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - img "review_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Deduco trucido cultellus sint cattus approbo succurro cicuta conqueror calco.;
+  - paragraph:
+    - img
+    - text: Spoliatio amplitudo spargo.;
+  - paragraph:
+    - img
+    - text: Suppono voluptates condico illum validus..
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - img "Zoe_image"
+  - link "Zoe review":
+    - /url: https://peaceful-instructor.org
+    - text: Zoe
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Zoe-image"
+  - text: Acceptus decretum cohors curis pauci. Doloremque repellat quasi verecundia consequuntur barba copia subiungo vito. Tego alioqui arbor. Quam ulterius suadeo delego varietas blanditiis depraedor audentia. Assumenda adipisci tunc texo deludo. Curiositas tam adversus.
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - img "Ruth_image"
+  - link "Ruth review":
+    - /url: https://weekly-ethyl.org
+    - text: Ruth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Ruth-image"
+  - text: Iusto cubicularis cupiditate clam. Verbum calculus sollers callide culpa. Vulgus audentia explicabo esse conqueror sursum titulus. Supra tamquam aperte conqueror pectus. Eius corrupti coaegresco rerum conor tripudio clibanus triumphus averto tremo. Bestia spiritus caries. Sustineo vestrum eos conservo crepusculum solum modi.
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - img "Dolly_image"
+  - link "Dolly review":
+    - /url: https://glaring-rule.net/
+    - text: Dolly
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Dolly-image"
+  - text: Aeternus vos aegrus ventito depulso tui addo cenaculum. Voluptates bellicus tenetur. Sortitus spoliatio comprehendo summopere coepi suffragium vestrum super vita derelinquo. Spes arto laboriosam acsi abscido acies itaque certe. Desidero capitulus audax argentum crux coniuratio commodo.
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - img "Dashawn_image"
+  - link "Dashawn review":
+    - /url: https://tempting-retrospectivity.biz/
+    - text: Dashawn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Dashawn-image"
+  - text: Sulum velut conservo absque. Officiis vehemens facilis triumphus inventore bellum. Vetus deorsum adopto ambulo officia verumtamen socius cervus. Spoliatio corrumpo ascit considero adopto conicio tredecim. Volva subseco auditor rem adulescens uxor theatrum audeo. Accusantium usitas curatio dolor usitas. Caries deleo quae arca vicinus vinitor abundans vestigium amita decipio. Tot cibus verus celer.
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - img "Eva_image"
+  - link "Eva review":
+    - /url: https://jaunty-tool.info/
+    - text: Eva
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Eva-image"
+  - text: Aperio ultio assentator vaco. Titulus sol asper agnitio asporto decipio. Substantia soluta expedita tenetur taceo deputo quisquam debilito aqua. Agnitio desolo absorbeo tabula toties caelum thalassinus ara aedificium taedium. Crastinus voveo perferendis speciosus aedificium ducimus templum derelinquo clibanus. Tutis amet viridis paulatim tenus textor trans sumo. Crepusculum quod demo civis vulgus. Aedificium voluptas consuasor subiungo vomer congregatio. Terga sponte tripudio depulso aut exercitationem repellat in barba inventore.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Zoe photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Zoe 3 дня назад
+- img "Rut photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Ruth 3 дня назад
+- img "Dol photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Dolly 3 дня назад
+- img "Das photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Dashawn 3 дня назад
+- img "Eva photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Eva 3 дня назад
+- button "Open chat"
+```
