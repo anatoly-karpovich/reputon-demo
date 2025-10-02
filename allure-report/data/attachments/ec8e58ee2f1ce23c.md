@@ -1,0 +1,1460 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Сводка, созданная ИИ На основе 5 отзывов
+  - img
+  - paragraph:
+    - img
+    - text: Tergo aureus alius calamitas ver casso quidem vel.;
+  - paragraph:
+    - img
+    - text: Compello caelestis ager.;
+  - paragraph:
+    - img
+    - text: Vinum angustus utique cenaculum..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - button "Показать больше"
+  - img "review_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - button "Показать больше"
+  - img "review_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - button "Показать больше"
+  - img "review_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - button "Показать больше"
+  - img "review_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - button "Показать больше"
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Сводка, созданная ИИ На основе 5 отзывов
+  - img
+  - paragraph:
+    - img
+    - text: Tergo aureus alius calamitas ver casso quidem vel.;
+  - paragraph:
+    - img
+    - text: Compello caelestis ager.;
+  - paragraph:
+    - img
+    - text: Vinum angustus utique cenaculum..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - button "Показать больше"
+  - img "review_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - button "Показать больше"
+  - img "review_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - button "Показать больше"
+  - img "review_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - button "Показать больше"
+  - img "review_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - button "Показать больше"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Сводка, созданная ИИ На основе 5 отзывов
+  - img
+  - paragraph:
+    - img
+    - text: Tergo aureus alius calamitas ver casso quidem vel.;
+  - paragraph:
+    - img
+    - text: Compello caelestis ager.;
+  - paragraph:
+    - img
+    - text: Vinum angustus utique cenaculum..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - text: AI Сводка, созданная ИИ На основе 5 отзывов
+  - img
+  - paragraph:
+    - img
+    - text: Tergo aureus alius calamitas ver casso quidem vel.;
+  - paragraph:
+    - img
+    - text: Compello caelestis ager.;
+  - paragraph:
+    - img
+    - text: Vinum angustus utique cenaculum..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Оставить отзыв":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Оставить отзыв"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 отзывов on
+  - img
+  - link "Оставить отзыв":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Оставить отзыв"
+  - text: AI Сводка, созданная ИИ На основе 5 отзывов
+  - img
+  - paragraph:
+    - img
+    - text: Tergo aureus alius calamitas ver casso quidem vel.;
+  - paragraph:
+    - img
+    - text: Compello caelestis ager.;
+  - paragraph:
+    - img
+    - text: Vinum angustus utique cenaculum..
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Показать больше"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - button "Показать больше"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - button "Показать больше"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 отзывов on
+  - img
+  - link "Оставить отзыв":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Оставить отзыв"
+  - text: AI Сводка, созданная ИИ На основе 5 отзывов
+  - img
+  - paragraph:
+    - img
+    - text: Tergo aureus alius calamitas ver casso quidem vel.;
+  - paragraph:
+    - img
+    - text: Compello caelestis ager.;
+  - paragraph:
+    - img
+    - text: Vinum angustus utique cenaculum..
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - img "review_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - img "review_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - img "review_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - img "review_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 отзывов on
+  - img
+  - link "Оставить отзыв":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Оставить отзыв"
+  - text: AI Сводка, созданная ИИ На основе 5 отзывов
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Tergo aureus alius calamitas ver casso quidem vel.;
+  - paragraph:
+    - img
+    - text: Compello caelestis ager.;
+  - paragraph:
+    - img
+    - text: Vinum angustus utique cenaculum..
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - img "Toni_image"
+  - link "Toni review":
+    - /url: https://failing-advancement.org/
+    - text: Toni
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Toni-image"
+  - text: Tot demergo comis acceptus cuius optio vereor. Stultus tergiversatio depono cuius. Uterque decerno tardus mollitia altus unus vulpes corrumpo vestrum virga. Tristis ars blanditiis somniculosus. Angelus bellum volo depopulo traho. Thalassinus ventosus uter trepide uberrime aureus caterva peccatus porro.
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - img "Aida_image"
+  - link "Aida review":
+    - /url: https://clean-step.net/
+    - text: Aida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Aida-image"
+  - text: Auditor deripio quo xiphias necessitatibus voluptatum patruus aestas. Video atqui beneficium sordeo crudelis. Solutio stips quidem somniculosus. Comedo celer brevis triduana capitulus crebro. Curo laboriosam suasoria temptatio minus adulescens tricesimus valetudo cultellus. Truculenter sequi iure vir textor. Tres abscido acceptus caput cauda sperno deripio nobis carus. Compono amitto deripio qui traho nostrum ait creptio votum. Bene volutabrum abscido adhaero cernuus conservo. Amitto truculenter ustilo deludo cernuus.
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - img "Caroline_image"
+  - link "Caroline review":
+    - /url: https://exotic-riser.net/
+    - text: Caroline
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Caroline-image"
+  - text: Deduco crustulum vitae cariosus ante atrox tredecim. Carus texo ex defungo aurum. Auditor voluntarius accusantium taedium conventus triumphus argumentum sono abduco. Creta aliquam demitto ipsum perspiciatis truculenter dedecor adnuo credo aestus. Approbo voluptate statua auctus centum concido turpis vulgus.
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - img "Dena_image"
+  - link "Dena review":
+    - /url: https://noxious-defendant.biz
+    - text: Dena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Dena-image"
+  - text: Alienus desidero deleniti velociter unde aspernatur. Caritas magnam coniecto ubi vado ager. Adnuo voveo confero taceo torqueo agnosco tergum universe comprehendo vestigium. Decimus sed cubo vilicus urbanus inflammatio asporto. Tenetur pecus sumo conculco delibero constans dolorum. Tandem sono eius omnis soleo copiose bardus repellat tam. Unde comes excepturi. Territo ascit nisi deprimo acies quis spargo subiungo. Audacia chirographum solus vulariter complectus crapula aliquid fuga vel brevis.
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - img "Lizeth_image"
+  - link "Lizeth review":
+    - /url: https://potable-pension.name/
+    - text: Lizeth
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Lizeth-image"
+  - text: Turba thesaurus colligo minus amo venio. Vulgus alias admoneo. Statim timidus voluptatum venio. Volubilis trans cauda terebro viscus accommodo. Validus cubitum esse sperno combibo cervus benevolentia degero annus vinum. Adipiscor tamen stillicidium creta aegrus denuo accommodo iure casso decor. Toties timidus theatrum degero eveniet sumo. Adsum eligendi patrocinor bene ager aptus quos cuius assumenda. Esse ab acies delectus adsuesco.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 отзывов
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 отзывов
+- img "Ton photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 звездот Toni 3 дня назад
+- img "Aid photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 звездот Aida 3 дня назад
+- img "Car photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 звездот Caroline 3 дня назад
+- img "Den photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 звездот Dena 3 дня назад
+- img "Liz photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 звездот Lizeth 3 дня назад
+- button "Open chat"
+```
