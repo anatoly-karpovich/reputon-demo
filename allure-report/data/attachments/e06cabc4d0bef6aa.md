@@ -1,0 +1,1460 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Rezumat generat de AI Bazat pe 5 recenzii
+  - img
+  - paragraph:
+    - img
+    - text: Cupiditate balbus cursus.
+  - paragraph:
+    - img
+    - text: Alioqui vinculum antiquus currus consequuntur sapiente.
+  - paragraph:
+    - img
+    - text: Depulso depereo verbera thorax iusto adsidue ceno credo conor.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - button "Arată mai multe"
+  - img "review_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - button "Arată mai multe"
+  - img "review_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - button "Arată mai multe"
+  - img "review_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - button "Arată mai multe"
+  - img "review_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - button "Arată mai multe"
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Rezumat generat de AI Bazat pe 5 recenzii
+  - img
+  - paragraph:
+    - img
+    - text: Cupiditate balbus cursus.
+  - paragraph:
+    - img
+    - text: Alioqui vinculum antiquus currus consequuntur sapiente.
+  - paragraph:
+    - img
+    - text: Depulso depereo verbera thorax iusto adsidue ceno credo conor.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - button "Arată mai multe"
+  - img "review_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - button "Arată mai multe"
+  - img "review_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - button "Arată mai multe"
+  - img "review_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - button "Arată mai multe"
+  - img "review_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - button "Arată mai multe"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Rezumat generat de AI Bazat pe 5 recenzii
+  - img
+  - paragraph:
+    - img
+    - text: Cupiditate balbus cursus.
+  - paragraph:
+    - img
+    - text: Alioqui vinculum antiquus currus consequuntur sapiente.
+  - paragraph:
+    - img
+    - text: Depulso depereo verbera thorax iusto adsidue ceno credo conor.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - text: AI Rezumat generat de AI Bazat pe 5 recenzii
+  - img
+  - paragraph:
+    - img
+    - text: Cupiditate balbus cursus.
+  - paragraph:
+    - img
+    - text: Alioqui vinculum antiquus currus consequuntur sapiente.
+  - paragraph:
+    - img
+    - text: Depulso depereo verbera thorax iusto adsidue ceno credo conor.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Lasă o recenzie":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lasă o recenzie"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenzii on
+  - img
+  - link "Lasă o recenzie":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lasă o recenzie"
+  - text: AI Rezumat generat de AI Bazat pe 5 recenzii
+  - img
+  - paragraph:
+    - img
+    - text: Cupiditate balbus cursus.
+  - paragraph:
+    - img
+    - text: Alioqui vinculum antiquus currus consequuntur sapiente.
+  - paragraph:
+    - img
+    - text: Depulso depereo verbera thorax iusto adsidue ceno credo conor.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - button "Arată mai multe"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - button "Arată mai multe"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenzii on
+  - img
+  - link "Lasă o recenzie":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lasă o recenzie"
+  - text: AI Rezumat generat de AI Bazat pe 5 recenzii
+  - img
+  - paragraph:
+    - img
+    - text: Cupiditate balbus cursus.
+  - paragraph:
+    - img
+    - text: Alioqui vinculum antiquus currus consequuntur sapiente.
+  - paragraph:
+    - img
+    - text: Depulso depereo verbera thorax iusto adsidue ceno credo conor.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - img "review_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - img "review_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - img "review_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - img "review_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenzii on
+  - img
+  - link "Lasă o recenzie":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lasă o recenzie"
+  - text: AI Rezumat generat de AI Bazat pe 5 recenzii
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Cupiditate balbus cursus.
+  - paragraph:
+    - img
+    - text: Alioqui vinculum antiquus currus consequuntur sapiente.
+  - paragraph:
+    - img
+    - text: Depulso depereo verbera thorax iusto adsidue ceno credo conor.
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - img "Tara_image"
+  - link "Tara review":
+    - /url: https://bruised-embarrassment.net
+    - text: Tara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Tara-image"
+  - text: Vitium articulus valetudo depopulo casso sublime. Audio curis curvo similique utpote aetas cultellus demo utor. Corrigo cattus rerum carcer laboriosam magni arceo arma. Solutio cohibeo despecto barba adflicto ver. Cruentus odit via. Aequitas vicinus debilito suggero vesco accusator.
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - img "Josie_image"
+  - link "Josie review":
+    - /url: https://yearly-unblinking.info
+    - text: Josie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Josie-image"
+  - text: Via vivo officiis velum conitor a studio. Cerno vitium vester numquam viduo tabernus vix. Vergo aeternus territo conscendo angustus. Dicta aestivus vulgivagus utor tondeo cupiditas. Texo virga utrum aspernatur tunc absorbeo. Tergum eveniet alienus aestas capillus copiose aggredior auxilium. Damno considero cohaero exercitationem tripudio circumvenio administratio. Caste vinculum enim audio distinctio bos.
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - img "Marquise_image"
+  - link "Marquise review":
+    - /url: https://jubilant-gymnast.biz
+    - text: Marquise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Marquise-image"
+  - text: Odio adeo aspicio suasoria paulatim expedita velociter. Temporibus tribuo adsidue uredo depulso tergo. Caute vilicus iusto aequus coniuratio defaeco urbs antepono ambulo ars. Vir similique aeternus. Aufero curriculum textus depopulo depraedor laudantium votum tunc recusandae voluntarius.
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - img "Rasheed_image"
+  - link "Rasheed review":
+    - /url: https://ethical-digit.biz/
+    - text: Rasheed
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Rasheed-image"
+  - text: Acervus bibo decens censura. Vehemens fuga aliquid sol verus cerno sol. Doloremque eum tabgo inflammatio. Molestiae urbs conspergo stips debitis speculum surgo solitudo. Quasi ventosus ars cernuus tabernus asporto abundans solitudo. Bene at certus adicio artificiose tergiversatio barba curiositas valeo.
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - img "Santino_image"
+  - link "Santino review":
+    - /url: https://unsightly-breastplate.biz
+    - text: Santino
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Santino-image"
+  - text: Compello decumbo creta deorsum. Vulnus cognomen alveus comis adeptio sophismata turbo deripio alienus deserunt. Defluo accedo deputo depopulo currus amo coma eum accusantium cerno. Bis videlicet nostrum succedo coma cubo nam viduo supplanto verbum. Surculus aetas patrocinor conscendo nobis. Amo libero vapulus curriculum deorsum taedium via quod aeger. Denuo sub turbo suffragium.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 recenzii
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 recenzii
+- img "Tar photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Evaluare cu stelede Tara 3 дня назад
+- img "Jos photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Evaluare cu stelede Josie 3 дня назад
+- img "Mar photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Evaluare cu stelede Marquise 3 дня назад
+- img "Ras photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Evaluare cu stelede Rasheed 3 дня назад
+- img "San photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Evaluare cu stelede Santino 3 дня назад
+- button "Open chat"
+```
