@@ -1,0 +1,1458 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Adsidue nihil cattus somniculosus vigor ait ater cumque vomito derideo.
+  - paragraph:
+    - img
+    - text: Strues ter carmen reprehenderit suspendo aspernatur sto damno tenus aeternus.
+  - paragraph:
+    - img
+    - text: Suppono color cervus velociter repudiandae valetudo voco.
+  - button "Zeig mehr"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Adsidue nihil cattus somniculosus vigor ait ater cumque vomito derideo.
+  - paragraph:
+    - img
+    - text: Strues ter carmen reprehenderit suspendo aspernatur sto damno tenus aeternus.
+  - paragraph:
+    - img
+    - text: Suppono color cervus velociter repudiandae valetudo voco.
+  - button "Zeig mehr"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Adsidue nihil cattus somniculosus vigor ait ater cumque vomito derideo.
+  - paragraph:
+    - img
+    - text: Strues ter carmen reprehenderit suspendo aspernatur sto damno tenus aeternus.
+  - paragraph:
+    - img
+    - text: Suppono color cervus velociter repudiandae valetudo voco.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Adsidue nihil cattus somniculosus vigor ait ater cumque vomito derideo.
+  - paragraph:
+    - img
+    - text: Strues ter carmen reprehenderit suspendo aspernatur sto damno tenus aeternus.
+  - paragraph:
+    - img
+    - text: Suppono color cervus velociter repudiandae valetudo voco.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 Bewertungen on
+  - img
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Adsidue nihil cattus somniculosus vigor ait ater cumque vomito derideo.
+  - paragraph:
+    - img
+    - text: Strues ter carmen reprehenderit suspendo aspernatur sto damno tenus aeternus.
+  - paragraph:
+    - img
+    - text: Suppono color cervus velociter repudiandae valetudo voco.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - button "Zeig mehr"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 Bewertungen on
+  - img
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Adsidue nihil cattus somniculosus vigor ait ater cumque vomito derideo.
+  - paragraph:
+    - img
+    - text: Strues ter carmen reprehenderit suspendo aspernatur sto damno tenus aeternus.
+  - paragraph:
+    - img
+    - text: Suppono color cervus velociter repudiandae valetudo voco.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - img "review_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - img "review_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - img "review_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - img "review_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 Bewertungen on
+  - img
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Adsidue nihil cattus somniculosus vigor ait ater cumque vomito derideo.
+  - paragraph:
+    - img
+    - text: Strues ter carmen reprehenderit suspendo aspernatur sto damno tenus aeternus.
+  - paragraph:
+    - img
+    - text: Suppono color cervus velociter repudiandae valetudo voco.
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - img "Rigoberto_image"
+  - link "Rigoberto review":
+    - /url: https://snoopy-thigh.name
+    - text: Rigoberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Rigoberto-image"
+  - text: Tondeo admiratio charisma tenax auxilium vester cohibeo aeternus supplanto. Trucido asperiores odit sui. Vado urbs subito. Communis sponte teres aspicio. Hic votum demoror soluta desparatus tricesimus vesco dolore versus tutis.
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - img "Danny_image"
+  - link "Danny review":
+    - /url: https://tangible-schnitzel.name
+    - text: Danny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Danny-image"
+  - text: Suffragium capto caecus subseco spectaculum. Triduana custodia ulterius pariatur cur usque. Cariosus benevolentia ipsam tutis tertius asporto. Unde peccatus labore alius spectaculum laboriosam colo necessitatibus auxilium vilicus. Apud consectetur sol tactus. Arceo cursim aureus sollers. Thesis benigne aestivus. Reiciendis autus theologus auctus mollitia.
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - img "Leanne_image"
+  - link "Leanne review":
+    - /url: https://sophisticated-freight.org
+    - text: Leanne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Leanne-image"
+  - text: Labore cornu fuga dens tenus solutio dedico. Carus adstringo curiositas arcesso aveho coma corpus. Ducimus ver solio. Colligo nobis vaco conspergo caries damno vorago tero. Decor attollo vitium decet. Tergum ipsum summa deorsum cresco qui. Annus magni tumultus trucido tenax debitis. Adfectus vulgaris fuga texo demo nulla terminatio. Quis tonsor cariosus doloremque cubitum. Consequatur subiungo arbitro.
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - img "Alana_image"
+  - link "Alana review":
+    - /url: https://short-maestro.name
+    - text: Alana
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Alana-image"
+  - text: Amet crur viridis defungo angelus brevis bestia cariosus abutor demitto. Vere sopor varius accusantium debitis damno pecto. Tam stipes charisma circumvenio concedo benigne terminatio theatrum. Deficio celo amiculum custodia. Distinctio tergeo demulceo.
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - img "Lura_image"
+  - link "Lura review":
+    - /url: https://well-made-co-producer.org/
+    - text: Lura
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Lura-image"
+  - text: Assumenda deduco dens cogo allatus voluptates fugiat. Approbo vobis teres strues vulticulus. Valetudo antea sum. Alias aduro ulciscor. Illo acceptus spes corrigo velociter saepe. Aperiam cruentus textor vel verumtamen.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 Bewertungen
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 Bewertungen
+- img "Rig photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Rigoberto 3 дня назад
+- img "Dan photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Danny 3 дня назад
+- img "Lea photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Leanne 3 дня назад
+- img "Ala photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Alana 3 дня назад
+- img "Lur photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Lura 3 дня назад
+- button "Open chat"
+```
