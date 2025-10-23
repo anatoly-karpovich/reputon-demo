@@ -1,0 +1,1460 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-generert sammendrag Basert på 5 anmeldelser
+  - img
+  - paragraph:
+    - img
+    - text: Quod absque succurro suspendo utroque tamdiu claro.
+  - paragraph:
+    - img
+    - text: Celer adnuo canonicus vaco decet absorbeo abbas utrimque suffragium.
+  - paragraph:
+    - img
+    - text: Contabesco quam ratione vel.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - button "Vis mer"
+  - img "review_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - button "Vis mer"
+  - img "review_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - button "Vis mer"
+  - img "review_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - button "Vis mer"
+  - img "review_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - button "Vis mer"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-generert sammendrag Basert på 5 anmeldelser
+  - img
+  - paragraph:
+    - img
+    - text: Quod absque succurro suspendo utroque tamdiu claro.
+  - paragraph:
+    - img
+    - text: Celer adnuo canonicus vaco decet absorbeo abbas utrimque suffragium.
+  - paragraph:
+    - img
+    - text: Contabesco quam ratione vel.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - button "Vis mer"
+  - img "review_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - button "Vis mer"
+  - img "review_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - button "Vis mer"
+  - img "review_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - button "Vis mer"
+  - img "review_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - button "Vis mer"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-generert sammendrag Basert på 5 anmeldelser
+  - img
+  - paragraph:
+    - img
+    - text: Quod absque succurro suspendo utroque tamdiu claro.
+  - paragraph:
+    - img
+    - text: Celer adnuo canonicus vaco decet absorbeo abbas utrimque suffragium.
+  - paragraph:
+    - img
+    - text: Contabesco quam ratione vel.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - text: AI AI-generert sammendrag Basert på 5 anmeldelser
+  - img
+  - paragraph:
+    - img
+    - text: Quod absque succurro suspendo utroque tamdiu claro.
+  - paragraph:
+    - img
+    - text: Celer adnuo canonicus vaco decet absorbeo abbas utrimque suffragium.
+  - paragraph:
+    - img
+    - text: Contabesco quam ratione vel.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Legg igjen en anmeldelse":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Legg igjen en anmeldelse"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 anmeldelser on
+  - img
+  - link "Legg igjen en anmeldelse":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Legg igjen en anmeldelse"
+  - text: AI AI-generert sammendrag Basert på 5 anmeldelser
+  - img
+  - paragraph:
+    - img
+    - text: Quod absque succurro suspendo utroque tamdiu claro.
+  - paragraph:
+    - img
+    - text: Celer adnuo canonicus vaco decet absorbeo abbas utrimque suffragium.
+  - paragraph:
+    - img
+    - text: Contabesco quam ratione vel.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Vis mer"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - button "Vis mer"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - button "Vis mer"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 anmeldelser on
+  - img
+  - link "Legg igjen en anmeldelse":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Legg igjen en anmeldelse"
+  - text: AI AI-generert sammendrag Basert på 5 anmeldelser
+  - img
+  - paragraph:
+    - img
+    - text: Quod absque succurro suspendo utroque tamdiu claro.
+  - paragraph:
+    - img
+    - text: Celer adnuo canonicus vaco decet absorbeo abbas utrimque suffragium.
+  - paragraph:
+    - img
+    - text: Contabesco quam ratione vel.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - img "review_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - img "review_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - img "review_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - img "review_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 anmeldelser on
+  - img
+  - link "Legg igjen en anmeldelse":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Legg igjen en anmeldelse"
+  - text: AI AI-generert sammendrag Basert på 5 anmeldelser
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Quod absque succurro suspendo utroque tamdiu claro.
+  - paragraph:
+    - img
+    - text: Celer adnuo canonicus vaco decet absorbeo abbas utrimque suffragium.
+  - paragraph:
+    - img
+    - text: Contabesco quam ratione vel.
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - img "Camryn_image"
+  - link "Camryn review":
+    - /url: https://joyous-breastplate.org
+    - text: Camryn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Camryn-image"
+  - text: Cognatus at inventore depereo conservo denego arto. Votum dicta nobis damnatio altus carbo curia claustrum angulus. Labore odit pecto adeptio sui clam. Arx caries cornu sulum anser. Cui viridis pel caterva aspernatur decipio defero.
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - img "Esta_image"
+  - link "Esta review":
+    - /url: https://awful-tectonics.net
+    - text: Esta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Esta-image"
+  - text: Traho arcus considero suppono vita unus sequi nisi. Attero dolore terebro aedificium. Tutamen argumentum cursim baiulus adipisci. Damno cogo aer charisma. Vinum suffragium vereor. Creo vergo illo defungo cubicularis voluptates. Color sperno venio tamquam argentum tego conservo comburo socius. Adipiscor spes eum abundans aestus inflammatio casso necessitatibus neque.
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - img "Virgil_image"
+  - link "Virgil review":
+    - /url: https://elementary-doing.com
+    - text: Virgil
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Virgil-image"
+  - text: Vito virga synagoga. Dedecor animus iusto et venia. Dignissimos statim hic arto stipes non perspiciatis. Crustulum coaegresco urbanus arto. Denuncio voluptatibus deduco sui. Calamitas vicissitudo conculco velum cauda tantum curia defleo est solio. Qui distinctio nisi demo sumo socius itaque civis. Uter acquiro ex peccatus depopulo incidunt ocer cena versus cilicium. Dedico aureus patria. Cornu vir textor corporis cattus corona tego cur verus cunae.
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - img "Lelah_image"
+  - link "Lelah review":
+    - /url: https://unpleasant-trick.name
+    - text: Lelah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Lelah-image"
+  - text: Velum sono amiculum carus tredecim cetera. Verus super ascit. Cursim corrupti solum. Absque cruciamentum deinde aro argumentum conitor. Attollo certus tepidus commodi strenuus dolore aer vinum aurum. Comedo comprehendo eius cupio communis campana.
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - img "Wayne_image"
+  - link "Wayne review":
+    - /url: https://new-courtroom.biz/
+    - text: Wayne
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Wayne-image"
+  - text: Paulatim tabesco creptio ante urbs alii cresco combibo. Sono termes earum nisi conatus inflammatio adeptio. Id conduco uter stillicidium spero compello comminor victus. Candidus studio compono amita quas xiphias. Aro civis depono tergiversatio debeo beatae vulariter coaegresco dolorem. Cribro vilitas inflammatio agnosco deinde ipsam defetiscor torqueo.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 anmeldelser
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 anmeldelser
+- img "Cam photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjernerangeringav Camryn 3 дня назад
+- img "Est photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjernerangeringav Esta 3 дня назад
+- img "Vir photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjernerangeringav Virgil 3 дня назад
+- img "Lel photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjernerangeringav Lelah 3 дня назад
+- img "Way photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 stjernerangeringav Wayne 3 дня назад
+- button "Open chat"
+```
