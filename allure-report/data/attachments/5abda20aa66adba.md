@@ -1,0 +1,1460 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Σύνοψη που δημιουργήθηκε από AI Βασισμένο σε 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Vicissitudo compello cariosus conor conservo admoneo defessus voluptates.
+  - paragraph:
+    - img
+    - text: Clibanus conicio consequuntur.
+  - paragraph:
+    - img
+    - text: Templum vix abstergo concedo xiphias.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Σύνοψη που δημιουργήθηκε από AI Βασισμένο σε 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Vicissitudo compello cariosus conor conservo admoneo defessus voluptates.
+  - paragraph:
+    - img
+    - text: Clibanus conicio consequuntur.
+  - paragraph:
+    - img
+    - text: Templum vix abstergo concedo xiphias.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - button "Δείτε περισσότερα"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Σύνοψη που δημιουργήθηκε από AI Βασισμένο σε 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Vicissitudo compello cariosus conor conservo admoneo defessus voluptates.
+  - paragraph:
+    - img
+    - text: Clibanus conicio consequuntur.
+  - paragraph:
+    - img
+    - text: Templum vix abstergo concedo xiphias.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - text: AI Σύνοψη που δημιουργήθηκε από AI Βασισμένο σε 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Vicissitudo compello cariosus conor conservo admoneo defessus voluptates.
+  - paragraph:
+    - img
+    - text: Clibanus conicio consequuntur.
+  - paragraph:
+    - img
+    - text: Templum vix abstergo concedo xiphias.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Αφήστε μια κριτική":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Αφήστε μια κριτική"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Αφήστε μια κριτική":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Αφήστε μια κριτική"
+  - text: AI Σύνοψη που δημιουργήθηκε από AI Βασισμένο σε 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Vicissitudo compello cariosus conor conservo admoneo defessus voluptates.
+  - paragraph:
+    - img
+    - text: Clibanus conicio consequuntur.
+  - paragraph:
+    - img
+    - text: Templum vix abstergo concedo xiphias.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - button "Δείτε περισσότερα"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Αφήστε μια κριτική":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Αφήστε μια κριτική"
+  - text: AI Σύνοψη που δημιουργήθηκε από AI Βασισμένο σε 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Vicissitudo compello cariosus conor conservo admoneo defessus voluptates.
+  - paragraph:
+    - img
+    - text: Clibanus conicio consequuntur.
+  - paragraph:
+    - img
+    - text: Templum vix abstergo concedo xiphias.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - img "review_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - img "review_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - img "review_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - img "review_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Αφήστε μια κριτική":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Αφήστε μια κριτική"
+  - text: AI Σύνοψη που δημιουργήθηκε από AI Βασισμένο σε 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Vicissitudo compello cariosus conor conservo admoneo defessus voluptates.
+  - paragraph:
+    - img
+    - text: Clibanus conicio consequuntur.
+  - paragraph:
+    - img
+    - text: Templum vix abstergo concedo xiphias.
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - img "Thelma_image"
+  - link "Thelma review":
+    - /url: https://wrong-numeric.net/
+    - text: Thelma
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Thelma-image"
+  - text: Aiunt alter custodia exercitationem careo ara animus textus tremo. Virgo patruus adsidue arma curtus vespillo cattus. Cursim conturbo nemo. Conor claudeo comitatus subseco vestigium venustas. Tot assumenda labore averto textilis auctor conor amaritudo corporis quisquam. Tollo creo vindico dicta validus crudelis.
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - img "Sedrick_image"
+  - link "Sedrick review":
+    - /url: https://mediocre-story.com
+    - text: Sedrick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Sedrick-image"
+  - text: Contra alius correptius conqueror adfero cohors caute adfero. Synagoga defendo titulus facere succedo amoveo. Vestigium venia acerbitas spes adiuvo. Acsi tam crur tametsi convoco cuppedia tantillus sed. Acsi minus sursum. Pecus vulgaris quae amor vulgus audacia depraedor audentia. Aggero sursum complectus absque certus.
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - img "Asha_image"
+  - link "Asha review":
+    - /url: https://unwelcome-kit.org/
+    - text: Asha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Asha-image"
+  - text: Cunctatio adiuvo socius cibus adipiscor altus vindico suffoco amitto. Spiculum una adimpleo usus eius teneo tabula. Spiritus comitatus consequatur commodi derelinquo. Copiose defero tempora verbera territo stillicidium. Clarus denego centum adulatio tempus speculum versus. Crebro saepe testimonium voco artificiose deduco.
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - img "Nedra_image"
+  - link "Nedra review":
+    - /url: https://authentic-editor.org
+    - text: Nedra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Nedra-image"
+  - text: Ventosus desidero civis audentia aureus deprecator rerum volutabrum natus. Truculenter censura tam arma antiquus cunabula. Alo approbo villa bellum explicabo cunae autus derelinquo somniculosus carcer. Natus demo deripio corrupti tabula vigor acquiro. Et speciosus velum videlicet spectaculum volva defetiscor amplus somniculosus tamquam. Aufero vergo solio cedo terebro vergo vivo. Demergo expedita culpa cetera vereor.
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - img "Luis_image"
+  - link "Luis review":
+    - /url: https://intrepid-draft.info/
+    - text: Luis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Luis-image"
+  - text: Ver vomito utrimque cruciamentum synagoga. Claudeo thesis subito cui ter solitudo. Caecus facere curvo suasoria. Vomer tum demum cruentus patrocinor statim caelum caries bardus. Textus cernuus ciminatio quas alias cupio allatus caute. Volubilis doloremque ter acerbitas laborum sumptus. Ambulo thymum vinco.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "The photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 αστέριααπό τον Thelma 3 дня назад
+- img "Sed photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 αστέριααπό τον Sedrick 3 дня назад
+- img "Ash photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 αστέριααπό τον Asha 3 дня назад
+- img "Ned photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 αστέριααπό τον Nedra 3 дня назад
+- img "Lui photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 αστέριααπό τον Luis 3 дня назад
+- button "Open chat"
+```
