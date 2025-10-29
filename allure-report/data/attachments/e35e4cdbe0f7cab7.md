@@ -1,0 +1,1460 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Terra aptus audio aureus.
+  - paragraph:
+    - img
+    - text: Utpote blandior dapifer varietas vereor arbustum cedo tactus odio.
+  - paragraph:
+    - img
+    - text: Acsi cura accedo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - button "Laat meer zien"
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Terra aptus audio aureus.
+  - paragraph:
+    - img
+    - text: Utpote blandior dapifer varietas vereor arbustum cedo tactus odio.
+  - paragraph:
+    - img
+    - text: Acsi cura accedo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - button "Laat meer zien"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Terra aptus audio aureus.
+  - paragraph:
+    - img
+    - text: Utpote blandior dapifer varietas vereor arbustum cedo tactus odio.
+  - paragraph:
+    - img
+    - text: Acsi cura accedo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Terra aptus audio aureus.
+  - paragraph:
+    - img
+    - text: Utpote blandior dapifer varietas vereor arbustum cedo tactus odio.
+  - paragraph:
+    - img
+    - text: Acsi cura accedo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Laat een beoordeling achter":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laat een beoordeling achter"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Laat een beoordeling achter":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laat een beoordeling achter"
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Terra aptus audio aureus.
+  - paragraph:
+    - img
+    - text: Utpote blandior dapifer varietas vereor arbustum cedo tactus odio.
+  - paragraph:
+    - img
+    - text: Acsi cura accedo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - button "Laat meer zien"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Laat een beoordeling achter":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laat een beoordeling achter"
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Terra aptus audio aureus.
+  - paragraph:
+    - img
+    - text: Utpote blandior dapifer varietas vereor arbustum cedo tactus odio.
+  - paragraph:
+    - img
+    - text: Acsi cura accedo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - img "review_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - img "review_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - img "review_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - img "review_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Laat een beoordeling achter":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laat een beoordeling achter"
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Terra aptus audio aureus.
+  - paragraph:
+    - img
+    - text: Utpote blandior dapifer varietas vereor arbustum cedo tactus odio.
+  - paragraph:
+    - img
+    - text: Acsi cura accedo.
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - img "Felix_image"
+  - link "Felix review":
+    - /url: https://soulful-cuckoo.org
+    - text: Felix
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Felix-image"
+  - text: Curia autus numquam ambitus balbus timor adduco teres demulceo acer. Comptus vado contego minus cibus depopulo repellendus paens. Deserunt avarus despecto amet vitae aedificium cruentus quae repudiandae ceno. Vorax defero vado trucido defleo claustrum corpus ascit tam qui. Cattus deludo alias. Conqueror vivo amplus statua bestia cunabula vis distinctio vinum. Voluptas sublime coadunatio desparatus. Torqueo temptatio deporto praesentium depereo. Tribuo tempore modi ipsa adipiscor. Ter volup vis velit comptus theca sortitus crepusculum.
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - img "Raymundo_image"
+  - link "Raymundo review":
+    - /url: https://negligible-euphonium.com/
+    - text: Raymundo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Raymundo-image"
+  - text: Reiciendis sodalitas vulgus textor complectus cursim talus. Ait alioqui consequuntur uter debilito deludo vulpes ventus adhaero. Solitudo vere assentator coruscus caput vulgus conventus. Deserunt considero torrens. Eligendi facilis caterva corporis tego capio coadunatio rerum aeger. Viriliter versus campana. Confido vesper calamitas vorax. Eos urbanus cogito deficio tabesco terra. Somnus atque cariosus demulceo autus.
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - img "Milford_image"
+  - link "Milford review":
+    - /url: https://splendid-spork.biz
+    - text: Milford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Milford-image"
+  - text: Utique tabgo cornu cibo thymum sulum ultra thalassinus. Sono curatio colligo amicitia cursim. Conicio accendo deprecator quaerat talis. Claustrum perspiciatis acerbitas. Amaritudo tutis numquam basium caelum arcesso absque. Apto libero enim vinco. Ascisco depromo copiose inflammatio vitae.
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - img "Eli_image"
+  - link "Eli review":
+    - /url: https://unrealistic-sonata.name/
+    - text: Eli
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Eli-image"
+  - text: Tracto amplexus curto mollitia pauci spiritus inflammatio natus. Qui tutamen ambitus coaegresco. Una tergum solio vorax eveniet ager cedo ocer veritas atque. Caries possimus adduco animadverto. Volutabrum cilicium antea ciminatio suus calculus vetus crapula colligo. Conatus adamo adfectus admitto eos spoliatio comitatus bestia cervus. Tumultus amicitia ipsa eveniet torrens solvo.
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - img "Joshuah_image"
+  - link "Joshuah review":
+    - /url: https://recent-guidance.net
+    - text: Joshuah
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Joshuah-image"
+  - text: Abbas cognatus attonbitus hic vesco via speculum vis vinculum natus. Volaticus adfero adfectus officia victoria quas succedo quasi antepono. Creo cauda casso capio. Beneficium nemo aurum subseco. Decipio delinquo cometes reiciendis viscus turpis quidem ratione volubilis. Aestas subnecto asperiores ater. Clam cunae substantia sodalitas ustulo caritas theatrum tenus. Thermae similique sodalitas. Tantum crastinus sumo cupio commodo aiunt debitis.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Fel photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Felix 3 дня назад
+- img "Ray photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Raymundo 3 дня назад
+- img "Mil photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Milford 3 дня назад
+- img "Eli photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Eli 3 дня назад
+- img "Jos photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Joshuah 3 дня назад
+- button "Open chat"
+```
