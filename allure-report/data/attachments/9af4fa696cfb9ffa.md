@@ -1,0 +1,1461 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Podsumowanie wygenerowane przez sztuczną inteligencję Na podstawie 5 opinii
+  - img
+  - paragraph:
+    - img
+    - text: Tactus delectus velut tyrannus ventito tener.
+  - paragraph:
+    - img
+    - text: Tutis supplanto natus.
+  - paragraph:
+    - img
+    - text: Accusantium incidunt solitudo pecto accusantium in acceptus dolorum sollicito arcesso.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Podsumowanie wygenerowane przez sztuczną inteligencję Na podstawie 5 opinii
+  - img
+  - paragraph:
+    - img
+    - text: Tactus delectus velut tyrannus ventito tener.
+  - paragraph:
+    - img
+    - text: Tutis supplanto natus.
+  - paragraph:
+    - img
+    - text: Accusantium incidunt solitudo pecto accusantium in acceptus dolorum sollicito arcesso.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - button "Pokaż więcej"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Podsumowanie wygenerowane przez sztuczną inteligencję Na podstawie 5 opinii
+  - img
+  - paragraph:
+    - img
+    - text: Tactus delectus velut tyrannus ventito tener.
+  - paragraph:
+    - img
+    - text: Tutis supplanto natus.
+  - paragraph:
+    - img
+    - text: Accusantium incidunt solitudo pecto accusantium in acceptus dolorum sollicito arcesso.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - text: AI Podsumowanie wygenerowane przez sztuczną inteligencję Na podstawie 5 opinii
+  - img
+  - paragraph:
+    - img
+    - text: Tactus delectus velut tyrannus ventito tener.
+  - paragraph:
+    - img
+    - text: Tutis supplanto natus.
+  - paragraph:
+    - img
+    - text: Accusantium incidunt solitudo pecto accusantium in acceptus dolorum sollicito arcesso.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Zostaw recenzję":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Zostaw recenzję"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 opinii on
+  - img
+  - link "Zostaw recenzję":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Zostaw recenzję"
+  - text: AI Podsumowanie wygenerowane przez sztuczną inteligencję Na podstawie 5 opinii
+  - img
+  - paragraph:
+    - img
+    - text: Tactus delectus velut tyrannus ventito tener.
+  - paragraph:
+    - img
+    - text: Tutis supplanto natus.
+  - paragraph:
+    - img
+    - text: Accusantium incidunt solitudo pecto accusantium in acceptus dolorum sollicito arcesso.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - button "Pokaż więcej"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 opinii on
+  - img
+  - link "Zostaw recenzję":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Zostaw recenzję"
+  - text: AI Podsumowanie wygenerowane przez sztuczną inteligencję Na podstawie 5 opinii
+  - img
+  - paragraph:
+    - img
+    - text: Tactus delectus velut tyrannus ventito tener.
+  - paragraph:
+    - img
+    - text: Tutis supplanto natus.
+  - paragraph:
+    - img
+    - text: Accusantium incidunt solitudo pecto accusantium in acceptus dolorum sollicito arcesso.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - img "review_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - img "review_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - img "review_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - img "review_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 opinii on
+  - img
+  - link "Zostaw recenzję":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Zostaw recenzję"
+  - text: AI Podsumowanie wygenerowane przez sztuczną inteligencję Na podstawie 5 opinii
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Tactus delectus velut tyrannus ventito tener.
+  - paragraph:
+    - img
+    - text: Tutis supplanto natus.
+  - paragraph:
+    - img
+    - text: Accusantium incidunt solitudo pecto accusantium in acceptus dolorum sollicito arcesso.
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - img "Caleigh_image"
+  - link "Caleigh review":
+    - /url: https://married-scratch.biz
+    - text: Caleigh
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Caleigh-image"
+  - text: Cumque volutabrum thalassinus patior valens. Demitto tabella peior arceo advenio thesis textus nisi centum. Tunc cunabula cursim carcer copia circumvenio. Cavus astrum thermae mollitia. Tantillus sufficio conforto cruciamentum demergo defungo velut laudantium cognatus amicitia. Cultura speciosus bos ciminatio torqueo denuo necessitatibus valetudo. Circumvenio videlicet cruentus angustus recusandae curvo vulgaris.
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - img "Ubaldo_image"
+  - link "Ubaldo review":
+    - /url: https://thick-leading.name/
+    - text: Ubaldo
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Ubaldo-image"
+  - text: Repudiandae strenuus speciosus eum summopere validus. Defleo aut angustus. Absconditus ago vorago stillicidium defleo deporto. Delinquo quam vere deporto valde cubitum cetera ventus cariosus. Animi suppono suscipit consectetur a amo asperiores et omnis suspendo.
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - img "Barbara_image"
+  - link "Barbara review":
+    - /url: https://expensive-diversity.com/
+    - text: Barbara
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Barbara-image"
+  - text: Vehemens suasoria crapula surgo bene valde temptatio cotidie vox depereo. Vomito delicate admoveo argentum desolo sponte caterva ustulo adulatio talis. Tolero attonbitus comis verecundia alius. Adeptio unus calculus coma vel curvo textilis synagoga causa. Tamen creo in pariatur illo crur delinquo. Dolorum amo aduro dedico defungo decerno dens aperiam cohors. Vulgo thermae quasi appositus aufero culpo deludo. Quidem cenaculum casso crustulum videlicet textilis. Confero aequitas ad aspicio vestigium suscipio. Vulpes acidus argumentum.
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - img "Clifford_image"
+  - link "Clifford review":
+    - /url: https://authentic-necklace.org
+    - text: Clifford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Clifford-image"
+  - text: Conturbo vel tenus. Bestia thermae vespillo casso careo creator constans creber valens curso. Cogito tollo taceo amplexus adulatio ventito calco. Eaque thorax verto abutor aeneus corpus. Dedecor vetus perspiciatis amitto tres vito. Templum dolorem cupiditas valetudo at.
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - img "Serena_image"
+  - link "Serena review":
+    - /url: https://some-mantua.net/
+    - text: Serena
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Serena-image"
+  - text: Amplus defetiscor accusantium cavus. Strues alius audeo vomer celo vinco celebrer deorsum. Tandem dens canis denique tabella vigor vitium vomer. Quasi non pauci cognomen armarium tempora audio conatus delibero. Agnosco consequuntur tyrannus socius usitas illum video vulgus. Adnuo truculenter eum alter aeger cruentus coruscus.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 opinii
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 opinii
+- img "Cal photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 gwiazdekod Caleigh 3 дня назад
+- img "Uba photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 gwiazdekod Ubaldo 3 дня назад
+- img "Bar photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 gwiazdekod Barbara 3 дня назад
+- img "Cli photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 gwiazdekod Clifford 3 дня назад
+- img "Ser photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 gwiazdekod Serena 3 дня назад
+- button "Open chat"
+```
