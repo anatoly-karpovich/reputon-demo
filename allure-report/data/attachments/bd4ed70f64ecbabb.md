@@ -1,0 +1,1353 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - button "Show more"
+  - img "review_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - button "Show more"
+  - img "review_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - button "Show more"
+  - img "review_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - button "Show more"
+  - img "review_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - button "Show more"
+  - img "review_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - button "Show more"
+  - img "review_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - button "Show more"
+  - img "review_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - button "Show more"
+  - img "review_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - button "Show more"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - button "Show more"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - button "Show more"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - img "review_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - img "review_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - img "review_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - img "review_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://unimportant-possession.info
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Eleazar-image"
+  - text: Provident crepusculum benevolentia adfectus addo facere traho sophismata. Clibanus virtus vicinus. Attollo thesaurus coaegresco curso delinquo inflammatio facilis sequi utilis ventito. Audio solitudo denique attollo ulciscor velut comptus dolor atrox labore. Talis arcesso adipiscor vallum temperantia adstringo solutio officiis. Vorago strenuus cogito canonicus summa charisma turbo usitas abbas. Maiores summa degenero tersus eligendi abduco vorago.
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - img "Eleazar_image"
+  - link "Eleazar review":
+    - /url: https://worldly-gerbil.name
+    - text: Eleazar
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Eleazar-image"
+  - text: Admitto canonicus bene tristis strenuus. Tribuo totus collum videlicet ambulo porro impedit. Incidunt ipsum absorbeo spectaculum super autus admoneo. Illo crepusculum ad vinum vester nihil aveho. Beatae spargo sortitus. Aestas quidem adhuc arbitro tepesco deputo titulus aperio thesaurus adsum. Communis curso usus numquam a.
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - img "Aidan_image"
+  - link "Aidan review":
+    - /url: https://nocturnal-scenario.org/
+    - text: Aidan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Aidan-image"
+  - text: Delectatio vaco adimpleo adfectus conspergo maiores. Cruciamentum vorax eum uredo utrum facere tutamen approbo ante conicio. Desidero acquiro crinis thorax torqueo ullam tonsor vir curto. Ullus sed demo viriliter solutio blanditiis agnitio curia vorago. Decipio universe quidem. At neque virgo cimentarius terra ipsum quibusdam terra alias usitas. Deserunt pariatur eum canto vito. Sumo decretum conturbo dedico tenus coerceo alias placeat. Stips corpus eius quaerat defetiscor.
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - img "Adam_image"
+  - link "Adam review":
+    - /url: https://which-allocation.info/
+    - text: Adam
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Adam-image"
+  - text: Una crinis cupiditas virtus acerbitas apud conqueror via rem aequitas. Asper illo ager catena fugit tamdiu anser cura videlicet. Animi sopor vinculum apostolus arcus enim aperiam. Arto adipiscor apostolus cubitum. Venia circumvenio spectaculum atque denique asper alias tollo. Conduco utor defessus repellat.
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - img "Max_image"
+  - link "Max review":
+    - /url: https://jagged-utilization.name
+    - text: Max
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Max-image"
+  - text: Libero utroque vergo. Voveo ager cotidie validus. Tenus distinctio cognomen cupiditas eveniet. Non tenax terebro vir dolorem aestas. Deripio denego volaticus ocer solio certus. Aegre voro circumvenio torqueo mollitia aro astrum attollo. Optio appello advenio via tabula thalassinus abutor utique crur.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Ele photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Eleazar 3 дня назад
+- img "Ele photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Eleazar 3 дня назад
+- img "Aid photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Aidan 3 дня назад
+- img "Ada photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Adam 3 дня назад
+- img "Max photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Max 3 дня назад
+- button "Open chat"
+```
