@@ -1,0 +1,1463 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Desino bardus civitas tondeo ambulo acsi tamdiu accusantium vilitas nam.
+  - paragraph:
+    - img
+    - text: Solum villa tenus vicinus verto video charisma velut clam surculus.
+  - paragraph:
+    - img
+    - text: Tabula coma venio absconditus tenax casus atavus.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - button "Show more"
+  - img "review_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - button "Show more"
+  - img "review_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - button "Show more"
+  - img "review_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - button "Show more"
+  - img "review_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Desino bardus civitas tondeo ambulo acsi tamdiu accusantium vilitas nam.
+  - paragraph:
+    - img
+    - text: Solum villa tenus vicinus verto video charisma velut clam surculus.
+  - paragraph:
+    - img
+    - text: Tabula coma venio absconditus tenax casus atavus.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - button "Show more"
+  - img "review_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - button "Show more"
+  - img "review_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - button "Show more"
+  - img "review_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - button "Show more"
+  - img "review_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Desino bardus civitas tondeo ambulo acsi tamdiu accusantium vilitas nam.
+  - paragraph:
+    - img
+    - text: Solum villa tenus vicinus verto video charisma velut clam surculus.
+  - paragraph:
+    - img
+    - text: Tabula coma venio absconditus tenax casus atavus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Desino bardus civitas tondeo ambulo acsi tamdiu accusantium vilitas nam.
+  - paragraph:
+    - img
+    - text: Solum villa tenus vicinus verto video charisma velut clam surculus.
+  - paragraph:
+    - img
+    - text: Tabula coma venio absconditus tenax casus atavus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Desino bardus civitas tondeo ambulo acsi tamdiu accusantium vilitas nam.
+  - paragraph:
+    - img
+    - text: Solum villa tenus vicinus verto video charisma velut clam surculus.
+  - paragraph:
+    - img
+    - text: Tabula coma venio absconditus tenax casus atavus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - button "Show more"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - button "Show more"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - button "Show more"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - button "Show more"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Desino bardus civitas tondeo ambulo acsi tamdiu accusantium vilitas nam.
+  - paragraph:
+    - img
+    - text: Solum villa tenus vicinus verto video charisma velut clam surculus.
+  - paragraph:
+    - img
+    - text: Tabula coma venio absconditus tenax casus atavus.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - img "review_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - img "review_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - img "review_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - img "review_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI-Generated Summary Based on 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Desino bardus civitas tondeo ambulo acsi tamdiu accusantium vilitas nam.
+  - paragraph:
+    - img
+    - text: Solum villa tenus vicinus verto video charisma velut clam surculus.
+  - paragraph:
+    - img
+    - text: Tabula coma venio absconditus tenax casus atavus.
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - img "Isom_image"
+  - link "Isom review":
+    - /url: https://sneaky-hippodrome.biz
+    - text: Isom
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Isom-image"
+  - text: Varietas volo curso decerno ascit. Sto vir auctus suspendo tardus ventus accusantium ager corona. Odit saepe sordeo cibo soleo capio coma. Speculum succurro caelum centum celo vinitor pauper. Bibo apto clam amplitudo vitium tergum valde vespillo caritas.
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - img "Kellie_image"
+  - link "Kellie review":
+    - /url: https://other-sonata.com/
+    - text: Kellie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Kellie-image"
+  - text: Deporto cubicularis perspiciatis. Compono aeneus cum versus cruciamentum comparo. Cunctatio tactus vitiosus attero defluo thymbra confugo. Suadeo careo hic aqua solutio creator ait. Sollers thesaurus alias benigne. Spectaculum accusator acquiro copia cohaero tui blanditiis. Summa sperno vicinus vinitor veritas copia ventus vacuus accendo. Aestus quas denego via demitto nostrum quae. Vitium amaritudo cattus.
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - img "Noble_image"
+  - link "Noble review":
+    - /url: https://massive-volleyball.name/
+    - text: Noble
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Noble-image"
+  - text: Despecto cavus ter demitto. Deinde corpus denique sublime alveus. Cattus verbera terreo spargo paens arma. Arma denuo caritas cetera speculum. Adduco desidero synagoga vilis suscipio. Desolo sto deinde. Sodalitas claustrum sollicito. Tantillus uredo absens. Tubineus odit audio dolor aegrus uberrime alienus confido supra.
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - img "Bridget_image"
+  - link "Bridget review":
+    - /url: https://shoddy-rust.com
+    - text: Bridget
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Bridget-image"
+  - text: Modi cunae valde volo crastinus cultura vivo. Degusto vulgo adstringo agnosco adeptio cur provident consequuntur. Aperte cogo crustulum ustilo beatus creo. Amitto alter amissio. Civitas vorax sollicito deduco cinis dignissimos. Veritas thymum stella aveho cupressus studio succurro valetudo conspergo aperte.
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - img "Alize_image"
+  - link "Alize review":
+    - /url: https://cuddly-insolence.com
+    - text: Alize
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Alize-image"
+  - text: Tergo sui conor amitto coruscus carbo qui absque hic tepidus. Sed umbra amitto suscipit. Crinis eaque tolero pecus. Thema quis thalassinus. Viriliter creta auctor appono cetera victus suadeo. Teres vigor temporibus cariosus amoveo aspernatur facilis. Stips deripio comminor tremo cubitum tristis trans. Accusator benigne quis spiculum nulla viriliter sumo. Optio nobis commodo. Peccatus ipsa via thesaurus absconditus spes vado pel avaritia adiuvo.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Iso photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Isom 3 дня назад
+- img "Kel photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Kellie 3 дня назад
+- img "Nob photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Noble 3 дня назад
+- img "Bri photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Bridget 3 дня назад
+- img "Ali photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Alize 3 дня назад
+- button "Open chat"
+```
