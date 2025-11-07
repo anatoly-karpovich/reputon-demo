@@ -1,0 +1,1461 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Aureus una subseco.
+  - paragraph:
+    - img
+    - text: Cultellus centum sordeo valens accommodo aedificium.
+  - paragraph:
+    - img
+    - text: Venustas et tyrannus.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - button "Zobrazit více"
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Aureus una subseco.
+  - paragraph:
+    - img
+    - text: Cultellus centum sordeo valens accommodo aedificium.
+  - paragraph:
+    - img
+    - text: Venustas et tyrannus.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - button "Zobrazit více"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Aureus una subseco.
+  - paragraph:
+    - img
+    - text: Cultellus centum sordeo valens accommodo aedificium.
+  - paragraph:
+    - img
+    - text: Venustas et tyrannus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Aureus una subseco.
+  - paragraph:
+    - img
+    - text: Cultellus centum sordeo valens accommodo aedificium.
+  - paragraph:
+    - img
+    - text: Venustas et tyrannus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Napsat recenzi":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Napsat recenzi"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenze on
+  - img
+  - link "Napsat recenzi":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Napsat recenzi"
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Aureus una subseco.
+  - paragraph:
+    - img
+    - text: Cultellus centum sordeo valens accommodo aedificium.
+  - paragraph:
+    - img
+    - text: Venustas et tyrannus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - button "Zobrazit více"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenze on
+  - img
+  - link "Napsat recenzi":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Napsat recenzi"
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Aureus una subseco.
+  - paragraph:
+    - img
+    - text: Cultellus centum sordeo valens accommodo aedificium.
+  - paragraph:
+    - img
+    - text: Venustas et tyrannus.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - img "review_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - img "review_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - img "review_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - img "review_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenze on
+  - img
+  - link "Napsat recenzi":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Napsat recenzi"
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Aureus una subseco.
+  - paragraph:
+    - img
+    - text: Cultellus centum sordeo valens accommodo aedificium.
+  - paragraph:
+    - img
+    - text: Venustas et tyrannus.
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - img "Elissa_image"
+  - link "Elissa review":
+    - /url: https://rewarding-gray.org
+    - text: Elissa
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Elissa-image"
+  - text: Utique vorax subseco sto stultus appono desipio defero. Denique voluptas succurro aduro assumenda asporto cedo volaticus neque. Deprecator utor speciosus vorax bardus amo alii attonbitus suadeo calcar. Placeat centum conservo coniecto administratio custodia solutio theca valetudo pecto. Crinis soleo cotidie nostrum velum articulus curatio voluptate. Volup valeo dignissimos comprehendo comprehendo verto vallum neque. Admoveo abscido crudelis vir aetas degusto denego torqueo. Vulgo iure cursim curso subnecto. Vorax laboriosam desipio. Facere contigo amplus tendo.
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - img "Desiree_image"
+  - link "Desiree review":
+    - /url: https://unrealistic-toaster.name/
+    - text: Desiree
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Desiree-image"
+  - text: Depereo cerno atrox astrum odio comptus avarus defleo acidus avarus. Alii bestia excepturi defungo. Aperte peccatus aqua alii theca pax aro. Demulceo ipsam vallum temeritas. Spiritus aptus demergo clibanus excepturi delicate stultus amitto. Conqueror confido curso compono catena corrupti illo. Expedita spoliatio debeo qui defero terreo solvo artificiose canonicus canto. Tempus summisse corpus carmen aggero tamdiu. Vestrum trado suggero xiphias curis deludo subseco thema conscendo.
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - img "Samantha_image"
+  - link "Samantha review":
+    - /url: https://decisive-nudge.biz
+    - text: Samantha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Samantha-image"
+  - text: Esse vinitor tardus currus deficio deduco amplexus articulus credo. Ventus asporto termes tubineus uter tandem contigo. Umquam deinde conforto cena certus clarus animadverto demo tristis textus. Esse conculco cerno crepusculum illo. Volubilis vulpes conforto spiritus defendo amplus barba coepi.
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - img "Justyn_image"
+  - link "Justyn review":
+    - /url: https://flashy-configuration.biz
+    - text: Justyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Justyn-image"
+  - text: Carpo conservo abeo. Cupressus aperio suffoco. Angulus contego suspendo stips mollitia altus. Vesica amplexus cerno apud accusator vorago vigor volubilis. Libero comminor textor vilis curiositas venia cervus. Eaque tot degero adimpleo certus adversus tutis. Repudiandae amicitia patruus cum. Modi vesper ullam. Calculus quibusdam thymbra censura arma bellicus verecundia. Hic utrum demens conqueror adulatio absque ultio.
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - img "Lemuel_image"
+  - link "Lemuel review":
+    - /url: https://key-wafer.net/
+    - text: Lemuel
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Lemuel-image"
+  - text: Quidem quis acervus supellex vitae talus vinco. Adaugeo uterque vilis. Urbs pariatur casso vaco quidem bibo assentator degusto solium alienus. Delectus deleniti utrum causa hic ver terra viscus aer. Viridis synagoga defetiscor tempora vacuus animi. Desidero amor admoveo conturbo. Demitto depromo depopulo caritas eveniet vix benevolentia alioqui sophismata succurro. Spiritus tergo tam. Vehemens vivo peccatus vado decet quos vinum sollers cornu vallum.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 recenze
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 recenze
+- img "Eli photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Elissa 3 дня назад
+- img "Des photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Desiree 3 дня назад
+- img "Sam photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Samantha 3 дня назад
+- img "Jus photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Justyn 3 дня назад
+- img "Lem photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Lemuel 3 дня назад
+- button "Open chat"
+```
