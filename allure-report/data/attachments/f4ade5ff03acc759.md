@@ -1,0 +1,941 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - button "もっと見せる"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - img "review_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (2) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - img "Mollie_image"
+  - link "Mollie review":
+    - /url: https://shameful-challenge.name
+    - text: Mollie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Mollie-image"
+  - text: Condico atavus infit soluta eaque. Culpa cinis viduo atavus. Adhaero damno coadunatio tempore suggero tergo. Comprehendo deorsum appositus cogito claudeo tenax adeo accommodo vos censura. Temeritas talis colo colo cado taceo arto tego degenero perferendis. Tempora denego ultra sordeo ventus surculus armarium summopere beneficium attonbitus. Soluta balbus aurum auxilium aufero thymbra animi aestus caveo apparatus. Molestiae beatae quasi vulgaris sequi consectetur bis vulgivagus.
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - img "Marlee_image"
+  - link "Marlee review":
+    - /url: https://spirited-exasperation.biz
+    - text: Marlee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Marlee-image"
+  - text: Angelus territo suscipio vigilo perspiciatis aestus vito cresco. Textus suppellex amicitia carcer volaticus vulnero cibus aufero tutis. Admoneo adipisci architecto capitulus cum tergo aro candidus. Cura ventito aeger caritas coma. Terga amplus deficio currus error. Venia totus tutis vesica magni curo aestivus decipio. Ars tabgo arbustum adfectus vomica subvenio deficio custodia maxime.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 2 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 2 reviews
+- img "Mol photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Mollie 3 дня назад
+- img "Mar photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Marlee 3 дня назад
+- button "Open chat"
+```
