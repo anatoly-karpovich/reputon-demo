@@ -1,0 +1,1457 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Riepilogo generato dall'intelligenza artificiale Basato su 5 recensioni
+  - img
+  - paragraph:
+    - img
+    - text: Somnus deserunt ipsa blandior carcer pauper somnus tepidus apud decumbo.
+  - paragraph:
+    - img
+    - text: Careo sed esse teneo considero carmen.
+  - paragraph:
+    - img
+    - text: Decens aperte abduco usus.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - button "Mostra di più"
+  - img "review_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - button "Mostra di più"
+  - img "review_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - button "Mostra di più"
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Riepilogo generato dall'intelligenza artificiale Basato su 5 recensioni
+  - img
+  - paragraph:
+    - img
+    - text: Somnus deserunt ipsa blandior carcer pauper somnus tepidus apud decumbo.
+  - paragraph:
+    - img
+    - text: Careo sed esse teneo considero carmen.
+  - paragraph:
+    - img
+    - text: Decens aperte abduco usus.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - button "Mostra di più"
+  - img "review_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - button "Mostra di più"
+  - img "review_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - button "Mostra di più"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Riepilogo generato dall'intelligenza artificiale Basato su 5 recensioni
+  - img
+  - paragraph:
+    - img
+    - text: Somnus deserunt ipsa blandior carcer pauper somnus tepidus apud decumbo.
+  - paragraph:
+    - img
+    - text: Careo sed esse teneo considero carmen.
+  - paragraph:
+    - img
+    - text: Decens aperte abduco usus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - text: AI Riepilogo generato dall'intelligenza artificiale Basato su 5 recensioni
+  - img
+  - paragraph:
+    - img
+    - text: Somnus deserunt ipsa blandior carcer pauper somnus tepidus apud decumbo.
+  - paragraph:
+    - img
+    - text: Careo sed esse teneo considero carmen.
+  - paragraph:
+    - img
+    - text: Decens aperte abduco usus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Lascia una recensione":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lascia una recensione"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recensioni on
+  - img
+  - link "Lascia una recensione":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lascia una recensione"
+  - text: AI Riepilogo generato dall'intelligenza artificiale Basato su 5 recensioni
+  - img
+  - paragraph:
+    - img
+    - text: Somnus deserunt ipsa blandior carcer pauper somnus tepidus apud decumbo.
+  - paragraph:
+    - img
+    - text: Careo sed esse teneo considero carmen.
+  - paragraph:
+    - img
+    - text: Decens aperte abduco usus.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - button "Mostra di più"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - button "Mostra di più"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recensioni on
+  - img
+  - link "Lascia una recensione":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lascia una recensione"
+  - text: AI Riepilogo generato dall'intelligenza artificiale Basato su 5 recensioni
+  - img
+  - paragraph:
+    - img
+    - text: Somnus deserunt ipsa blandior carcer pauper somnus tepidus apud decumbo.
+  - paragraph:
+    - img
+    - text: Careo sed esse teneo considero carmen.
+  - paragraph:
+    - img
+    - text: Decens aperte abduco usus.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - img "review_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - img "review_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - img "review_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - img "review_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recensioni on
+  - img
+  - link "Lascia una recensione":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Lascia una recensione"
+  - text: AI Riepilogo generato dall'intelligenza artificiale Basato su 5 recensioni
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Somnus deserunt ipsa blandior carcer pauper somnus tepidus apud decumbo.
+  - paragraph:
+    - img
+    - text: Careo sed esse teneo considero carmen.
+  - paragraph:
+    - img
+    - text: Decens aperte abduco usus.
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - img "Julian_image"
+  - link "Julian review":
+    - /url: https://energetic-season.biz/
+    - text: Julian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Julian-image"
+  - text: Appositus vox optio tenax. Praesentium ter amplexus. Aestas fugiat ipsa curatio vestrum textus ustilo carpo. Via cometes turbo. Aeneus doloremque tandem volaticus vilicus aperte thymbra. Cenaculum antea vigor apto spes.
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - img "Idell_image"
+  - link "Idell review":
+    - /url: https://secret-whack.org
+    - text: Idell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Idell-image"
+  - text: Abutor varius subvenio circumvenio exercitationem. Totidem turpis asperiores ipsum. Vivo baiulus capillus cervus demoror via amicitia cattus audacia provident. Blandior uter temptatio claudeo studio undique velum turba amitto utor. Candidus speciosus aspernatur aetas. Ocer ulciscor eius. Corrumpo tabella desipio apparatus. Carus virgo causa tardus iusto dolor depromo tergeo. Voluptatem mollitia decerno.
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - img "Enola_image"
+  - link "Enola review":
+    - /url: https://right-aircraft.org
+    - text: Enola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Enola-image"
+  - text: Est appositus pauci ubi utor cunctatio decor. Vinculum censura derideo caste. Apostolus tolero apostolus verecundia. Possimus carbo iusto. Vilis copia deprimo sumo quos.
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - img "Cassidy_image"
+  - link "Cassidy review":
+    - /url: https://burly-parsnip.org/
+    - text: Cassidy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Cassidy-image"
+  - text: Spes claudeo eaque. Cognomen canto civis nisi approbo utor tendo cibo illo. Curtus animus communis conservo conservo cernuus bibo pectus cariosus. Utor sapiente adfectus adsuesco voro vomito decipio. Nemo adulatio vinum alias tantillus defungo beatus quo asporto tabesco. Toties bis ustilo uredo asperiores perspiciatis subito deduco conqueror velit. Eveniet peior tamisium.
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - img "Cicero_image"
+  - link "Cicero review":
+    - /url: https://rosy-inspection.com/
+    - text: Cicero
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Cicero-image"
+  - text: Capio conduco tandem. Defessus amitto verto appono quis. Tandem consequuntur solvo tactus tot synagoga tonsor nobis aro anser. Capio recusandae compono angelus beatus sto ea possimus. Esse comitatus reprehenderit animus considero infit dolor stultus pel. Correptius combibo sol demonstro bellicus temperantia peccatus tamisium sit. Congregatio pectus corrigo ait adsum delectus debitis delego super angelus. Adamo deprimo debeo aranea despecto. Caste rerum sophismata voluptatum auditor armarium. Aer torrens soluta spiritus sodalitas valetudo in tenax trans.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 recensioni
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 recensioni
+- img "Jul photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Stelledi Julian 3 дня назад
+- img "Ide photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Stelledi Idell 3 дня назад
+- img "Eno photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Stelledi Enola 3 дня назад
+- img "Cas photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Stelledi Cassidy 3 дня назад
+- img "Cic photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Stelledi Cicero 3 дня назад
+- button "Open chat"
+```
