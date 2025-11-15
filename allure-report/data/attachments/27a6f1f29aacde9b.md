@@ -1,0 +1,1461 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Consequuntur totidem ater voluptatum comptus.
+  - paragraph:
+    - img
+    - text: Temporibus collum cura succedo cultura utique amoveo volva minus.
+  - paragraph:
+    - img
+    - text: Nostrum minima circumvenio absens suasoria.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - button "Laat meer zien"
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Consequuntur totidem ater voluptatum comptus.
+  - paragraph:
+    - img
+    - text: Temporibus collum cura succedo cultura utique amoveo volva minus.
+  - paragraph:
+    - img
+    - text: Nostrum minima circumvenio absens suasoria.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - button "Laat meer zien"
+  - img "review_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - button "Laat meer zien"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Consequuntur totidem ater voluptatum comptus.
+  - paragraph:
+    - img
+    - text: Temporibus collum cura succedo cultura utique amoveo volva minus.
+  - paragraph:
+    - img
+    - text: Nostrum minima circumvenio absens suasoria.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Consequuntur totidem ater voluptatum comptus.
+  - paragraph:
+    - img
+    - text: Temporibus collum cura succedo cultura utique amoveo volva minus.
+  - paragraph:
+    - img
+    - text: Nostrum minima circumvenio absens suasoria.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Laat een beoordeling achter":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laat een beoordeling achter"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Laat een beoordeling achter":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laat een beoordeling achter"
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Consequuntur totidem ater voluptatum comptus.
+  - paragraph:
+    - img
+    - text: Temporibus collum cura succedo cultura utique amoveo volva minus.
+  - paragraph:
+    - img
+    - text: Nostrum minima circumvenio absens suasoria.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - button "Laat meer zien"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - button "Laat meer zien"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Laat een beoordeling achter":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laat een beoordeling achter"
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Consequuntur totidem ater voluptatum comptus.
+  - paragraph:
+    - img
+    - text: Temporibus collum cura succedo cultura utique amoveo volva minus.
+  - paragraph:
+    - img
+    - text: Nostrum minima circumvenio absens suasoria.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - img "review_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - img "review_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - img "review_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - img "review_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Laat een beoordeling achter":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laat een beoordeling achter"
+  - text: AI AI-gegenereerde samenvatting Gebaseerd op 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Consequuntur totidem ater voluptatum comptus.
+  - paragraph:
+    - img
+    - text: Temporibus collum cura succedo cultura utique amoveo volva minus.
+  - paragraph:
+    - img
+    - text: Nostrum minima circumvenio absens suasoria.
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - img "Baby_image"
+  - link "Baby review":
+    - /url: https://faint-dulcimer.com
+    - text: Baby
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Baby-image"
+  - text: Vita contigo truculenter vindico. Expedita cras tricesimus aliquid cultura itaque concedo cotidie titulus pauper. Quisquam tollo sopor clamo caecus demergo. Copiose aequitas vinitor alter alius illo copiose denuncio. Earum volup sumptus cibus assumenda decimus crudelis nobis. Maxime tersus una suffragium creta amaritudo. Demum cubicularis concido video aeger vos aggredior angustus. Coniuratio vinitor accusator ager video tantum curtus confugo arto casus. Amaritudo vallum vulpes stips ulciscor usque. Coniuratio consequuntur provident adopto altus annus somnus defendo.
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - img "Chad_image"
+  - link "Chad review":
+    - /url: https://nimble-requirement.net/
+    - text: Chad
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Chad-image"
+  - text: Labore adsidue adiuvo assumenda doloribus creta bene anser. Usitas caput corroboro certus circumvenio annus virgo. Clibanus crepusculum sopor synagoga. Tui stipes aliqua comprehendo suus crinis canonicus perferendis aperiam. Comprehendo arcesso adfectus. Accusator quidem angustus.
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - img "Julien_image"
+  - link "Julien review":
+    - /url: https://wee-account.net/
+    - text: Julien
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Julien-image"
+  - text: Vomer possimus caritas tamquam ventito crapula error. Repellat commemoro claustrum totus. Adsidue cubitum vapulus aro patruus. Contigo adhaero subito dolorem cibus venia ocer. Tabesco bellum vallum vehemens nulla censura corpus quas clarus. Arca cotidie alienus audacia video benevolentia libero timor amplexus. Corporis velum ducimus earum conforto subnecto in tergum curvo tenetur. Tutamen sol titulus at compello corrigo. Maiores facilis laudantium spes mollitia vespillo. Studio defessus terra tamisium ceno traho.
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - img "George_image"
+  - link "George review":
+    - /url: https://soggy-certification.org
+    - text: George
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "George-image"
+  - text: Adhaero soluta sollers correptius armarium arcus claro valens coerceo. Contego agnitio utrimque. Solutio viduo vae quasi pariatur cura umquam auctus tondeo. Tenax calco sponte adulatio trans ventus adsuesco altus adduco cerno. Impedit auctus vetus vir consectetur veritatis distinctio arguo absens sui. Tero harum tabella ultra. Sonitus quaerat alienus minus earum cenaculum victus cito. Spiritus volva enim sordeo demens cariosus tamisium ter caste amo. Vomica arca labore a utor corporis sortitus amplus cedo consuasor. Asporto clamo abbas textor colligo suffragium.
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - img "Trystan_image"
+  - link "Trystan review":
+    - /url: https://corny-creator.name/
+    - text: Trystan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Trystan-image"
+  - text: Spero alienus textor vigilo atrox ustilo. Quibusdam uberrime arma. Teneo quam cum arx cui creta cohibeo vindico. Utpote solitudo terebro totam. Advenio cohaero adduco dens advenio confido. Virtus ver tamen assentator consequatur desino aggero alii cinis audeo. Carcer iure acerbitas arma.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Bab photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Baby 3 дня назад
+- img "Cha photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Chad 3 дня назад
+- img "Jul photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Julien 3 дня назад
+- img "Geo photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor George 3 дня назад
+- img "Try photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingdoor Trystan 3 дня назад
+- button "Open chat"
+```
