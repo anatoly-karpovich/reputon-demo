@@ -1,0 +1,1461 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Patruus suggero theologus celer cernuus dolor conforto.
+  - paragraph:
+    - img
+    - text: Aureus ager allatus claudeo iste depereo.
+  - paragraph:
+    - img
+    - text: Volup synagoga triumphus crudelis comparo succurro.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - button "Montrer plus"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Patruus suggero theologus celer cernuus dolor conforto.
+  - paragraph:
+    - img
+    - text: Aureus ager allatus claudeo iste depereo.
+  - paragraph:
+    - img
+    - text: Volup synagoga triumphus crudelis comparo succurro.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - button "Montrer plus"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Patruus suggero theologus celer cernuus dolor conforto.
+  - paragraph:
+    - img
+    - text: Aureus ager allatus claudeo iste depereo.
+  - paragraph:
+    - img
+    - text: Volup synagoga triumphus crudelis comparo succurro.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Patruus suggero theologus celer cernuus dolor conforto.
+  - paragraph:
+    - img
+    - text: Aureus ager allatus claudeo iste depereo.
+  - paragraph:
+    - img
+    - text: Volup synagoga triumphus crudelis comparo succurro.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Laisser un commentaire":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laisser un commentaire"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avis on
+  - img
+  - link "Laisser un commentaire":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laisser un commentaire"
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Patruus suggero theologus celer cernuus dolor conforto.
+  - paragraph:
+    - img
+    - text: Aureus ager allatus claudeo iste depereo.
+  - paragraph:
+    - img
+    - text: Volup synagoga triumphus crudelis comparo succurro.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - button "Montrer plus"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avis on
+  - img
+  - link "Laisser un commentaire":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laisser un commentaire"
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Patruus suggero theologus celer cernuus dolor conforto.
+  - paragraph:
+    - img
+    - text: Aureus ager allatus claudeo iste depereo.
+  - paragraph:
+    - img
+    - text: Volup synagoga triumphus crudelis comparo succurro.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - img "review_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - img "review_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - img "review_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - img "review_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avis on
+  - img
+  - link "Laisser un commentaire":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laisser un commentaire"
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Patruus suggero theologus celer cernuus dolor conforto.
+  - paragraph:
+    - img
+    - text: Aureus ager allatus claudeo iste depereo.
+  - paragraph:
+    - img
+    - text: Volup synagoga triumphus crudelis comparo succurro.
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - img "Destini_image"
+  - link "Destini review":
+    - /url: https://haunting-hydrolyze.name/
+    - text: Destini
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Destini-image"
+  - text: Quod cubicularis alveus vir nisi sollicito. Sit sollers in commodi adeo accendo. Uterque ager corroboro umquam textor arbitro audio voluptate cumque. Substantia centum tempore. Vitiosus vigilo adsuesco auctus dedico accendo cerno perspiciatis bellicus alioqui. Repudiandae amaritudo volutabrum adeptio.
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - img "Cecelia_image"
+  - link "Cecelia review":
+    - /url: https://reckless-doubter.com/
+    - text: Cecelia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Cecelia-image"
+  - text: Umerus labore cervus animadverto varietas fugiat thesaurus. Autus repellat ex bardus nesciunt. Comptus solitudo voco armarium claudeo una vester. Paulatim antepono balbus amitto usitas civis conculco conforto. Dedecor stabilis audacia aqua. Demonstro communis tamquam vivo unde verumtamen teres praesentium cuppedia. Neque quos tyrannus utilis uterque astrum cerno toties constans.
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - img "Orpha_image"
+  - link "Orpha review":
+    - /url: https://great-lotion.com/
+    - text: Orpha
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Orpha-image"
+  - text: Adulescens cursus thorax urbanus civitas infit. Stipes tactus dolorum tenax defero terebro. Decet utique demergo vesica vetus clam uxor cui verumtamen auxilium. Stultus consequuntur suffoco succedo tempore. Vester tibi comedo recusandae atavus tripudio. Vita conicio molestias odit ascit patria. Aliquam sto deficio cur avarus clam rerum cimentarius solvo cibo. Votum sum sopor casso atqui umerus demo tremo. Cultura tamisium molestiae cur cervus amoveo eaque contra deorsum. Quia magnam vorax villa verus.
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - img "Daniela_image"
+  - link "Daniela review":
+    - /url: https://gloomy-poetry.info
+    - text: Daniela
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Daniela-image"
+  - text: Aufero stella averto vel trucido cura audacia verbera utpote condico. Valde creptio cunabula aureus. Curvo nulla appositus denuncio undique quibusdam cetera conqueror ceno. Tepidus aetas tripudio audacia coruscus. Totam crastinus ascit appositus animus addo cognomen id verbera. Cupiditate iure surgo culpo conqueror.
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - img "Delta_image"
+  - link "Delta review":
+    - /url: https://wealthy-patroller.biz
+    - text: Delta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Delta-image"
+  - text: Coepi tantillus provident. Velut cariosus cado denego atqui contigo. Repellat adipisci adipisci demonstro aer decor viduo. Ustilo argentum tabesco aliqua vulnus astrum tabernus coma cohibeo cumque. Aufero somnus currus modi exercitationem synagoga. Bellum paens super cerno vulpes tabernus. Conitor consequatur atque blandior quo absque. Compello denego certe crinis. Adopto adaugeo congregatio. Terra tempore virga compono deprimo attollo eum dedico casus video.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 avis
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 avis
+- img "Des photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Destini 3 дня назад
+- img "Cec photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Cecelia 3 дня назад
+- img "Orp photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Orpha 3 дня назад
+- img "Dan photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Daniela 3 дня назад
+- img "Del photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Delta 3 дня назад
+- button "Open chat"
+```
