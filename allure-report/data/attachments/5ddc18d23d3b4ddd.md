@@ -1,0 +1,1459 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Coma venio turpis suspendo via currus valens.
+  - paragraph:
+    - img
+    - text: Tremo dolorem cauda cedo reiciendis tot tenus.
+  - paragraph:
+    - img
+    - text: Talus toties eaque spoliatio viduo coepi demitto.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - button "Mostre mais"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Coma venio turpis suspendo via currus valens.
+  - paragraph:
+    - img
+    - text: Tremo dolorem cauda cedo reiciendis tot tenus.
+  - paragraph:
+    - img
+    - text: Talus toties eaque spoliatio viduo coepi demitto.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - button "Mostre mais"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Coma venio turpis suspendo via currus valens.
+  - paragraph:
+    - img
+    - text: Tremo dolorem cauda cedo reiciendis tot tenus.
+  - paragraph:
+    - img
+    - text: Talus toties eaque spoliatio viduo coepi demitto.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Coma venio turpis suspendo via currus valens.
+  - paragraph:
+    - img
+    - text: Tremo dolorem cauda cedo reiciendis tot tenus.
+  - paragraph:
+    - img
+    - text: Talus toties eaque spoliatio viduo coepi demitto.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Coma venio turpis suspendo via currus valens.
+  - paragraph:
+    - img
+    - text: Tremo dolorem cauda cedo reiciendis tot tenus.
+  - paragraph:
+    - img
+    - text: Talus toties eaque spoliatio viduo coepi demitto.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - button "Mostre mais"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Coma venio turpis suspendo via currus valens.
+  - paragraph:
+    - img
+    - text: Tremo dolorem cauda cedo reiciendis tot tenus.
+  - paragraph:
+    - img
+    - text: Talus toties eaque spoliatio viduo coepi demitto.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - img "review_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - img "review_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - img "review_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - img "review_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Coma venio turpis suspendo via currus valens.
+  - paragraph:
+    - img
+    - text: Tremo dolorem cauda cedo reiciendis tot tenus.
+  - paragraph:
+    - img
+    - text: Talus toties eaque spoliatio viduo coepi demitto.
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - img "Kyla_image"
+  - link "Kyla review":
+    - /url: https://outstanding-edge.name
+    - text: Kyla
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Kyla-image"
+  - text: Apto tabesco video beneficium nisi esse caste est. Tergeo tunc volup colo corpus cibo. Aegrotatio tantillus omnis supplanto. Defendo pecus arcesso ipsa utroque trado. Cibo solutio viscus viduo tego eligendi advoco inflammatio cibo.
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - img "Jonathon_image"
+  - link "Jonathon review":
+    - /url: https://dim-minority.info/
+    - text: Jonathon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Jonathon-image"
+  - text: Adficio crepusculum curo. Quam aestas animi truculenter defungo corrupti mollitia thalassinus. Tamen adfectus ager delectus quasi quasi suspendo eum bellicus thesaurus. Asporto torqueo umerus. Articulus calco cribro quos acidus tui avarus censura agnitio. Ancilla deorsum vulnero provident stabilis. Viscus paulatim ventus cariosus civis ager. Doloribus suscipit sordeo absum.
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - img "Jean_image"
+  - link "Jean review":
+    - /url: https://slight-descent.name
+    - text: Jean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Jean-image"
+  - text: Caute eveniet sol depereo aut certus vulgaris spargo. Via acceptus aiunt tabula adfero asperiores. Sum via termes volva capitulus earum conscendo velum alienus. Unus creator adficio infit natus. Illo avaritia iste cervus. Sperno volutabrum velut usus auctor provident trado anser. Supplanto tot delicate aspernatur adeptio vere vulgivagus.
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - img "Lawson_image"
+  - link "Lawson review":
+    - /url: https://advanced-ad.info
+    - text: Lawson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Lawson-image"
+  - text: Utrimque theatrum totus adulatio aegre sumo crapula arguo curo. Considero confido vester. Tutamen tergiversatio velociter charisma tredecim crudelis curiositas tero certus. Carpo conor concedo ultio denique depereo stillicidium vulpes. Spectaculum architecto aeternus urbanus. Officiis thema minus patior aetas alias torrens utilis benevolentia. Minus surgo articulus alter degero cunabula creta.
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - img "Dennis_image"
+  - link "Dennis review":
+    - /url: https://necessary-divine.org
+    - text: Dennis
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Dennis-image"
+  - text: Tredecim decimus calamitas venustas apud vinum curvo coepi una. Cum volo tui abscido cognomen strenuus spiculum solvo copiose. Caste accusator sum arguo. Correptius caput tergiversatio volaticus thorax cunae crastinus deludo. Tepidus impedit soluta suscipit asporto.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 avaliações
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 avaliações
+- img "Kyl photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Kyla 3 дня назад
+- img "Jon photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Jonathon 3 дня назад
+- img "Jea photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Jean 3 дня назад
+- img "Law photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Lawson 3 дня назад
+- img "Den photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Dennis 3 дня назад
+- button "Open chat"
+```
