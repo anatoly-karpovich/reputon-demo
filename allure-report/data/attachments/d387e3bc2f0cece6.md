@@ -1,0 +1,1461 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Dedecor causa culpa traho carpo vulgaris.
+  - paragraph:
+    - img
+    - text: Velut conventus umquam trans terminatio expedita ventosus voluptatibus.
+  - paragraph:
+    - img
+    - text: Placeat est voco textor debilito adnuo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - button "Mostre mais"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Dedecor causa culpa traho carpo vulgaris.
+  - paragraph:
+    - img
+    - text: Velut conventus umquam trans terminatio expedita ventosus voluptatibus.
+  - paragraph:
+    - img
+    - text: Placeat est voco textor debilito adnuo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - button "Mostre mais"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Dedecor causa culpa traho carpo vulgaris.
+  - paragraph:
+    - img
+    - text: Velut conventus umquam trans terminatio expedita ventosus voluptatibus.
+  - paragraph:
+    - img
+    - text: Placeat est voco textor debilito adnuo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Dedecor causa culpa traho carpo vulgaris.
+  - paragraph:
+    - img
+    - text: Velut conventus umquam trans terminatio expedita ventosus voluptatibus.
+  - paragraph:
+    - img
+    - text: Placeat est voco textor debilito adnuo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Dedecor causa culpa traho carpo vulgaris.
+  - paragraph:
+    - img
+    - text: Velut conventus umquam trans terminatio expedita ventosus voluptatibus.
+  - paragraph:
+    - img
+    - text: Placeat est voco textor debilito adnuo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - button "Mostre mais"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Dedecor causa culpa traho carpo vulgaris.
+  - paragraph:
+    - img
+    - text: Velut conventus umquam trans terminatio expedita ventosus voluptatibus.
+  - paragraph:
+    - img
+    - text: Placeat est voco textor debilito adnuo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - img "review_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - img "review_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - img "review_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - img "review_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Dedecor causa culpa traho carpo vulgaris.
+  - paragraph:
+    - img
+    - text: Velut conventus umquam trans terminatio expedita ventosus voluptatibus.
+  - paragraph:
+    - img
+    - text: Placeat est voco textor debilito adnuo.
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - img "Frederick_image"
+  - link "Frederick review":
+    - /url: https://imaginative-teriyaki.org
+    - text: Frederick
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Frederick-image"
+  - text: Corrupti arguo aegrotatio perferendis sunt doloremque. Accusamus virtus apostolus hic copiose demonstro laboriosam. Sumo vinitor crastinus somnus audio ad comburo. Vetus animi certe tepesco. Autem sortitus pectus voveo utique maxime pecto deorsum. Comedo velociter urbanus denuncio comburo sponte porro abutor coerceo. Contabesco sortitus dens volubilis. Inflammatio volva adiuvo correptius tui patrocinor.
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://posh-hunger.info
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Annabelle-image"
+  - text: Vicinus adsum subvenio subvenio. Synagoga confero catena. Ustulo eaque alienus adfero suscipio utrimque defungo aperiam deprimo. Tot umerus sono cupiditate derideo. Appello cui et voluntarius cogo comis fuga statim statua libero.
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - img "Price_image"
+  - link "Price review":
+    - /url: https://impure-tusk.biz
+    - text: Price
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Price-image"
+  - text: Assumenda conitor paens succurro accusator. Combibo amita cohaero possimus laudantium corrupti adfero placeat magni denuncio. Cubitum suus aliquam abduco tui. Ducimus strenuus cotidie communis chirographum. Turbo bellicus correptius traho magni cohaero audentia vado carmen. Cohibeo corporis communis caute comparo tyrannus. Quo aeger patruus patruus utrum suffragium admoveo terga amplexus. Subseco sordeo laborum tristis stabilis. Substantia debilito paulatim claustrum tamen deripio. Autem asporto aggredior amita vito audax suppono.
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - img "Lia_image"
+  - link "Lia review":
+    - /url: https://zesty-license.org/
+    - text: Lia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Lia-image"
+  - text: Temptatio carus usitas brevis somniculosus. Curvo ter desolo ab aro. Tergeo taceo derelinquo angustus sui vaco tamdiu bene. Tero subito adeptio atqui crapula undique bellicus adfero vilitas. Sufficio nam vulgaris abbas eligendi arx voluptatum debilito titulus. Conforto sonitus utpote. Solium consectetur abeo ascit. Tamquam amplexus antepono contigo. Administratio turbo decens tollo.
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - img "Eusebio_image"
+  - link "Eusebio review":
+    - /url: https://whispered-instruction.org/
+    - text: Eusebio
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Eusebio-image"
+  - text: Solutio ocer ubi sumo spero confugo quasi eum crur urbanus. Perspiciatis atrox inventore acer sub ars. Sit ab temperantia adeo despecto decens adversus sperno capto adulescens. Solus crudelis solio arca vindico vehemens tamquam maiores itaque. Velit vilitas quis audeo vinitor varius consuasor.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 avaliações
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 avaliações
+- img "Fre photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Frederick 3 дня назад
+- img "Ann photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Annabelle 3 дня назад
+- img "Pri photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Price 3 дня назад
+- img "Lia photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Lia 3 дня назад
+- img "Eus photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Eusebio 3 дня назад
+- button "Open chat"
+```
