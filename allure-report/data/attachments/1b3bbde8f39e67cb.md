@@ -1,0 +1,1461 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Quasi stabilis comminor repellat adficio theca cultura thesis virtus blandior.
+  - paragraph:
+    - img
+    - text: Thema asper creta aliquid amor deorsum.
+  - paragraph:
+    - img
+    - text: Dicta impedit pariatur patria.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - button "Zobrazit více"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Quasi stabilis comminor repellat adficio theca cultura thesis virtus blandior.
+  - paragraph:
+    - img
+    - text: Thema asper creta aliquid amor deorsum.
+  - paragraph:
+    - img
+    - text: Dicta impedit pariatur patria.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - button "Zobrazit více"
+  - img "review_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - button "Zobrazit více"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Quasi stabilis comminor repellat adficio theca cultura thesis virtus blandior.
+  - paragraph:
+    - img
+    - text: Thema asper creta aliquid amor deorsum.
+  - paragraph:
+    - img
+    - text: Dicta impedit pariatur patria.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Quasi stabilis comminor repellat adficio theca cultura thesis virtus blandior.
+  - paragraph:
+    - img
+    - text: Thema asper creta aliquid amor deorsum.
+  - paragraph:
+    - img
+    - text: Dicta impedit pariatur patria.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Napsat recenzi":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Napsat recenzi"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenze on
+  - img
+  - link "Napsat recenzi":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Napsat recenzi"
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Quasi stabilis comminor repellat adficio theca cultura thesis virtus blandior.
+  - paragraph:
+    - img
+    - text: Thema asper creta aliquid amor deorsum.
+  - paragraph:
+    - img
+    - text: Dicta impedit pariatur patria.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - button "Zobrazit více"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - button "Zobrazit více"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenze on
+  - img
+  - link "Napsat recenzi":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Napsat recenzi"
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - paragraph:
+    - img
+    - text: Quasi stabilis comminor repellat adficio theca cultura thesis virtus blandior.
+  - paragraph:
+    - img
+    - text: Thema asper creta aliquid amor deorsum.
+  - paragraph:
+    - img
+    - text: Dicta impedit pariatur patria.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - img "review_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - img "review_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - img "review_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - img "review_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 recenze on
+  - img
+  - link "Napsat recenzi":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Napsat recenzi"
+  - text: AI Shrnutí vytvořené AI Na základě 5 recenze
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Quasi stabilis comminor repellat adficio theca cultura thesis virtus blandior.
+  - paragraph:
+    - img
+    - text: Thema asper creta aliquid amor deorsum.
+  - paragraph:
+    - img
+    - text: Dicta impedit pariatur patria.
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - img "Randi_image"
+  - link "Randi review":
+    - /url: https://unsteady-longboat.name
+    - text: Randi
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Randi-image"
+  - text: Comminor angelus peccatus acer degenero crinis. Tero terror crastinus. Aliquam accommodo sumptus cedo conservo stips absorbeo arto timor tactus. Contra terra vulariter doloribus carpo volva ambulo. Corporis modi absum cultellus dignissimos accendo deserunt confero uberrime architecto. Caput praesentium super cenaculum maxime vita subvenio varius casus adulescens. Comminor vesper cubo desidero deleo caritas solium volup. Cohibeo tepesco accusator. Accusator solutio arceo aufero.
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - img "Elliot_image"
+  - link "Elliot review":
+    - /url: https://accurate-diver.info
+    - text: Elliot
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Elliot-image"
+  - text: Arto damnatio bardus deleniti ademptio neque anser comparo decretum quasi. Verumtamen adstringo tollo antiquus. Aeneus desparatus desipio trado adipisci civitas. Sodalitas congregatio uredo delicate custodia coruscus vomer aggero. Amor arx sulum. Temperantia solvo temporibus terror ipsa tamen demoror inventore.
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - img "Brenden_image"
+  - link "Brenden review":
+    - /url: https://worse-disappointment.info/
+    - text: Brenden
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Brenden-image"
+  - text: Cedo ceno cunabula beatus auctor ullus cunctatio cursim. Teneo damno ustilo dolorem assumenda teneo. Conturbo vaco tepesco vestrum turbo. Artificiose coadunatio velut aliquid id. Blanditiis cedo adduco casso ipsam suffoco vaco. Dolor neque alius aggredior patrocinor aptus universe. Virtus deputo uter articulus sustineo. Iste terga virgo traho antepono adiuvo alii. Sint voluntarius accusator capitulus amor audeo et corona varius. Asper somnus sint vomica tego consectetur beatae.
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - img "Kaitlyn_image"
+  - link "Kaitlyn review":
+    - /url: https://naughty-providence.name
+    - text: Kaitlyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Kaitlyn-image"
+  - text: Facere uterque aut certus esse tyrannus vulpes. Celer terminatio currus incidunt arca torrens nisi delicate tempore thesaurus. Quidem ustilo odit curis absens tertius sperno. Pel solitudo tandem antea denego tener censura adipiscor. Repudiandae agnitio cogito esse commemoro. Harum comburo volutabrum verbum animus vulgivagus cruentus. Appositus vinum ubi magnam tabesco aufero tenax fugiat.
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - img "Robbie_image"
+  - link "Robbie review":
+    - /url: https://miserly-meal.com
+    - text: Robbie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Robbie-image"
+  - text: Depulso astrum voluptatibus vero alii dapifer. Cunae vehemens amoveo cedo provident comprehendo quo venia aperiam blanditiis. Animus theca pectus volaticus a bos vir sufficio. Ipsam victus caveo cupiditas cimentarius depulso adsum incidunt denego. Crastinus cuppedia tactus admoneo tergo suppellex aequus. Molestiae vilitas solio cura earum curis. Depraedor tondeo tracto toties tabula adhuc sordeo comedo soluta studio. Capto conqueror ceno amicitia acceptus vigilo acies corona contra. Contigo creptio sodalitas cumque derelinquo pariatur.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 recenze
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 recenze
+- img "Ran photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Randi 3 дня назад
+- img "Ell photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Elliot 3 дня назад
+- img "Bre photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Brenden 3 дня назад
+- img "Kai photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Kaitlyn 3 дня назад
+- img "Rob photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Hodnocení hvězdičkamiod Robbie 3 дня назад
+- button "Open chat"
+```

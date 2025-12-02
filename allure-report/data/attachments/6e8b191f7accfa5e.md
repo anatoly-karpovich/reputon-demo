@@ -1,0 +1,1461 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Votum ambulo tondeo solutio torrens.
+  - paragraph:
+    - img
+    - text: Totam vicissitudo ultra derideo nisi voro demens conqueror.
+  - paragraph:
+    - img
+    - text: Somnus vindico copia adamo caste aranea.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - button "Mostre mais"
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Votum ambulo tondeo solutio torrens.
+  - paragraph:
+    - img
+    - text: Totam vicissitudo ultra derideo nisi voro demens conqueror.
+  - paragraph:
+    - img
+    - text: Somnus vindico copia adamo caste aranea.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - button "Mostre mais"
+  - img "review_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - button "Mostre mais"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Votum ambulo tondeo solutio torrens.
+  - paragraph:
+    - img
+    - text: Totam vicissitudo ultra derideo nisi voro demens conqueror.
+  - paragraph:
+    - img
+    - text: Somnus vindico copia adamo caste aranea.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Votum ambulo tondeo solutio torrens.
+  - paragraph:
+    - img
+    - text: Totam vicissitudo ultra derideo nisi voro demens conqueror.
+  - paragraph:
+    - img
+    - text: Somnus vindico copia adamo caste aranea.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Votum ambulo tondeo solutio torrens.
+  - paragraph:
+    - img
+    - text: Totam vicissitudo ultra derideo nisi voro demens conqueror.
+  - paragraph:
+    - img
+    - text: Somnus vindico copia adamo caste aranea.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - button "Mostre mais"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - button "Mostre mais"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - paragraph:
+    - img
+    - text: Votum ambulo tondeo solutio torrens.
+  - paragraph:
+    - img
+    - text: Totam vicissitudo ultra derideo nisi voro demens conqueror.
+  - paragraph:
+    - img
+    - text: Somnus vindico copia adamo caste aranea.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - img "review_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - img "review_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - img "review_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - img "review_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avaliações on
+  - img
+  - link "Deixe um comentário":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Deixe um comentário"
+  - text: AI Resumo gerado por IA Com base em 5 avaliações
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Votum ambulo tondeo solutio torrens.
+  - paragraph:
+    - img
+    - text: Totam vicissitudo ultra derideo nisi voro demens conqueror.
+  - paragraph:
+    - img
+    - text: Somnus vindico copia adamo caste aranea.
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - img "Margarette_image"
+  - link "Margarette review":
+    - /url: https://witty-intellect.name
+    - text: Margarette
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Margarette-image"
+  - text: Summisse defleo amita modi aro vestigium aliquam virga. Ullam incidunt quae currus testimonium verbum vapulus tunc baiulus appositus. Arbitro carmen capillus. Agnosco itaque creber valde magnam cogo. Corrumpo atrocitas damno verecundia aufero valeo alioqui apud cena. Sit adinventitias arbor eum.
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - img "Freida_image"
+  - link "Freida review":
+    - /url: https://ill-scaffold.net/
+    - text: Freida
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Freida-image"
+  - text: Bos traho virtus candidus aeneus collum voro recusandae cursim. Tum spoliatio qui strues comparo celebrer enim comedo thesis sui. Vigor angelus tametsi templum speculum iusto cruentus tempora. Vomito adinventitias vereor certe sonitus cur. Ager surculus totus atavus nulla ars ventosus.
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - img "Eileen_image"
+  - link "Eileen review":
+    - /url: https://metallic-cuckoo.biz/
+    - text: Eileen
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Eileen-image"
+  - text: Summa testimonium vorax canonicus supellex quibusdam. Carmen decor videlicet volva. Sequi tergiversatio acidus timidus consuasor coruscus adficio statim. Tricesimus dedecor universe armarium caste vinum vesper decor. Corrupti inventore vox aggredior ex cunctatio dens assentator tabernus. Creber alo tamen viriliter convoco. Demonstro truculenter aut dens. Cumque officiis attollo depulso terra acceptus vae bonus delicate. Celer solvo auditor sto amor creta.
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - img "Gwendolyn_image"
+  - link "Gwendolyn review":
+    - /url: https://rusty-dandelion.net
+    - text: Gwendolyn
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Gwendolyn-image"
+  - text: Accedo teres corpus eius casus valetudo. Aer cruentus vinum candidus explicabo versus thermae debitis spoliatio consuasor. Coniuratio perferendis supellex talis synagoga substantia quas curis conventus. Aeger conqueror vestrum tibi truculenter pauper cribro odio stabilis torqueo. Terminatio quidem ipsum adflicto conor desipio vinco victus somniculosus contra.
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - img "Elise_image"
+  - link "Elise review":
+    - /url: https://fuzzy-granny.org
+    - text: Elise
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Elise-image"
+  - text: Adstringo placeat pauci quis debitis magnam aetas verbera cultura. Vesper conatus speciosus adficio sui. Credo bonus delinquo volutabrum vivo comparo cupressus thymum. Tot careo terreo statua. Conforto vestrum terminatio condico sulum utpote vobis facilis dedico magni.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 avaliações
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 avaliações
+- img "Mar photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Margarette 3 дня назад
+- img "Fre photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Freida 3 дня назад
+- img "Eil photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Eileen 3 дня назад
+- img "Gwe photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Gwendolyn 3 дня назад
+- img "Eli photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Estrelaspor Elise 3 дня назад
+- button "Open chat"
+```
