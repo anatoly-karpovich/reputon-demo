@@ -1,0 +1,1457 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Comburo agnosco auxilium studio defleo abduco carmen.
+  - paragraph:
+    - img
+    - text: Vir deinde vehemens strenuus tristis volaticus depromo subito.
+  - paragraph:
+    - img
+    - text: Demum speciosus arbitro communis altus accedo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Comburo agnosco auxilium studio defleo abduco carmen.
+  - paragraph:
+    - img
+    - text: Vir deinde vehemens strenuus tristis volaticus depromo subito.
+  - paragraph:
+    - img
+    - text: Demum speciosus arbitro communis altus accedo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - button "Montrer plus"
+  - img "review_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Comburo agnosco auxilium studio defleo abduco carmen.
+  - paragraph:
+    - img
+    - text: Vir deinde vehemens strenuus tristis volaticus depromo subito.
+  - paragraph:
+    - img
+    - text: Demum speciosus arbitro communis altus accedo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Comburo agnosco auxilium studio defleo abduco carmen.
+  - paragraph:
+    - img
+    - text: Vir deinde vehemens strenuus tristis volaticus depromo subito.
+  - paragraph:
+    - img
+    - text: Demum speciosus arbitro communis altus accedo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Laisser un commentaire":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laisser un commentaire"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avis on
+  - img
+  - link "Laisser un commentaire":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laisser un commentaire"
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Comburo agnosco auxilium studio defleo abduco carmen.
+  - paragraph:
+    - img
+    - text: Vir deinde vehemens strenuus tristis volaticus depromo subito.
+  - paragraph:
+    - img
+    - text: Demum speciosus arbitro communis altus accedo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - button "Montrer plus"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - button "Montrer plus"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avis on
+  - img
+  - link "Laisser un commentaire":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laisser un commentaire"
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - paragraph:
+    - img
+    - text: Comburo agnosco auxilium studio defleo abduco carmen.
+  - paragraph:
+    - img
+    - text: Vir deinde vehemens strenuus tristis volaticus depromo subito.
+  - paragraph:
+    - img
+    - text: Demum speciosus arbitro communis altus accedo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - img "review_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - img "review_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - img "review_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - img "review_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 avis on
+  - img
+  - link "Laisser un commentaire":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Laisser un commentaire"
+  - text: AI Résumé généré par l'IA Basé sur 5 avis
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Comburo agnosco auxilium studio defleo abduco carmen.
+  - paragraph:
+    - img
+    - text: Vir deinde vehemens strenuus tristis volaticus depromo subito.
+  - paragraph:
+    - img
+    - text: Demum speciosus arbitro communis altus accedo.
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - img "Jared_image"
+  - link "Jared review":
+    - /url: https://wicked-conservation.net
+    - text: Jared
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Jared-image"
+  - text: Adimpleo degenero vito. Abundans sum minima inventore odio socius amicitia decipio vomer. Appositus tergum ex. Supplanto sulum vomito surgo acies virtus quaerat complectus aqua. Tumultus cohaero tantum molestias desino socius amitto.
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - img "Simeon_image"
+  - link "Simeon review":
+    - /url: https://emotional-husband.com
+    - text: Simeon
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Simeon-image"
+  - text: Coaegresco accommodo delicate. Cunctatio ad voluptatibus unus ventus. Victoria ait vergo sum accusantium. Sum pecto tutis compono blandior. Adamo unus suspendo aegre adversus color. Crudelis ante volva antiquus utique. Timor fuga vitiosus pecto crapula adhaero vetus vesper bis villa. Thesaurus animadverto velit impedit tabgo.
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - img "Rylee_image"
+  - link "Rylee review":
+    - /url: https://elliptical-unblinking.info
+    - text: Rylee
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Rylee-image"
+  - text: Vel armarium valeo demo contigo viscus claro subiungo tantillus aqua. Ipsam verbera laudantium tricesimus derelinquo. Aptus voluptas contra. Angulus compello aegrotatio debitis aut victoria tergeo. Asper color aufero despecto adfectus cotidie aduro amo. Tondeo valetudo conqueror suppellex utor bis condico clarus arto centum.
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - img "Cole_image"
+  - link "Cole review":
+    - /url: https://irresponsible-husband.name/
+    - text: Cole
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Cole-image"
+  - text: Bellicus temptatio aut tyrannus cinis demulceo tredecim vergo acsi vir. Tui crudelis ciminatio. Soluta unde somnus tergeo explicabo contabesco demonstro. Veritatis ait patruus deprimo cauda speculum cupressus contra. Adipiscor assumenda adstringo nam delego vinitor. Damnatio audax voveo defendo accusamus supra solum thesis. Cibo tergo inventore. Civis iste deduco. Magnam defero amplus perspiciatis. Minus attollo occaecati patrocinor admoveo demo auctor cruentus.
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - img "Delaney_image"
+  - link "Delaney review":
+    - /url: https://ornate-retention.com/
+    - text: Delaney
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Delaney-image"
+  - text: Deprimo decor magni vereor reiciendis. Viridis aeternus attero ipsa charisma victus territo verus. Officia sophismata admitto suffoco succedo. Corrupti cohors demo centum. Quam admoveo velum verbera arma.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 avis
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 avis
+- img "Jar photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Jared 3 дня назад
+- img "Sim photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Simeon 3 дня назад
+- img "Ryl photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Rylee 3 дня назад
+- img "Col photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Cole 3 дня назад
+- img "Del photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 étoilespar Delaney 3 дня назад
+- button "Open chat"
+```

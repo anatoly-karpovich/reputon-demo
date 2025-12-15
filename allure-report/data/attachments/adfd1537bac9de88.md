@@ -1,0 +1,1461 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI 生成的摘要 基于 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Amitto adflicto contigo corroboro cubicularis bene solitudo desparatus crepusculum.
+  - paragraph:
+    - img
+    - text: Aeternus corpus caecus iste adeo.
+  - paragraph:
+    - img
+    - text: Aeternus adopto curtus fugiat aegrotatio.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - button "顯示更多"
+  - img "review_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - button "顯示更多"
+  - img "review_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - button "顯示更多"
+  - img "review_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - button "顯示更多"
+  - img "review_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - button "顯示更多"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #E5EEFE Main text color #070D25 Star Rating icon color #C671FF Verified badge color #518EF8 Show more color #9F9F9F"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI 生成的摘要 基于 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Amitto adflicto contigo corroboro cubicularis bene solitudo desparatus crepusculum.
+  - paragraph:
+    - img
+    - text: Aeternus corpus caecus iste adeo.
+  - paragraph:
+    - img
+    - text: Aeternus adopto curtus fugiat aegrotatio.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - button "顯示更多"
+  - img "review_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - button "顯示更多"
+  - img "review_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - button "顯示更多"
+  - img "review_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - button "顯示更多"
+  - img "review_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - button "顯示更多"
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #EDEFE8 Main text color #070D25 Star Rating icon color #4B7850 Verified badge color #518EF8 Show more color #4B7850"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI 生成的摘要 基于 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Amitto adflicto contigo corroboro cubicularis bene solitudo desparatus crepusculum.
+  - paragraph:
+    - img
+    - text: Aeternus corpus caecus iste adeo.
+  - paragraph:
+    - img
+    - text: Aeternus adopto curtus fugiat aegrotatio.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - text: AI AI 生成的摘要 基于 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Amitto adflicto contigo corroboro cubicularis bene solitudo desparatus crepusculum.
+  - paragraph:
+    - img
+    - text: Aeternus corpus caecus iste adeo.
+  - paragraph:
+    - img
+    - text: Aeternus adopto curtus fugiat aegrotatio.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "发表评论":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "发表评论"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - paragraph: Widget style preview
+  - paragraph:
+    - img
+  - text: "Review Card background #FFE4EC Main text color #070D25 Star Rating icon color #F472B6 Verified badge color #518EF8 Show more color #F472B6"
+  - img
+  - text: Font namer Manrope
+  - img
+  - text: "Review Card shadow None Copy style View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "发表评论":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "发表评论"
+  - text: AI AI 生成的摘要 基于 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Amitto adflicto contigo corroboro cubicularis bene solitudo desparatus crepusculum.
+  - paragraph:
+    - img
+    - text: Aeternus corpus caecus iste adeo.
+  - paragraph:
+    - img
+    - text: Aeternus adopto curtus fugiat aegrotatio.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "顯示更多"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - button "顯示更多"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - button "顯示更多"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - button "顯示更多"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "发表评论":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "发表评论"
+  - text: AI AI 生成的摘要 基于 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Amitto adflicto contigo corroboro cubicularis bene solitudo desparatus crepusculum.
+  - paragraph:
+    - img
+    - text: Aeternus corpus caecus iste adeo.
+  - paragraph:
+    - img
+    - text: Aeternus adopto curtus fugiat aegrotatio.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - img "review_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - img "review_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - img "review_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - img "review_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "发表评论":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "发表评论"
+  - text: AI AI 生成的摘要 基于 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Amitto adflicto contigo corroboro cubicularis bene solitudo desparatus crepusculum.
+  - paragraph:
+    - img
+    - text: Aeternus corpus caecus iste adeo.
+  - paragraph:
+    - img
+    - text: Aeternus adopto curtus fugiat aegrotatio.
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - img "Precious_image"
+  - link "Precious review":
+    - /url: https://murky-perp.com
+    - text: Precious
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Precious-image"
+  - text: Deprecator suadeo urbs ratione patrocinor constans peior aspicio. Demonstro carus bestia architecto conspergo catena. Civis averto tepesco amplexus error arto aggero. Unde thorax templum porro vulgivagus hic perferendis cribro. Charisma audax adimpleo congregatio.
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - img "London_image"
+  - link "London review":
+    - /url: https://bulky-dusk.info
+    - text: London
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "London-image"
+  - text: Coma adhuc labore pel. Virtus delectus constans. Tergo consectetur caveo molestiae. Carbo possimus appello demoror demonstro veritatis vero. Depono verecundia acies delectus avaritia advoco tutamen. Cruciamentum thalassinus cohors peior reiciendis aro veritatis. Assumenda aeneus pecto decor facere soleo sordeo.
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - img "Reinhold_image"
+  - link "Reinhold review":
+    - /url: https://edible-pillbox.com/
+    - text: Reinhold
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Reinhold-image"
+  - text: Tabgo umquam thorax celebrer dolore venia. Suasoria alveus voluptatibus arcus talus. Terror tricesimus aequus amaritudo pectus crapula volutabrum caveo studio. Caritas aedificium cresco agnitio triumphus vilicus exercitationem. Carus volaticus cotidie paens molestias unde nam suffoco pax. Abduco verto speciosus odit cauda tumultus absum vigilo tametsi bis. Ascit accusator villa. Speciosus bardus brevis.
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - img "Valentina_image"
+  - link "Valentina review":
+    - /url: https://unhappy-laughter.info
+    - text: Valentina
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Valentina-image"
+  - text: Asperiores correptius crustulum triumphus cribro terror. Cervus ultio ara villa adfectus absque cribro. Tenax deporto vereor caritas. Cauda aperiam terra solvo dolorem supellex depopulo. Quae censura alioqui vorago articulus utique desparatus vobis aeternus concedo. Cibo aspernatur tolero arguo demum sumo accusator coaegresco porro usitas. Eum credo aureus colligo tribuo adipiscor vitium conduco. Pecto adulatio conqueror theologus ventus deprimo appono.
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - img "Crawford_image"
+  - link "Crawford review":
+    - /url: https://alienated-certification.com/
+    - text: Crawford
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Crawford-image"
+  - text: Absque tardus armarium cibus quidem arma ara tabula ambitus recusandae. Aedificium speciosus esse vel vita cursim valens. Vitium creber volo crustulum coepi adipisci degero tubineus accusator varius. Degero anser utor conventus. Desolo laboriosam ratione ara reiciendis velit bellicus comedo taedium. Sollicito aer trucido aiunt crudelis nesciunt animus. Cognomen itaque statua coruscus volo defleo trucido complectus voluptas. Caste quasi solvo depereo. Perspiciatis triduana curatio venio tametsi coaegresco volubilis audeo. Agnosco tempore congregatio vomica appono similique contra facilis commodi.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Pre photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Precious 3 дня назад
+- img "Lon photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby London 3 дня назад
+- img "Rei photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Reinhold 3 дня назад
+- img "Val photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Valentina 3 дня назад
+- img "Cra photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Crawford 3 дня назад
+- button "Open chat"
+```
