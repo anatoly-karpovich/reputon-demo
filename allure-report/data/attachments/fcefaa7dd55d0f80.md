@@ -1,0 +1,1598 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Vulgus tendo callide atque videlicet tantillus.
+  - paragraph:
+    - img
+    - text: Expedita maiores comminor.
+  - paragraph:
+    - img
+    - text: Tot cauda deripio cimentarius suggero triduana thorax temperantia beneficium sit.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - img
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Vulgus tendo callide atque videlicet tantillus.
+  - paragraph:
+    - img
+    - text: Expedita maiores comminor.
+  - paragraph:
+    - img
+    - text: Tot cauda deripio cimentarius suggero triduana thorax temperantia beneficium sit.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - button "Zeig mehr"
+  - img "review_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - img
+  - heading "Carousel 2 widget" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 Bewertungen on
+  - img
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - img
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Vulgus tendo callide atque videlicet tantillus.
+  - paragraph:
+    - img
+    - text: Expedita maiores comminor.
+  - paragraph:
+    - img
+    - text: Tot cauda deripio cimentarius suggero triduana thorax temperantia beneficium sit.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Vulgus tendo callide atque videlicet tantillus.
+  - paragraph:
+    - img
+    - text: Expedita maiores comminor.
+  - paragraph:
+    - img
+    - text: Tot cauda deripio cimentarius suggero triduana thorax temperantia beneficium sit.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Vulgus tendo callide atque videlicet tantillus.
+  - paragraph:
+    - img
+    - text: Expedita maiores comminor.
+  - paragraph:
+    - img
+    - text: Tot cauda deripio cimentarius suggero triduana thorax temperantia beneficium sit.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 Bewertungen on
+  - img
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Vulgus tendo callide atque videlicet tantillus.
+  - paragraph:
+    - img
+    - text: Expedita maiores comminor.
+  - paragraph:
+    - img
+    - text: Tot cauda deripio cimentarius suggero triduana thorax temperantia beneficium sit.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - button "Zeig mehr"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - button "Zeig mehr"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 Bewertungen on
+  - img
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - paragraph:
+    - img
+    - text: Vulgus tendo callide atque videlicet tantillus.
+  - paragraph:
+    - img
+    - text: Expedita maiores comminor.
+  - paragraph:
+    - img
+    - text: Tot cauda deripio cimentarius suggero triduana thorax temperantia beneficium sit.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - img "review_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - img "review_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - img "review_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - img "review_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "Store locator widget without map" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img "Arbofor - Leefdaal Gardens bv"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 Bewertungen on
+  - img
+  - link "Bewertung hinterlassen":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Bewertung hinterlassen"
+  - text: AI KI-generierte Zusammenfassung Basierend auf 5 Bewertungen
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Vulgus tendo callide atque videlicet tantillus.
+  - paragraph:
+    - img
+    - text: Expedita maiores comminor.
+  - paragraph:
+    - img
+    - text: Tot cauda deripio cimentarius suggero triduana thorax temperantia beneficium sit.
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - img "Silas_image"
+  - link "Silas review":
+    - /url: https://partial-cinder.biz/
+    - text: Silas
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Silas-image"
+  - text: Degenero solus substantia. Textilis audio carbo ceno nobis cetera amplitudo et dolor infit. Sonitus cunctatio creber cetera arto condico. Comitatus fuga via uter triduana centum voluptas vinum ad. Crinis suppellex odio eius. Audio tertius usque approbo abduco. Amo suadeo celo acies nemo defluo. Adfectus venia tabella copiose desolo statua voro dignissimos acervus. Thalassinus tandem arca uterque caritas tandem animus anser doloremque. Damno at corporis condico.
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - img "Kian_image"
+  - link "Kian review":
+    - /url: https://average-hello.biz
+    - text: Kian
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Kian-image"
+  - text: Solus ustulo curatio velut sum. Aliquid conforto saepe thalassinus vallum conor. Ademptio aspicio careo autem. Solum color cetera vir claro arguo tabula trepide. Dedecor vergo deludo. Defetiscor provident asper sto. Vitium est quis adflicto tersus aequitas bibo. Tamquam thymum alii.
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - img "Fermin_image"
+  - link "Fermin review":
+    - /url: https://outgoing-coin.info/
+    - text: Fermin
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Fermin-image"
+  - text: Admiratio cattus clamo itaque. Tandem amiculum solium velum degero surculus amoveo vero cervus. Conventus impedit bestia vinum conqueror aedificium desipio conduco tandem. Auditor ter antiquus vesco curatio alienus coma tot solio. Tandem vinum tenuis tamdiu velum. Addo tener usque corona carcer vinculum porro decipio creator. Cum admoveo temperantia vero colligo triduana possimus asporto ultio thesaurus. Adhaero acsi toties natus. Advenio vapulus coma maxime constans conatus ancilla teres. Quibusdam currus circumvenio venio.
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - img "Florine_image"
+  - link "Florine review":
+    - /url: https://informal-desk.info/
+    - text: Florine
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Florine-image"
+  - text: Curis veritatis aiunt suasoria stipes cornu tutis una somnus. Crebro absconditus culpo ventosus ter verus vel similique. Ventosus assentator decor pel auctor cultura. Textilis talis explicabo itaque adinventitias bibo surgo careo. Calco sophismata dedecor. Demoror vicinus depulso aurum bellicus denego. Cado xiphias thesaurus celebrer dedico vaco. Caterva vinculum dapifer benigne videlicet. Verbum tergiversatio arceo illum theologus demo vado tempora. Decimus dolores alter talio armarium.
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - img "Eriberto_image"
+  - link "Eriberto review":
+    - /url: https://reflecting-subsidy.biz/
+    - text: Eriberto
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Eriberto-image"
+  - text: Causa deleniti crustulum claro. Ventosus vorago villa. Appositus appono amissio vere culpo. Quam advenio cursus sufficio. Somniculosus patria adflicto depromo.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 Bewertungen
+  - heading "One line compact rating widget" [level=2]
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: (5)
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 Bewertungen
+- img "Sil photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Silas 3 дня назад
+- img "Kia photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Kian 3 дня назад
+- img "Fer photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Fermin 3 дня назад
+- img "Flo photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Florine 3 дня назад
+- img "Eri photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Sterne-Bewertungvon Eriberto 3 дня назад
+- button "Open chat"
+```
