@@ -1,0 +1,1008 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - heading "Carousel widget with medium photos" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - heading "Carousel 2 widget" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - button "Show more"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - img "review_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (2) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "Store locator widget without map" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img "Arbofor - Leefdaal Gardens bv"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (2) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - img "Billy_image"
+  - link "Billy review":
+    - /url: https://sticky-bid.biz/
+    - text: Billy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Billy-image"
+  - text: Sit suscipit tripudio auditor velociter vapulus. Tam venio harum necessitatibus subvenio crastinus. Taedium asperiores communis ipsam distinctio aspernatur tandem corrumpo comptus. Catena aer teneo coadunatio voluptatum subvenio denuncio. Voluptatem sint error statim cornu varietas. Comprehendo patria cariosus vomer atrox supplanto aestivus minima curatio voluptatem. Aggredior addo cado verto thesaurus valens abduco. Velut patior acerbitas coepi degero adicio volubilis verumtamen subseco.
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - img "Juliet_image"
+  - link "Juliet review":
+    - /url: https://turbulent-hunger.org/
+    - text: Juliet
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Juliet-image"
+  - text: Vinculum tempus decumbo contabesco aiunt alioqui thorax uter neque correptius. Tenax cultellus sono sint vigor. Tametsi doloremque arguo degero cervus. Vigilo tandem atqui doloribus vulticulus accedo. Accedo utrum totam terror assumenda harum vulgaris spero.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 2 reviews
+  - heading "One line compact rating widget" [level=2]
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: (2)
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img "Jul photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Juliet 3 дня назад
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 2 reviews
+- img "Bil photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Billy 3 дня назад
+```
