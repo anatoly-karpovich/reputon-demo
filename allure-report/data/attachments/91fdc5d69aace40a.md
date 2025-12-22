@@ -1,0 +1,1008 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - heading "Carousel widget with medium photos" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - heading "Carousel 2 widget" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - button "もっと見せる"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - button "もっと見せる"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - img "review_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (2) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "Store locator widget without map" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img "Arbofor - Leefdaal Gardens bv"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (2) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 2 reviews on
+  - img
+  - link "レビューを残す":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "レビューを残す"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - img "Freddy_image"
+  - link "Freddy review":
+    - /url: https://wiggly-haircut.com/
+    - text: Freddy
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Freddy-image"
+  - text: Solutio venustas quisquam animi agnosco sophismata vita deporto trans aetas. Suppellex deduco suadeo reprehenderit. Dignissimos creator aduro ater accusamus curriculum. Theatrum aegrus cupiditas centum causa vox. Arbustum eius torrens tego. Necessitatibus valeo dolores barba. Adeo articulus voro vigor surculus solum. Subseco ipsa coerceo absum voluptas canonicus. Cognomen avaritia vicissitudo ea sollicito aureus corrumpo considero solus. Theologus asperiores culpo virgo contigo acerbitas cultellus.
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - img "Bert_image"
+  - link "Bert review":
+    - /url: https://mundane-help.info/
+    - text: Bert
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Bert-image"
+  - text: Confido terra calculus tergo. Officia cinis vesica adulatio vae fuga verbera vehemens inventore copia. Pecto utpote vita deripio unde amplus. Stella crepusculum sublime nesciunt magni adsuesco temptatio. Arca arca contabesco terra.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 2 reviews
+  - heading "One line compact rating widget" [level=2]
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: (2)
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img "Ber photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Bert 3 дня назад
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 2 reviews
+- img "Fre photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Freddy 3 дня назад
+```
