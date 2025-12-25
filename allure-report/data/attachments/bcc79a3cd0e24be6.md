@@ -1,0 +1,1636 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- link "Arbofor - Leefdaal Gardens bv reviews":
+  - /url: https://maps.google.com/?cid=5730118402057329539
+  - img
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Aperte admitto saepe adimpleo civitas tabgo.
+  - paragraph:
+    - img
+    - text: Certus cometes advoco vitae desparatus.
+  - paragraph:
+    - img
+    - text: Suspendo usque solio denego abstergo umquam deleo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - button "Show more"
+  - img "review_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - button "Show more"
+  - img "review_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - button "Show more"
+  - img "review_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - button "Show more"
+  - img "review_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Aperte admitto saepe adimpleo civitas tabgo.
+  - paragraph:
+    - img
+    - text: Certus cometes advoco vitae desparatus.
+  - paragraph:
+    - img
+    - text: Suspendo usque solio denego abstergo umquam deleo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - button "Show more"
+  - img "review_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - button "Show more"
+  - img "review_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - button "Show more"
+  - img "review_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - button "Show more"
+  - img "review_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel 2 widget" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - img
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Aperte admitto saepe adimpleo civitas tabgo.
+  - paragraph:
+    - img
+    - text: Certus cometes advoco vitae desparatus.
+  - paragraph:
+    - img
+    - text: Suspendo usque solio denego abstergo umquam deleo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Aperte admitto saepe adimpleo civitas tabgo.
+  - paragraph:
+    - img
+    - text: Certus cometes advoco vitae desparatus.
+  - paragraph:
+    - img
+    - text: Suspendo usque solio denego abstergo umquam deleo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Aperte admitto saepe adimpleo civitas tabgo.
+  - paragraph:
+    - img
+    - text: Certus cometes advoco vitae desparatus.
+  - paragraph:
+    - img
+    - text: Suspendo usque solio denego abstergo umquam deleo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Aperte admitto saepe adimpleo civitas tabgo.
+  - paragraph:
+    - img
+    - text: Certus cometes advoco vitae desparatus.
+  - paragraph:
+    - img
+    - text: Suspendo usque solio denego abstergo umquam deleo.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - button "Show more"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - button "Show more"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - button "Show more"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - button "Show more"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Aperte admitto saepe adimpleo civitas tabgo.
+  - paragraph:
+    - img
+    - text: Certus cometes advoco vitae desparatus.
+  - paragraph:
+    - img
+    - text: Suspendo usque solio denego abstergo umquam deleo.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - img "review_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - img "review_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - img "review_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - img "review_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "Store locator widget without map" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img "Arbofor - Leefdaal Gardens bv"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5) Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Aperte admitto saepe adimpleo civitas tabgo.
+  - paragraph:
+    - img
+    - text: Certus cometes advoco vitae desparatus.
+  - paragraph:
+    - img
+    - text: Suspendo usque solio denego abstergo umquam deleo.
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - img "Maxwell_image"
+  - link "Maxwell review":
+    - /url: https://whopping-testing.name/
+    - text: Maxwell
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Maxwell-image"
+  - text: At amet alo tamen. Absum sursum clam saepe balbus. Cursim demergo itaque averto absens aegrotatio depereo acceptus calco atrocitas. Quo comedo voluptas patruus cohibeo urbanus decretum demoror admitto atqui. Velut unus soluta vilicus ater corrigo curiositas validus tredecim vespillo. Nulla articulus amplexus conor reiciendis adsuesco absque.
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - img "Gustave_image"
+  - link "Gustave review":
+    - /url: https://able-derby.net
+    - text: Gustave
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Gustave-image"
+  - text: Adimpleo defero vallum carmen aeternus cumque aspernatur commemoro. Vis vere cohors ambulo suus sol quaerat vorax. Sumo decimus commodi tum admiratio. Vesco thesaurus sordeo cubo deleniti exercitationem crepusculum vitae. Tricesimus animi truculenter asper utrum adnuo voluptas perspiciatis absens suus. Eveniet custodia consequatur correptius.
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - img "Alyce_image"
+  - link "Alyce review":
+    - /url: https://fixed-story.org
+    - text: Alyce
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Alyce-image"
+  - text: Basium commodo summopere crepusculum. Terminatio subvenio cogo crux tolero deprimo veritatis argumentum colo. Sono uredo bos ager vitiosus cauda cena. Cogo correptius charisma comitatus videlicet quas bellicus summopere. Cogito deprecator amplus reiciendis ustulo bardus curo. Vapulus cursus alioqui decens vinculum rerum carpo.
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - img "Ari_image"
+  - link "Ari review":
+    - /url: https://smug-markup.info/
+    - text: Ari
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Ari-image"
+  - text: Apparatus vulpes corona et. Sursum apto solum truculenter theologus adeptio umquam. Animadverto cupiditate laborum cedo tendo stips itaque deludo absorbeo talus. Auctor quod vulgaris dolor odio arceo tredecim placeat. Bestia cubicularis utpote adversus enim video turbo. Adfero cursim harum canonicus adsuesco ex triduana. Undique ventito defleo vero acer dignissimos delectus iusto calcar. Consuasor decerno carcer. Adimpleo dolore quibusdam vir amita cur desidero adhuc est voluptatem. Casus culpo dens spoliatio talus.
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - img "Obie_image"
+  - link "Obie review":
+    - /url: https://ruddy-window.com
+    - text: Obie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Obie-image"
+  - text: Conforto sulum tumultus deleniti ocer consectetur alo vulgo. Ocer subito terror abbas bonus deleo deputo nulla. Bellum nam tremo crustulum. Depulso currus conicio summa celebrer cito calculus. Eaque decet sit comptus. Depono aliquid ara texo. Contego numquam conturbo decimus suffragium undique stabilis vis derelinquo. Conor carcer advenio vacuus. Necessitatibus aliqua theologus quaerat asper vetus ago cunctatio alioqui.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "One line compact rating widget" [level=2]
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: (5)
+  - heading "Product page widget preview" [level=2]
+  - list "Slider":
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a stylized scene of trees, mountains, sky and a sun in red colours. The bottom view has blue wavy lines in the background with the text “Oxygen” in a stylized script typeface."
+      - heading "Oxygen Drift Snowboard" [level=3]:
+        - link "Oxygen Drift Snowboard":
+          - /url: /products/the-collection-snowboard-oxygen
+      - text: Regular price $1,025.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows stylized hydrogen bonds and the bottom view shows “H2” in a brush script typeface."
+      - heading "Hydrogen Pulse Snowboard" [level=3]:
+        - link "Hydrogen Pulse Snowboard":
+          - /url: /products/the-collection-snowboard-hydrogen
+      - text: Regular price $600.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows an illustration with varied outlined shapes in black. The bottom view shows a black box character with an H pointing, and surrounded by black outlined illustrative elements."
+      - heading "Aurora Flow Snowboard" [level=3]:
+        - link "Aurora Flow Snowboard":
+          - /url: /products/the-multi-managed-snowboard
+      - text: Regular price $629.95
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a pixelated Shopify bag logo and a pixelated character reviewing a clipboard with a questioning expression with a bright green-blue background. The bottom view is a pattern of many pixel characters with a bright green-blue background."
+      - heading "Pixel Crew Snowboard" [level=3]:
+        - link "Pixel Crew Snowboard":
+          - /url: /products/the-multi-location-snowboard
+      - text: Regular price $729.95
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2025,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Max photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Maxwell 3 дня назад
+- img "Gus photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Gustave 3 дня назад
+- img "Aly photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Alyce 3 дня назад
+- img "Ari photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Ari 3 дня назад
+- img "Obi photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Obie 3 дня назад
+```
