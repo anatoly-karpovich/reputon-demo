@@ -1,0 +1,1638 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- link "Arbofor - Leefdaal Gardens bv reviews":
+  - /url: https://maps.google.com/?cid=5730118402057329539
+  - img
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Provident censura talis theologus causa vir laudantium adsidue optio aegrus.
+  - paragraph:
+    - img
+    - text: Molestias tripudio conculco.
+  - paragraph:
+    - img
+    - text: Averto certus cito umerus porro in viduo corroboro cubitum ubi.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - button "Show more"
+  - img "review_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - button "Show more"
+  - img "review_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - button "Show more"
+  - img "review_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - button "Show more"
+  - img "review_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Provident censura talis theologus causa vir laudantium adsidue optio aegrus.
+  - paragraph:
+    - img
+    - text: Molestias tripudio conculco.
+  - paragraph:
+    - img
+    - text: Averto certus cito umerus porro in viduo corroboro cubitum ubi.
+  - button "Show more"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - button "Show more"
+  - img "review_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - button "Show more"
+  - img "review_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - button "Show more"
+  - img "review_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - button "Show more"
+  - img "review_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel 2 widget" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - img
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Provident censura talis theologus causa vir laudantium adsidue optio aegrus.
+  - paragraph:
+    - img
+    - text: Molestias tripudio conculco.
+  - paragraph:
+    - img
+    - text: Averto certus cito umerus porro in viduo corroboro cubitum ubi.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Provident censura talis theologus causa vir laudantium adsidue optio aegrus.
+  - paragraph:
+    - img
+    - text: Molestias tripudio conculco.
+  - paragraph:
+    - img
+    - text: Averto certus cito umerus porro in viduo corroboro cubitum ubi.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Provident censura talis theologus causa vir laudantium adsidue optio aegrus.
+  - paragraph:
+    - img
+    - text: Molestias tripudio conculco.
+  - paragraph:
+    - img
+    - text: Averto certus cito umerus porro in viduo corroboro cubitum ubi.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Provident censura talis theologus causa vir laudantium adsidue optio aegrus.
+  - paragraph:
+    - img
+    - text: Molestias tripudio conculco.
+  - paragraph:
+    - img
+    - text: Averto certus cito umerus porro in viduo corroboro cubitum ubi.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - button "Show more"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - button "Show more"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - button "Show more"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Provident censura talis theologus causa vir laudantium adsidue optio aegrus.
+  - paragraph:
+    - img
+    - text: Molestias tripudio conculco.
+  - paragraph:
+    - img
+    - text: Averto certus cito umerus porro in viduo corroboro cubitum ubi.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - img "review_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - img "review_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - img "review_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - img "review_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: 5 Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "Store locator widget without map" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img "Arbofor - Leefdaal Gardens bv"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: 5 Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Provident censura talis theologus causa vir laudantium adsidue optio aegrus.
+  - paragraph:
+    - img
+    - text: Molestias tripudio conculco.
+  - paragraph:
+    - img
+    - text: Averto certus cito umerus porro in viduo corroboro cubitum ubi.
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - img "Isabelle_image"
+  - link "Isabelle review":
+    - /url: https://corrupt-backburn.name/
+    - text: Isabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Isabelle-image"
+  - text: Cohibeo aro adduco bene depopulo taceo nam caste sui dedico. Molestiae amita ara repudiandae alioqui vir cinis barba aetas debeo. Desino acerbitas auxilium. Complectus antepono tamisium cotidie. Nisi supplanto amplus deprecator avarus umbra. Caput decens artificiose talus trans ascit aspernatur arceo sit. Abduco cumque traho triumphus. Patruus adfero astrum.
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - img "Kendra_image"
+  - link "Kendra review":
+    - /url: https://vain-poppy.biz
+    - text: Kendra
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Kendra-image"
+  - text: Thymum bardus conduco vulticulus verumtamen iure crepusculum sint capillus bardus. Usitas audentia solitudo repellendus sum caelum usitas tutis aperte confero. Censura textilis vulgaris accedo neque adaugeo corrigo adimpleo sunt. Amiculum acervus vester deorsum conculco acer pariatur. Abstergo concedo casso validus constans thymum acidus varius. Dicta causa autus bonus. Vinco veritatis ullam audax vacuus minima.
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - img "Sean_image"
+  - link "Sean review":
+    - /url: https://tiny-premier.biz/
+    - text: Sean
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Sean-image"
+  - text: Velum dapifer cui videlicet cultura vociferor tenax ulterius. Contego quam sodalitas admoneo color. Sponte vigilo approbo necessitatibus venustas ara valetudo defessus defluo. Amiculum porro talus calculus crux. Calcar curto cunabula comparo vel nihil.
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - img "Lorenza_image"
+  - link "Lorenza review":
+    - /url: https://gentle-descendant.info/
+    - text: Lorenza
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Lorenza-image"
+  - text: Carbo vulariter confido vel amor sit defessus despecto adsum. Ipsam terminatio quisquam ullam solum summopere ventus balbus. Tutamen utrum averto cresco aegrotatio utor. Tantillus terga volup ventito sulum thalassinus magni beatus. Aeger clibanus substantia spero supplanto.
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - img "Alice_image"
+  - link "Alice review":
+    - /url: https://honorable-grandpa.net/
+    - text: Alice
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Alice-image"
+  - text: Coepi vinculum arbor coniuratio cogito. Accusantium audax adflicto modi id coadunatio rerum perferendis. Currus cenaculum stipes velit sollers adopto aspicio delego. Casso fugit caritas vita abutor. Veniam abstergo condico apto cras. Cupiditas necessitatibus statim accedo deserunt cena. Spectaculum contigo perspiciatis uxor animi. Vociferor aedificium undique.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "One line compact rating widget" [level=2]
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: (5)
+  - heading "Product page widget preview" [level=2]
+  - list "Slider":
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a stylized scene of trees, mountains, sky and a sun in red colours. The bottom view has blue wavy lines in the background with the text “Oxygen” in a stylized script typeface."
+      - heading "Oxygen Drift Snowboard" [level=3]:
+        - link "Oxygen Drift Snowboard":
+          - /url: /products/the-collection-snowboard-oxygen
+      - text: Regular price $1,025.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows stylized hydrogen bonds and the bottom view shows “H2” in a brush script typeface."
+      - heading "Hydrogen Pulse Snowboard" [level=3]:
+        - link "Hydrogen Pulse Snowboard":
+          - /url: /products/the-collection-snowboard-hydrogen
+      - text: Regular price $600.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows an illustration with varied outlined shapes in black. The bottom view shows a black box character with an H pointing, and surrounded by black outlined illustrative elements."
+      - heading "Aurora Flow Snowboard" [level=3]:
+        - link "Aurora Flow Snowboard":
+          - /url: /products/the-multi-managed-snowboard
+      - text: Regular price $629.95
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a pixelated Shopify bag logo and a pixelated character reviewing a clipboard with a questioning expression with a bright green-blue background. The bottom view is a pattern of many pixel characters with a bright green-blue background."
+      - heading "Pixel Crew Snowboard" [level=3]:
+        - link "Pixel Crew Snowboard":
+          - /url: /products/the-multi-location-snowboard
+      - text: Regular price $729.95
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2026,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Isa photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Isabelle 3 дня назад
+- img "Ken photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Kendra 3 дня назад
+- img "Sea photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Sean 3 дня назад
+- img "Lor photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Lorenza 3 дня назад
+- img "Ali photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Alice 3 дня назад
+```
