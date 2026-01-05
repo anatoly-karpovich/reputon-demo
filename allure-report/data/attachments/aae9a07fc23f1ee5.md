@@ -1,0 +1,1636 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- link "Arbofor - Leefdaal Gardens bv reviews":
+  - /url: https://maps.google.com/?cid=5730118402057329539
+  - img
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Admitto sophismata vado angelus attero absum adulescens crebro deleo.
+  - paragraph:
+    - img
+    - text: Torrens damno sit cedo vinitor absque subnecto.
+  - paragraph:
+    - img
+    - text: Tenax inventore curvo arto consequuntur celer tamen curatio.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - button "Show more"
+  - img "review_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - button "Show more"
+  - img "review_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - button "Show more"
+  - img "review_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - button "Show more"
+  - img "review_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Admitto sophismata vado angelus attero absum adulescens crebro deleo.
+  - paragraph:
+    - img
+    - text: Torrens damno sit cedo vinitor absque subnecto.
+  - paragraph:
+    - img
+    - text: Tenax inventore curvo arto consequuntur celer tamen curatio.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - button "Show more"
+  - img "review_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - button "Show more"
+  - img "review_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - button "Show more"
+  - img "review_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - button "Show more"
+  - img "review_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel 2 widget" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - img
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Admitto sophismata vado angelus attero absum adulescens crebro deleo.
+  - paragraph:
+    - img
+    - text: Torrens damno sit cedo vinitor absque subnecto.
+  - paragraph:
+    - img
+    - text: Tenax inventore curvo arto consequuntur celer tamen curatio.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Admitto sophismata vado angelus attero absum adulescens crebro deleo.
+  - paragraph:
+    - img
+    - text: Torrens damno sit cedo vinitor absque subnecto.
+  - paragraph:
+    - img
+    - text: Tenax inventore curvo arto consequuntur celer tamen curatio.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Admitto sophismata vado angelus attero absum adulescens crebro deleo.
+  - paragraph:
+    - img
+    - text: Torrens damno sit cedo vinitor absque subnecto.
+  - paragraph:
+    - img
+    - text: Tenax inventore curvo arto consequuntur celer tamen curatio.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Admitto sophismata vado angelus attero absum adulescens crebro deleo.
+  - paragraph:
+    - img
+    - text: Torrens damno sit cedo vinitor absque subnecto.
+  - paragraph:
+    - img
+    - text: Tenax inventore curvo arto consequuntur celer tamen curatio.
+  - img "review_image"
+  - text: "+2"
+  - img "review_image"
+  - img "review_image"
+  - button "Show more"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - button "Show more"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - button "Show more"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - button "Show more"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - button "Show more"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - paragraph:
+    - img
+    - text: Admitto sophismata vado angelus attero absum adulescens crebro deleo.
+  - paragraph:
+    - img
+    - text: Torrens damno sit cedo vinitor absque subnecto.
+  - paragraph:
+    - img
+    - text: Tenax inventore curvo arto consequuntur celer tamen curatio.
+  - img "review_image"
+  - img "review_image"
+  - img "review_image"
+  - text: "+2"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - img "review_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - img "review_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - img "review_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - img "review_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: 5 Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "Store locator widget without map" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img "Arbofor - Leefdaal Gardens bv"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: 5 Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - text: AI AI Summary Based on 5 reviews
+  - img
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - img "Ai-image"
+  - paragraph:
+    - img
+    - text: Admitto sophismata vado angelus attero absum adulescens crebro deleo.
+  - paragraph:
+    - img
+    - text: Torrens damno sit cedo vinitor absque subnecto.
+  - paragraph:
+    - img
+    - text: Tenax inventore curvo arto consequuntur celer tamen curatio.
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - img "Dereck_image"
+  - link "Dereck review":
+    - /url: https://grim-devastation.biz/
+    - text: Dereck
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Dereck-image"
+  - text: Paens infit doloremque timor atrox excepturi beatus. Sollicito abscido cubicularis. Rerum asporto abundans placeat vitium. Deporto sponte ars. Unus vestrum textus. Tenetur cogo vivo deputo crepusculum. Deludo cras commodo vinco tollo praesentium. Desipio terga thalassinus. Solio patior tactus repellat.
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - img "Nelson_image"
+  - link "Nelson review":
+    - /url: https://irresponsible-napkin.biz
+    - text: Nelson
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Nelson-image"
+  - text: Capto comis commemoro rerum. Animus acceptus necessitatibus delectatio adsuesco compono. Vulpes cogito a ara abutor decimus deserunt quod bene. Caterva nisi ars cena taedium votum unde thema abbas totidem. Antea tyrannus combibo a. Aveho tristis deinde auctor spiculum baiulus. Strenuus ascisco demulceo aetas. Copia apparatus eum aggredior arbitro quod socius. Ullam voveo facilis perspiciatis. Velum creo sperno possimus.
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - img "Annabelle_image"
+  - link "Annabelle review":
+    - /url: https://powerful-designation.biz/
+    - text: Annabelle
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Annabelle-image"
+  - text: Ait velum voluptatibus. Error cupiditate maiores carus non pecco eveniet copia. Deprecator clibanus comedo provident patria alienus tenax carbo. Umquam vinitor terebro caelestis spes. Altus vulticulus acquiro. Crudelis cunctatio curso currus expedita supplanto unus aestus. Adinventitias appello umquam curso arbor cariosus conatus.
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - img "Brody_image"
+  - link "Brody review":
+    - /url: https://brisk-mathematics.org/
+    - text: Brody
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Brody-image"
+  - text: Addo tametsi desolo aspicio decimus aestus. Nobis vesica vae varius acies perspiciatis. Pecco verus dolores amor. Succedo territo approbo officiis a audentia omnis cubicularis vel. Vomito carpo audio copiose tui venustas taceo charisma contra. Auditor despecto nihil decimus vigilo curis quibusdam. Theca quidem corona unde auctor auctus crapula. Conventus voluptatibus aggero fuga constans tempore abstergo substantia curvo provident.
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - img "Maryse_image"
+  - link "Maryse review":
+    - /url: https://celebrated-trench.com/
+    - text: Maryse
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Maryse-image"
+  - text: Tripudio degusto adhaero animadverto vomica. Curtus ventus viridis acer tabula strues perferendis deripio. Tardus ara demens defleo. Adulatio accommodo bellum. Sto vero stillicidium atrox magni tergeo atqui. Officiis abundans ultio bonus talis cattus. Acquiro cursim admoveo.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "One line compact rating widget" [level=2]
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: (5)
+  - heading "Product page widget preview" [level=2]
+  - list "Slider":
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a stylized scene of trees, mountains, sky and a sun in red colours. The bottom view has blue wavy lines in the background with the text “Oxygen” in a stylized script typeface."
+      - heading "Oxygen Drift Snowboard" [level=3]:
+        - link "Oxygen Drift Snowboard":
+          - /url: /products/the-collection-snowboard-oxygen
+      - text: Regular price $1,025.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows stylized hydrogen bonds and the bottom view shows “H2” in a brush script typeface."
+      - heading "Hydrogen Pulse Snowboard" [level=3]:
+        - link "Hydrogen Pulse Snowboard":
+          - /url: /products/the-collection-snowboard-hydrogen
+      - text: Regular price $600.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows an illustration with varied outlined shapes in black. The bottom view shows a black box character with an H pointing, and surrounded by black outlined illustrative elements."
+      - heading "Aurora Flow Snowboard" [level=3]:
+        - link "Aurora Flow Snowboard":
+          - /url: /products/the-multi-managed-snowboard
+      - text: Regular price $629.95
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a pixelated Shopify bag logo and a pixelated character reviewing a clipboard with a questioning expression with a bright green-blue background. The bottom view is a pattern of many pixel characters with a bright green-blue background."
+      - heading "Pixel Crew Snowboard" [level=3]:
+        - link "Pixel Crew Snowboard":
+          - /url: /products/the-multi-location-snowboard
+      - text: Regular price $729.95
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2026,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Der photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Dereck 3 дня назад
+- img "Nel photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Nelson 3 дня назад
+- img "Ann photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Annabelle 3 дня назад
+- img "Bro photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Brody 3 дня назад
+- img "Mar photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Maryse 3 дня назад
+```
