@@ -1,0 +1,1512 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- link "Arbofor - Leefdaal Gardens bv reviews":
+  - /url: https://maps.google.com/?cid=5730118402057329539
+  - img
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - button "Show more"
+  - img "review_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - button "Show more"
+  - img "review_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - button "Show more"
+  - img "review_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - button "Show more"
+  - img "review_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - button "Show more"
+  - img "review_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - button "Show more"
+  - img "review_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - button "Show more"
+  - img "review_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - button "Show more"
+  - img "review_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel 2 widget" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - img
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - button "Show more"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - button "Show more"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - button "Show more"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - button "Show more"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - img "review_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - img "review_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - img "review_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - img "review_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: 5 Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "Store locator widget without map" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img "Arbofor - Leefdaal Gardens bv"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: 5 Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - img "Olga_image"
+  - link "Olga review":
+    - /url: https://crushing-other.net
+    - text: Olga
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Olga-image"
+  - text: Coma assumenda terebro comparo sortitus anser. Termes cultellus verumtamen admiratio itaque angustus infit incidunt. Stipes audeo consequatur amoveo consequatur doloribus. Studio aperio patria. Bis atque voluptatibus ratione colo. Cunctatio appositus decimus aer aestus thorax suffragium fugit bonus. Veritatis ullus aliqua qui textor degero. Itaque atrocitas avarus spectaculum comminor sublime earum debitis degero acervus.
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - img "Nola_image"
+  - link "Nola review":
+    - /url: https://unimportant-providence.net/
+    - text: Nola
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Nola-image"
+  - text: Arceo arca substantia voluptatibus admoneo. Denego alius demens adduco suffragium deputo apparatus vehemens caries. Corrumpo verecundia depraedor complectus tres dolore traho tubineus vir caecus. Theatrum acervus admiratio collum vis acquiro. Conitor asporto depereo defessus cupressus possimus titulus quae vulgaris. Virgo clam autus trado arguo accusamus cenaculum viscus utilis.
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - img "Dixie_image"
+  - link "Dixie review":
+    - /url: https://left-haversack.org
+    - text: Dixie
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Dixie-image"
+  - text: Talio conor cohaero audax umerus crudelis earum talus vomito cometes. Demonstro ventosus quisquam vulpes approbo. Confugo quia abundans ut vilicus tandem aetas ubi varietas defero. Veritatis adulatio incidunt dolores deputo. Constans asper amitto.
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - img "Jonathan_image"
+  - link "Jonathan review":
+    - /url: https://advanced-adviser.net/
+    - text: Jonathan
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Jonathan-image"
+  - text: Trado defero sunt voro studio super textor pauci statua. Vespillo coaegresco toties. Anser comis occaecati. Adulatio fugit aqua sub vos coadunatio vere arbustum. Traho tabella advoco bellum demens sub synagoga sufficio aegrotatio dedico. Sapiente corrupti caelum vigor absconditus capitulus. Artificiose cui amissio ab dolorum. Defaeco spes verbera theatrum.
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - img "Beryl_image"
+  - link "Beryl review":
+    - /url: https://well-groomed-sushi.net
+    - text: Beryl
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Beryl-image"
+  - text: Testimonium deorsum acidus corrumpo. Absum demum summa vere occaecati capillus canonicus maxime subnecto vitae. Somniculosus attonbitus praesentium cervus ambulo cenaculum campana sortitus. Aegre conscendo crux quasi corporis nam. Cavus coerceo angulus demitto vapulus inflammatio cattus. Nulla benigne utroque claro ante tollo victoria temeritas. Denique delibero acervus alo suppono. Quam vero accendo adimpleo angustus contego annus considero. Adstringo deorsum astrum statua thalassinus usque.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "One line compact rating widget" [level=2]
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: (5)
+  - heading "Product page widget preview" [level=2]
+  - list "Slider":
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a stylized scene of trees, mountains, sky and a sun in red colours. The bottom view has blue wavy lines in the background with the text “Oxygen” in a stylized script typeface."
+      - heading "Oxygen Drift Snowboard" [level=3]:
+        - link "Oxygen Drift Snowboard":
+          - /url: /products/the-collection-snowboard-oxygen
+      - text: Regular price $1,025.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows stylized hydrogen bonds and the bottom view shows “H2” in a brush script typeface."
+      - heading "Hydrogen Pulse Snowboard" [level=3]:
+        - link "Hydrogen Pulse Snowboard":
+          - /url: /products/the-collection-snowboard-hydrogen
+      - text: Regular price $600.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows an illustration with varied outlined shapes in black. The bottom view shows a black box character with an H pointing, and surrounded by black outlined illustrative elements."
+      - heading "Aurora Flow Snowboard" [level=3]:
+        - link "Aurora Flow Snowboard":
+          - /url: /products/the-multi-managed-snowboard
+      - text: Regular price $629.95
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a pixelated Shopify bag logo and a pixelated character reviewing a clipboard with a questioning expression with a bright green-blue background. The bottom view is a pattern of many pixel characters with a bright green-blue background."
+      - heading "Pixel Crew Snowboard" [level=3]:
+        - link "Pixel Crew Snowboard":
+          - /url: /products/the-multi-location-snowboard
+      - text: Regular price $729.95
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2026,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Olg photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Olga 3 дня назад
+- img "Nol photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Nola 3 дня назад
+- img "Dix photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Dixie 3 дня назад
+- img "Jon photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Jonathan 3 дня назад
+- img "Ber photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Beryl 3 дня назад
+```
