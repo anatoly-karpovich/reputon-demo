@@ -1,0 +1,1512 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#MainContent"
+- link "Arbofor - Leefdaal Gardens bv reviews":
+  - /url: https://maps.google.com/?cid=5730118402057329539
+  - img
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (5)
+- banner:
+  - heading "Google Reviews by Reputon Demo Store – Shopify App" [level=1]:
+    - link "Google Reviews by Reputon Demo Store – Shopify App":
+      - /url: /
+  - group:
+    - button "Search":
+      - img
+  - link "Cart":
+    - /url: /cart
+    - img
+    - text: Cart
+- main:
+  - heading "Carousel widget" [level=2]
+  - paragraph: A sleek, modern slider that fits any store layout. Customize every detail — theme, photo size, scroll behavior, and more — to match your brand perfectly. Effortlessly highlight your best reviews and boost customer trust in one smooth motion.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - button "Show more"
+  - img "review_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - button "Show more"
+  - img "review_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - button "Show more"
+  - img "review_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - button "Show more"
+  - img "review_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel widget with medium photos" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - button "Show more"
+  - img "review_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - button "Show more"
+  - img "review_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - button "Show more"
+  - img "review_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - button "Show more"
+  - img "review_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - button "Show more"
+  - img "review_image"
+  - img
+  - heading "Carousel 2 widget" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - img
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - img
+  - heading "Dual row carousel" [level=2]
+  - paragraph: A compact, high-density layout that displays more reviews at once. Ideal for visually rich stores, this two-row format keeps your page dynamic without overwhelming the design. Customize theme, image size, borders, and layout height with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - heading "Grid widget" [level=2]
+  - paragraph: A clean, structured layout that displays multiple reviews side by side. Perfect for product pages or testimonials sections, this grid lets you show rich content with minimal space. Customize theme, photo size, and visibility options to suit your design.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - button "Show more"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - button "Show more"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - button "Show more"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - button "Show more"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - button "Show more"
+  - heading "Masonry widget" [level=2]
+  - paragraph: A dynamic grid that adapts to content length for a modern, Pinterest-style layout. Perfect for showcasing reviews with photos and long-form feedback, this widget keeps your page fluid and engaging. Customize theme, image size, and visibility settings with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - img "review_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - img "review_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - img "review_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - img "review_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - img "review_image"
+  - heading "Store locator widget" [level=2]
+  - paragraph: Display key business info and reviews for all your locations in one elegant layout. Perfect for multi-location stores, this widget shows address, hours, contact details, and Google ratings — with optional photos to enhance visual appeal. Choose your theme and layout with just a few clicks.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - iframe
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: 5 Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "Store locator widget without map" [level=2]
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - img "Arbofor - Leefdaal Gardens bv"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+  - text: "5.0"
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: 5 Show reviews
+  - img
+  - link "+32485502746":
+    - /url: tel:+32485502746
+    - img
+    - text: "+32485502746"
+  - link "Arbofor - Leefdaal Gardens bv":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Tervuursesteenweg 676, 3061 Bertem, Бельгия
+  - heading "List widget" [level=2]
+  - paragraph: A clean vertical layout designed for maximum readability and trust. Perfect for long-form reviews and AI-generated summaries, this widget puts the spotlight on authentic customer experiences. Add photos, enable the “leave a review” button, and match the style to your store’s theme with ease.
+  - text: "View:"
+  - button "Desktop":
+    - img
+    - text: Desktop
+  - button "Mobile":
+    - img
+    - text: Mobile
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img "header_image"
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: Arbofor - Leefdaal Gardens bv
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: 5 reviews on
+  - img
+  - link "Leave a Review":
+    - /url: https://search.google.com/local/writereview?placeid=ChIJ-fnoJirfw0cRg1uOw1N4hU8
+    - button "Leave a Review"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - img "Thalia_image"
+  - link "Thalia review":
+    - /url: https://chubby-armoire.com/
+    - text: Thalia
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Thalia-image"
+  - text: Attero degusto truculenter. Arma pariatur subito repellendus adsum degenero aegre aequitas talio. Benevolentia supellex vulnus celebrer. Celer currus caelum defluo beatus tergum adulatio caelestis vero. Utor sunt audax calamitas tricesimus perspiciatis crinis. Non adhaero adeo ducimus articulus vorax vix vesper. Comburo asperiores talio. Clementia anser cervus claro trado trado audeo. Vado tardus acerbitas constans credo uter. Quis atrocitas numquam.
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - img "Roberta_image"
+  - link "Roberta review":
+    - /url: https://devoted-dream.name/
+    - text: Roberta
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Roberta-image"
+  - text: Adficio aegrotatio carpo adaugeo. Dicta crudelis venustas soleo. Sodalitas coerceo magnam abbas caelestis facilis creo utpote amo. Decimus atavus apud placeat. Ventus ater tego amor avaritia earum quam. Tero atrox supplanto. Demonstro callide vitae templum vorax.
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - img "Juvenal_image"
+  - link "Juvenal review":
+    - /url: https://close-pomelo.org
+    - text: Juvenal
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Juvenal-image"
+  - text: Acervus constans omnis culpa adsidue ante spero caritas turba voluptates. Alius cura adfero arcesso caries. Cui careo tendo. Calculus voluntarius benevolentia adaugeo carmen labore spiculum. Deripio defaeco magnam. Bene supellex ultra tolero. Aestivus ultra amo repellat strenuus thymum quod tamisium. Angulus vulgo suffragium vicissitudo teneo ocer. Utrimque amita decens deludo. Attero animus quasi cavus usque.
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - img "Trent_image"
+  - link "Trent review":
+    - /url: https://genuine-tenement.name/
+    - text: Trent
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Trent-image"
+  - text: Explicabo aureus asper demum coepi caelestis. Tristis velociter temporibus. Uterque tametsi cavus sollicito sursum altus adulescens solum. Ustilo demens atque tergeo cogito. Victoria iure absens tepesco architecto careo sollers. Cetera communis apostolus demoror acceptus bellicus caveo theologus expedita conitor. Verto talus debeo valde.
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - img "Lonny_image"
+  - link "Lonny review":
+    - /url: https://majestic-suspension.biz/
+    - text: Lonny
+  - text: 3 дня назад
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img "Lonny-image"
+  - text: Thema tempore triumphus decet cui demonstro sodalitas. Tum atqui volva vacuus tamisium aeneus absque cerno. Vociferor aurum officia sol caveo viduo quaerat carbo delectus crepusculum. Antea venia vaco theologus depereo. Comitatus adeo civis desino celer aestivus cruciamentum pel nostrum anser.
+  - heading "Compact rating widget" [level=2]
+  - paragraph: A sleek Google trust badge that highlights your average rating and total reviews at a glance. Great for boosting credibility on product pages, checkout, or footers — without distracting from your design. Instantly builds trust and authority where it matters most.
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: Arbofor - Leefdaal Gardens bv 5.0
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: 5 reviews
+  - heading "One line compact rating widget" [level=2]
+  - link "Arbofor - Leefdaal Gardens bv reviews":
+    - /url: https://maps.google.com/?cid=5730118402057329539
+    - img
+    - text: "5.0"
+    - img
+    - img
+    - img
+    - img
+    - img
+    - text: (5)
+  - heading "Product page widget preview" [level=2]
+  - list "Slider":
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a stylized scene of trees, mountains, sky and a sun in red colours. The bottom view has blue wavy lines in the background with the text “Oxygen” in a stylized script typeface."
+      - heading "Oxygen Drift Snowboard" [level=3]:
+        - link "Oxygen Drift Snowboard":
+          - /url: /products/the-collection-snowboard-oxygen
+      - text: Regular price $1,025.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows stylized hydrogen bonds and the bottom view shows “H2” in a brush script typeface."
+      - heading "Hydrogen Pulse Snowboard" [level=3]:
+        - link "Hydrogen Pulse Snowboard":
+          - /url: /products/the-collection-snowboard-hydrogen
+      - text: Regular price $600.00
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows an illustration with varied outlined shapes in black. The bottom view shows a black box character with an H pointing, and surrounded by black outlined illustrative elements."
+      - heading "Aurora Flow Snowboard" [level=3]:
+        - link "Aurora Flow Snowboard":
+          - /url: /products/the-multi-managed-snowboard
+      - text: Regular price $629.95
+    - listitem:
+      - img "Top and bottom view of a snowboard. The top view shows a pixelated Shopify bag logo and a pixelated character reviewing a clipboard with a questioning expression with a bright green-blue background. The bottom view is a pattern of many pixel characters with a bright green-blue background."
+      - heading "Pixel Crew Snowboard" [level=3]:
+        - link "Pixel Crew Snowboard":
+          - /url: /products/the-multi-location-snowboard
+      - text: Regular price $729.95
+  - heading "The most powerful Google reviews widget" [level=2]
+  - paragraph: Showcase real customer reviews with a best-in-class widget tailored for Shopify. Enjoy unlimited customization options to match your brand, layout, and business needs. Take full control of how trust is displayed in your store.
+  - link "Install app":
+    - /url: https://apps.shopify.com/google-reviews-trust-badge
+- contentinfo:
+  - text: © 2026,
+  - link "Google Reviews by Reputon Demo Store – Shopify App":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+- button "✕"
+- img
+- text: Arbofor - Leefdaal Gardens bv 5.0
+- img
+- img
+- img
+- img
+- img
+- text: 5 reviews
+- img "Tha photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Thalia 3 дня назад
+- img "Rob photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Roberta 3 дня назад
+- img "Juv photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Juvenal 3 дня назад
+- img "Tre photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Trent 3 дня назад
+- img "Lon photo"
+- img
+- img
+- img
+- img
+- img
+- text: 5 Star Ratingby Lonny 3 дня назад
+```
